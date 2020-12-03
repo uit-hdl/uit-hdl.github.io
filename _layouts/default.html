@@ -40,9 +40,9 @@
         </ul>
         {% endif %}
         -->
-        {% for page in site.pages %}
+        {% for page in site.html_pages %}
 
-                <p class="view"><a href="{{ page.url }}">{{ page.title }}</a></p>
+                <p class="view"><a href="{{ page.url }}"><!--{{ page.title }}--> {{ page.url }}</a></p>
 
         {% endfor %}  <!-- page -->
 
