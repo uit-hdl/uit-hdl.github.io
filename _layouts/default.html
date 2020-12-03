@@ -40,15 +40,12 @@
         </ul>
         {% endif %}
         -->
-      <p class="view">
-      <ul>
         {% for page in site.pages %}
 
-                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                <p class="view"><a href="{{ page.url }}">{{ page.title }}</a></p>
 
         {% endfor %}  <!-- page -->
-      </ul>
-        </p>
+
 
       </header>
       <section>
