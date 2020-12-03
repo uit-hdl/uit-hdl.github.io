@@ -15,5 +15,6 @@ include:
   
 title: Health Data Lab
 description: internet web site for HDL
+logo: UiT_Segl_Eng_Bla_960px.png
 
 theme: jekyll-theme-minimal
