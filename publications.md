@@ -1,50 +1,29 @@
 # Journal, conference, book, and workshop papers
-1. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in Advancing systems epidemiology in cancer. 2021.
-2. Jo Inge Arnes, Lars Ailo Bongo. Beauty of complex designs. To appear in Advancing systems epidemiology in cancer. 2021.
-3. Einar. To appear in Advancing systems epidemiology in cancer. 2021.
-4. Tengel Ekrem Skar, Einar Holsbø, Kristian Svendsen, Lars Ailo Bongo. [Interactive exploration of population scale pharmacoepidemiology datasets](https://arxiv.org/abs/2005.09890), in Proc. of the 11th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics, 2020.
-5. Einar Holsbø, Karina Standahl Olsen. [Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort. Frontiers in oncology](). 2020 Oct 15;10:2277.
-6. Holsbø, E., Perduca, V., Bongo, L. A., Lund, E., & Birmelé, E. (2020). Predicting breast cancer metastasis from whole-blood transcriptomic measurements. BMC Research Notes, 13(1), 1-5.
-7. Mike Voets, Kajsa Møllersen, Lars Ailo Bongo. [Reproduction study using public data of: Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0217541). PLoS ONE 14(6): e0217541.
+1. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in *Advancing systems epidemiology in cancer*. 2021.
+2. Jo Inge Arnes, Lars Ailo Bongo. Beauty of complex designs. To appear in *Advancing systems epidemiology in cancer*. 2021.
+3. Einar. To appear in *Advancing systems epidemiology in cancer*. 2021.
+4. Tengel Ekrem Skar, Einar Holsbø, Kristian Svendsen, Lars Ailo Bongo. [Interactive exploration of population scale pharmacoepidemiology datasets](https://arxiv.org/abs/2005.09890), in *Proc. of the 11th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics*, Virtual Event. 2020.
+5. Einar Holsbø, Karina Standahl Olsen. [Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort](). *Frontiers in oncology*. 2020 Oct 15;10:2277.
+6. Holsbø, E., Perduca, V., Bongo, L. A., Lund, E., & Birmelé, E. (2020). Predicting breast cancer metastasis from whole-blood transcriptomic measurements. *BMC Research Notes*, 13(1), 1-5.
+7. Mike Voets, Kajsa Møllersen, Lars Ailo Bongo. [Reproduction study using public data of: Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0217541). *PLoS ONE* 14(6): e0217541.
 8. Dong, C, Metzger, M, Holsbø, E, Perduca, V, Carbonnel, F. Systematic review with meta‐analysis: mortality in acute severe ulcerative colitis. Aliment Pharmacol Ther. 2019; 00: 1– 27.
-9. Cristina Jácome, Johan Ravn, Einar Holsbø, Juan Carlos Aviles-Solis, Hasse Melbye, Lars Ailo Bongo. [Convolutional neural network for breathing phase detection in lung sounds](https://www.mdpi.com/1424-8220/19/8/1798). Sensors (Basel). 2019 Apr 15;19(8).
-10. Bjørn Fjukstad, Nina Angelvik, Morten Grønnesby, Maria Wulff Hauglann, Hedinn Gunhildrud, Fredrik Høisæther Rasch, Julianne Iversen, Margaret Dalseng, Lars Ailo Bongo. [Teaching Electronics and Programming in Norwegian Schools Using the air:bit Sensor Kit](https://arxiv.org/abs/1901.05240). In Proceedings of the 2019 ACM Conference on Innovation and Technology in Computer Science Education. July 2019. Pages 374–380. https://doi.org/10.1145/3304221.3325527
-11. Jo Inge Arne, Randi Karlsen. [Cloudless Friend-to-Friend Middleware for Smartphones](https://arxiv.org/abs/2001.05276). Communications in Computer and Information Science, vol 1118. Springer, Cham. 2018.
-12. Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo. [Reproducible Data Analysis Pipelines for Precision Medicine](https://www.biorxiv.org/content/early/2018/06/25/354811). In Proceedings of the 27th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing. 2019.
-13. Einar Holsbø, Vittorio Perduca. [Shrinkage  estimation  of  rate statistics](csbigs.fr/article/view/688/727). Case Studies in Business, Industry and Government Statistics. 2018; Volum 71.
-14. Kidane M. Tekle1, Sveinung Gundersen, Kjetil Klepper, Lars Ailo Bongo, Inge Alexander Raknes, Xiaxi Li, Wei Zhang, Christian Andreetta, Teshome Dagne Mulugeta, Matúš Kalaš, Morten B. Rye, Erik Hjerde, Jeevan Karloss Antony Samy, Ghislain Fornous, Abdulrahman Azab, Dag Inge Våge, Eivind Hovig, Nils Peder Willassen, Finn Drabløs, Ståle Nygård, Kjell Petersen, Inge Jonassen. [Norwegian e-Infrastructure for Life Sciences (NeLS)](https://f1000research.com/articles/7-968/v1). F1000Research 2018, 7(ELIXIR):968 (doi: 10.12688/f1000research.15119.1).
-15. Yury Kiselev, Sigve Andersen, Charles Johannessen, Bjørn Fjukstad, Karina Standahl Olsen, Helge Stenvold, Samer Al-Saad, Tom Donnem, Elin Richardsen, Roy M. Bremnes & Lill-Tove Rasmussen Busund. [Transcription factor pax6 as a novel prognostic factor and putative tumour suppressor in non-small cell lung cancer](https://www.nature.com/articles/s41598-018-23417-z). Scientific reports, vol. 8, no. 1, p. 5059, 2018
-16. Inge Alexander Raknes, Lars Ailo Bongo. [META-pipe Authorization service](https://f1000research.com/articles/7-32/v2). F1000Research 2018, 7(ELIXIR):32 (doi: 10.12688/f1000research.13256.2).
-17. Bjørn Fjukstad, Nina Angelvik, Maria Wulff Hauglann, Joachim Sveia Knutsen, Morten Grønnesby, Hedinn Gunhildrud, Lars Ailo Bongo. [Low-Cost Programmable Air Quality Sensor Kits in Science Education](). In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18). ACM, New York, NY, USA, 227-232. 2018.
-				
-				
-				</li>
-				<li>
-					Aleksandr Agafonov, Kimmo Mattila, Cuong Duong Tuan, Lars Tiede, Inge Alexander Raknes, Lars Ailo Bongo.
-					<a href="https://f1000research.com/articles/6-2060/v2">META-pipe cloud setup and execution</a> [version 2; referees: 1 approved, 1 approved with reservations].
-					F1000Research 2017, 6(ELIXIR):2060(doi: 10.12688/f1000research.13204.1).
-				</li>
-				<li>
-					Inge Alexander Raknes, Bjørn Fjukstad, Lars Ailo Bongo. 
-					<a href="http://ojs.bibsys.no/index.php/NIK/article/view/432">nsroot: Minimalist Process Isolation Tool Implemented With Linux Namespaces</a>. 
-					in Proceedings of NIK 2017.
-				</li>
-				<li>
-					Bjørn Fjukstad, Lars Ailo Bongo.
-					<a href="https://doi.org/10.1007/s41019-017-0047-z">A review of scalable bioinformatics pipelines</a>.
-					Data Science and Engineering, 2(3), 2017
-				</li>
-				<li>
-					Vanessa Dumeaux, Bjørn Fjukstad, Hans E. Fjosne, Jan-Ole Frantzen, Marit Muri Holmen, Enno Rodegerdts,
-					Ellen Schlichting, Anne-Lise Børresen-Dale, Lars Ailo Bongo, Eiliv Lund, Michael Hallett.
-					<a href="https://doi.org/10.1371/journal.pcbi.1005680">Interactions between the tumor and the blood systemic response of breast cancer patients.</a>
-					PLoS Computational Biology, 13(9), 2017.
-				</li>
-				<li>
-                  Bjørn Fjukstad, Vanessa Dumeaux, Karina Standahl Olsen, Michael Hallett, Eiliv Lund, Lars Ailo Bongo. 
-                  <a href="http://www.biorxiv.org/content/biorxiv/early/2017/05/24/141630">Building applications for interactive data exploration in systems biology</a>. 
-                  <i>in Proc. of the 8th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics</i>. Pp 556-561. 2017.
-                </li>				
+9. Cristina Jácome, Johan Ravn, Einar Holsbø, Juan Carlos Aviles-Solis, Hasse Melbye, Lars Ailo Bongo. [Convolutional neural network for breathing phase detection in lung sounds](https://www.mdpi.com/1424-8220/19/8/1798). *Sensors* (Basel). 2019 Apr 15;19(8).
+10. Bjørn Fjukstad, Nina Angelvik, Morten Grønnesby, Maria Wulff Hauglann, Hedinn Gunhildrud, Fredrik Høisæther Rasch, Julianne Iversen, Margaret Dalseng, Lars Ailo Bongo. [Teaching Electronics and Programming in Norwegian Schools Using the air:bit Sensor Kit](https://arxiv.org/abs/1901.05240). In *Proceedings of the 2019 ACM Conference on Innovation and Technology in Computer Science Education*. July 2019. Pages 374–380. https://doi.org/10.1145/3304221.3325527
+11. Jo Inge Arne, Randi Karlsen. [Cloudless Friend-to-Friend Middleware for Smartphones](https://arxiv.org/abs/2001.05276). *Communications in Computer and Information Science*, vol 1118. Springer, Cham. 2018.
+12. Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo. [Reproducible Data Analysis Pipelines for Precision Medicine](https://www.biorxiv.org/content/early/2018/06/25/354811). In *Proceedings of the 27th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing*. 2019.
+13. Einar Holsbø, Vittorio Perduca. [Shrinkage  estimation  of  rate statistics](csbigs.fr/article/view/688/727). *Case Studies in Business, Industry and Government Statistics*. 2018; Volum 71.
+14. Kidane M. Tekle1, Sveinung Gundersen, Kjetil Klepper, Lars Ailo Bongo, Inge Alexander Raknes, Xiaxi Li, Wei Zhang, Christian Andreetta, Teshome Dagne Mulugeta, Matúš Kalaš, Morten B. Rye, Erik Hjerde, Jeevan Karloss Antony Samy, Ghislain Fornous, Abdulrahman Azab, Dag Inge Våge, Eivind Hovig, Nils Peder Willassen, Finn Drabløs, Ståle Nygård, Kjell Petersen, Inge Jonassen. [Norwegian e-Infrastructure for Life Sciences (NeLS)](https://f1000research.com/articles/7-968/v1). *F1000Research* 2018, 7(ELIXIR):968 (doi: 10.12688/f1000research.15119.1).
+15. Yury Kiselev, Sigve Andersen, Charles Johannessen, Bjørn Fjukstad, Karina Standahl Olsen, Helge Stenvold, Samer Al-Saad, Tom Donnem, Elin Richardsen, Roy M. Bremnes & Lill-Tove Rasmussen Busund. [Transcription factor pax6 as a novel prognostic factor and putative tumour suppressor in non-small cell lung cancer](https://www.nature.com/articles/s41598-018-23417-z). *Scientific reports*, vol. 8, no. 1, p. 5059, 2018
+16. Inge Alexander Raknes, Lars Ailo Bongo. [META-pipe Authorization service](https://f1000research.com/articles/7-32/v2). *F1000Research 2018*, 7(ELIXIR):32 (doi: 10.12688/f1000research.13256.2).
+17. Bjørn Fjukstad, Nina Angelvik, Maria Wulff Hauglann, Joachim Sveia Knutsen, Morten Grønnesby, Hedinn Gunhildrud, Lars Ailo Bongo. Low-Cost Programmable Air Quality Sensor Kits in Science Education. In *Proceedings of the 49th ACM Technical Symposium on Computer Science Education* (SIGCSE '18). ACM, New York, NY, USA, 227-232. 2018.
+18. Aleksandr Agafonov, Kimmo Mattila, Cuong Duong Tuan, Lars Tiede, Inge Alexander Raknes, Lars Ailo Bongo. [META-pipe cloud setup and execution](https://f1000research.com/articles/6-2060/v2). *F1000Research* 2017, 6(ELIXIR):2060(doi: 10.12688/f1000research.13204.1).
+19. Inge Alexander Raknes, Bjørn Fjukstad, Lars Ailo Bongo. [nsroot: Minimalist Process Isolation Tool Implemented With Linux Namespaces](http://ojs.bibsys.no/index.php/NIK/article/view/432). In *Proceedings of NIK 2017*.
+20. Bjørn Fjukstad, Lars Ailo Bongo. [A review of scalable bioinformatics pipelines](https://doi.org/10.1007/s41019-017-0047-z). *Data Science and Engineering*, 2(3), 2017
+21. Vanessa Dumeaux, Bjørn Fjukstad, Hans E. Fjosne, Jan-Ole Frantzen, Marit Muri Holmen, Enno Rodegerdts, Ellen Schlichting, Anne-Lise Børresen-Dale, Lars Ailo Bongo, Eiliv Lund, Michael Hallett. [Interactions between the tumor and the blood systemic response of breast cancer patients](https://doi.org/10.1371/journal.pcbi.1005680). *PLoS Computational Biology*, 13(9), 2017.
+22. Bjørn Fjukstad, Vanessa Dumeaux, Karina Standahl Olsen, Michael Hallett, Eiliv Lund, Lars Ailo Bongo. [Building applications for interactive data exploration in systems biology] (http://www.biorxiv.org/content/biorxiv/early/2017/05/24/141630). in *Proc. of the 8th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics*. Pp 556-561. 2017.
+                
+		
+		</li>				
 				<li>
 					Petra ten Hoopen P, Robert D. Finn, Lars Ailo Bongo, Erwan Corre, Bruno Fosso, Folker Meyer, Alex Mitchell, Eric Pelletier, Graziano Pesole, Monica Santamaria, Nils Peder Willassen, and Guy Cochrane. 
 					<a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/gix047/3869082/The-metagenomic-data-life-cycle-standards-and-best">The metagenomics data life-cycle: standards and best practices</a>. 
