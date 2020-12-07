@@ -65,23 +65,22 @@ The lab currently consist of:
 | Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 
 Former lab members are:
-|                    |                               |                  |              |
-|--------------------|-------------------------------|------------------|--------------|
-| Tengel Ekrem Skar  |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](). [Source code]() |
-| Mayeul Marcadella  | Technical staff               | ELIXIR |
-| Aleksandr Agafonov | Technical staff               | ELIXIR |
-| Dr. Bjørn Fjukstad | PhD student, 2018, CS, UiT     | Thesis: [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](). Source code for [Kvik]() and [walrus]() |
-| Tim Alexander Teige | Master student, 2018, CS, UiT | Thesis: [Auto scaling framework, simulator, and algorithms for the META-pipe backend and Source code](). [Source code]() |
-| Nina Angelvik       | Master student, 2018, CS, UiT | Thesis: [Data management platform for citizen science education projects](). Source code: [Backend]() and [Frontend]() |
-| Mike Voets          | Master student, 2018, CS, UiT | Thesis: [Deep Learning: From Data Extraction to Large-Scale Analysis](). Source code: [replication study]() and [DICOM anonymizer]() |
-| Inge Alexander Raknes | Technical staff            | ELIXIR |
+|--------------------|----------------------------------|------------------|--------------|
+| Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
+| Mayeul Marcadella    | Technical staff                | ELIXIR |
+| Aleksandr Agafonov   | Technical staff                | ELIXIR |
+| Dr. Bjørn Fjukstad   | PhD student, 2018, CS, UiT     | Thesis: [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](https://munin.uit.no/handle/10037/14576). Source code for [Kvik](https://github.com/fjukstad/kvik) and [walrus](https://github.com/fjukstad/walrus) |
+| Tim Alexander Teige   | Master student, 2018, CS, UiT | Thesis: [Auto scaling framework, simulator, and algorithms for the META-pipe backend and Source code](https://munin.uit.no/handle/10037/12898). [Source code](https://github.com/TTeige/uit-go) |
+| Nina Angelvik         | Master student, 2018, CS, UiT | Thesis: [Data management platform for citizen science education projects](https://munin.uit.no/handle/10037/12893). Source code: [Backend](http://hdl.cs.uit.no/github.com/fjukstad/luft) and [Frontend](http://hdl.cs.uit.no/github.com/ninaangelvik/luft) |
+| Mike Voets            | Master student, 2018, CS, UiT | Thesis: [Deep Learning: From Data Extraction to Large-Scale Analysis](https://munin.uit.no/handle/10037/12808). Source code: [replication study](https://github.com/mikevoets/jama16-retina-replication) and [DICOM anonymizer](https://github.com/mikevoets/dicom_anonymizer) |
+| Inge Alexander Raknes | Technical staff               | ELIXIR |
 | Johan Ravn            | Master student, 2017, CS, UiT | Thesis: Detection of Wheezes and Breathing Phases using Deep Convolutional Neural Networks |
 | Dr. Giacomo Tartari   | Technical staff               | ELIXIR |
 | Frode Opdahl          | Master student, 2016, CS, UiT | Project: Virtual reality |
-| Jarl Fagerli          | Master student, 2015, CS, UiT | Thesis: [COMBUST I/O. Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark](). [Source code]() |
-| Kenneth Knudsen       | Master student, 2015, CS, UIT | Thesis: [Freia: Exploring Biological Pathways Using Unity3D](). [Source Code](). [Demo]()) |
-| Ove Kåven             | Master student, 2015, CS, UiT | Thesis: [Multiparadigm Optimizing Retargetable Transdisciplinary Abstraction Language]. [Source code]() |
+| Jarl Fagerli          | Master student, 2015, CS, UiT | Thesis: [COMBUST I/O. Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark](http://munin.uit.no/handle/10037/9361). [Source code](https://github.com/jarlebass/combustio) |
+| Kenneth Knudsen       | Master student, 2015, CS, UIT | Thesis: [Freia: Exploring Biological Pathways Using Unity3D](http://munin.uit.no/handle/10037/8327). [Source Code](https://github.com/knudah/freia). [Demo](http://youtu.be/22XmfSYOwO8)) |
+| Ove Kåven             | Master student, 2015, CS, UiT | Thesis: [Multiparadigm Optimizing Retargetable Transdisciplinary Abstraction Language](http://munin.uit.no/handle/10037/7730). [Source code](http://sourceforge.net/projects/mortal/) |
 | Ida Jaklin Johansen   | Technical staff               | ELIXIR |
-| Martin Ernstsen       | Master student, 2013, CS, UiT | Thesis: [Mario - A system for iterative and interactive processing of biological data](). [Source code]() |
-| Terje André Johansen  | Master student, 2011, CS, UiT | Thesis: [A scalable, interactive widget library for visualizing biological data] |
+| Martin Ernstsen       | Master student, 2013, CS, UiT | Thesis: [Mario - A system for iterative and interactive processing of biological data](http://munin.uit.no/handle/10037/5762). [Source code](http://hdl.cs.uit.no/software.html) |
+| Terje André Johansen  | Master student, 2011, CS, UiT | Thesis: [A scalable, interactive widget library for visualizing biological data](http://munin.uit.no/handle/10037/3523) |
 
