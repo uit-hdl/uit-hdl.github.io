@@ -1,3 +1,7 @@
+---
+title: Publications
+---
+
 # Journal, conference, book, and workshop papers
 <!--- Please link to an open access version of your paper. -->
 <!-- Also note that the list numbers do not matter, except for the first one so we just do them in reverse order -->
