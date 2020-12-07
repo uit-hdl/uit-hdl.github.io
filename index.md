@@ -1,5 +1,5 @@
 ---
-title: Health Data Lab
+title: About
 ---
 
 The big data era in molecular biology has created exiting potential for novel biological discoveries, but also exciting challenges for computer scientists in data management, analysis, and interpretation. Especially exciting are the possibilities in combining omics data with medical images and phenotype variables. Therefore, in the next decades there will be developed sophisticated bioinformatics and machine learning methods and framework to analyze and explore the information in the integrated data. However, the dataset sizes and complexity requires the development of novel infrastructure systems, analysis approaches, and data exploration tools targeted for such complex health datasets.
