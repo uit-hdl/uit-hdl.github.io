@@ -70,9 +70,7 @@
 7. Espen Mikal Robertsen, Tim Kahlke, Inge Alexander Raknes, Edvard Pedersen, Erik Kjærner Semb, Martin Ernstsen, Lars Ailo Bongo, Nils Peder Willassen. [META-pipe - Pipeline Annotation, Analysis and Visualization of Marine Metagenomic Sequence Data](http://arxiv.org/abs/1604.04103). ArXiv.org. 2016.
 8. Karina Standahl Olsen, Einar Holsbø, Kamilla Rognmo, Sanda Krum-Hansen, Eiliv Lund. Stress related to a suspicious mammogram - potential transcriptomic effects. *Norsk Epidemiologi*, Supplement 2015; Volume 25.
 9. Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. Interactive omics data exploration in epidemiological studies. *Norsk Epidemiologi*, Supplement 2015; Volume 25.
-10. Lars Ailo Bongo. [](). <a href="papers/phd-thesis-larsab.pdf">Reducing the
-                	network latency and bandwidth requirements of distributed
-                	and parallel applications</a>. PhD. Thesis. University of
+10. Lars Ailo Bongo. [Reducing the network latency and bandwidth requirements of distributed and parallel applications](http://hdl.cs.uit.no/papers/phd-thesis-larsab.pdf). PhD. Thesis. University of
                 	Tromsø. July 2007.  
 11.  Lars Ailo Bongo. [The Longcut Wide Area Network Emulator: Design and Evaluation](http://munin.uit.no/handle/10037/381). IFI-UITØ Technical Report(53). 2005.  
 12. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. [Evaluating the Performance of the Allreduce Collective Operation on Clusters: Approach and Results](http://munin.uit.no/handle/10037/372). IFI-UITØ Technical Report(48). 2004.  
@@ -83,181 +81,54 @@
 
 
 # Theses
+1. Tengel Ekrem Skar. [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2019.
+2. Einar Holsbø. [Small data: practical modeling issues in human-model -omic data](https://munin.uit.no/handle/10037/12898). Ph. D. thesis. Dept. of Computer Science, UiT The Arctic University of Norway. February 2019.
+3. Bjørn Fjukstad. [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](https://munin.uit.no/handle/10037/14576). Ph. D. thesis. Dept. of Computer Science, UiT The Arctic University of Norway. January 2019.
+4. Tim Alexander Teige. [Auto scaling framework, simulator, and algorithms for the META-pipe backend](https://munin.uit.no/handle/10037/12898). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2018.
+5. Nina Angelvik.  [Data management platform for citizen science education projects](https://munin.uit.no/handle/10037/12893). Master's thesis.  Dept. of Computer Science, UiT The Arctic University of Norway.  May 2018.
+6. Mike Voets.  [Deep Learning: From Data Extraction to Large-Scale Analysis](https://munin.uit.no/handle/10037/12808). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2018.
+7. Johan Fredrik Eggen Ravn. *Detection of Wheezes and Breathing Phases using Deep Convolutional Neural Networks*. Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2017.
+8. Espen Mikal Robertsen. [META-pipe – Distributed Pipeline Analysis of Marine Metagenomic Sequence Data](https://munin.uit.no/handle/10037/11180). Ph. D. thesis. Dept. of Chemistry. UiT The Arctic University of Norway. February 2017.
+9. Edvard Pedersen. [A Data Management Model For Large-Scale Bioinformatics Analysis](https://munin.uit.no/handle/10037/10944). Ph. D. thesis. Dept. of Computer Science, UiT The Arctic University of Norway. September 2016.
+10. Jarl Fagerli. [COMBUSTI/O. Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark](http://munin.uit.no/handle/10037/9361). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. December 2015.
+11.  Kenneth Knudsen. [Freia: Exploring Biological Pathways Using Unity3D](http://munin.uit.no/handle/10037/8327). Master thesis. Dept. of Computer Science, UiT The Arctic University of Norway. November 2015.
+12. Morten Grønnesby. [Automated Lung Sound Analysis](https://munin.uit.no/handle/10037/11260). Master’s thesis. Dept. of Computer Science. UiT The Arctic University of Norway.  June 2016.
+13.  Ove Kåven.  [Multiparadigm optimizing retargetable transdisciplinary abstraction language](http://munin.uit.no/handle/10037/7730). Master thesis. Dept. of Computer Science, UiT The Arctic University of Norway. April 2015.
+14. Inge Alexander Raknes.  [Spark-SPELL: low-latency query-based search for gene expression compendia on cluster computers](http://munin.uit.no/handle/10037/6555). Master thesis. Dept. of Computer Science,UiT The Arctic University of Norway. June 2014.
+15. Kenneth Knudsen.  [Amdex: automated meta-data extraction from KEGG pathways](http://hdl.cs.uit.no/papers/bachelor-kenneth.pdf). Bachelor thesis. Dept. of Computer Science, UiT The Arctic University of Norwayø. June 2014.
+16. Bjørn Fjukstad.  [Kvik: interactive exploration of genomic data from the NOWAC postgenome biobank](http://munin.uit.no/handle/10037/6382). Master thesis. Dept. of Computer Science, UiT The Arctic University of Norway. Mai 2014.
+17. Martin Ernstsen. [Mario - A system for iterative and interactive processing of biological data](http://munin.uit.no/handle/10037/5762). Master thesis. Dept. of Computer Science, University of Tromsø. December 2013.
+18. Edvard Pedersen.  [GeStore: incremental computation for metagenomic pipelines](http://munin.uit.no/handle/10037/4272). Master thesis. Dept. of Computer Science, University of Tromsø. June 2012.
+19. Terje André Johansen. [A scalable, interactive widget library for visualizing biological data](http://munin.uit.no/handle/10037/3523). Master thesis. Dept. of Computer Science, University of Tromsø. June 2011.  
+20. Daniel R. Barrett. Undergraduate thesis. Dept. of Computer Science. Princeton University.  
+21. Torje Henriksen. [Efficient intra-node Communication for Chip Multiprocessors](http://munin.uit.no/handle/10037/1735). Master thesis. Dept. of Computer Science, University of Tromsø. October 2008.
+22. Espen S. Johnsen. *Configuration of collective operations in LAM/MPI by use of scripting*. Master thesis. Dept. of Computer Science, University of Tromsø. October 2008.  
 
-            <ol>
-				<li>
-					Tengel Ekrem Skar. 
-					<a href="https://munin.uit.no/handle/10037/15776">Scalable exploration of population-scale drug consumption data</a>.
-					Master's thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    June 2019.
-				</li>
-				<li>
-					Einar Holsbø. 
-					<a href="https://munin.uit.no/handle/10037/12898">Small data: practical modeling issues in human-model -omic data</a>.
-					Ph. D. thesis. Dept. of Computer Science, University of Tromsø.
-					February 2019.
-				</li>
-				<li>
-					Bjørn Fjukstad. 
-					<a href="https://munin.uit.no/handle/10037/14576">Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets.</a>
-					Ph. D. thesis. Dept. of Computer Science, University of Tromsø.
-					January 2019.
-				</li>
-				<li>
-					Tim Alexander Teige. 
-					<a href="https://munin.uit.no/handle/10037/12898">Auto scaling framework, simulator, and algorithms for the META-pipe backend</a>.
-					Master's thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    June 2018.
-				</li>
-				<li>
-					Nina Angelvik. 
-					<a href="https://munin.uit.no/handle/10037/12893">Data management platform for citizen science education projects</a>.
-					Master's thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    May 2018.
-				</li>
-				<li>
-					Mike Voets. 
-					<a href="https://munin.uit.no/handle/10037/12808">Deep Learning: From Data Extraction to Large-Scale Analysis</a>.
-					Master's thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    May 2018.
-				</li>
-				<li>
-					Johan Fredrik Eggen Ravn. 
-					Detection of Wheezes and Breathing Phases using Deep Convolutional Neural Networks.
-					Master's thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    June 2017.
-				</li>
-				<li>
-					Espen Mikal Robertsen. 
-					<a href="https://munin.uit.no/handle/10037/11180">META-pipe – Distributed Pipeline Analysis of Marine Metagenomic Sequence Data</a>.
-					Ph. D. thesis. Dept. of Chemistry. University of Tromsø. 
-					February 2017.
-				</li>
-				<li>
-					Edvard Pedersen. 
-					<a href="https://munin.uit.no/handle/10037/10944">A Data Management Model For Large-Scale Bioinformatics Analysis</a>.
-					Ph. D. thesis. Dept. of Computer Science, University of Tromsø.
-					September 2016.
-				</li>
-            	<li>
-                    Jarl Fagerli. 
-                    <a href="http://munin.uit.no/handle/10037/9361">COMBUSTI/O. Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark</a>.
-                    Master's thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    December 2015.
-				</li>
-				<li>
-                    Kenneth Knudsen. <a href="http://munin.uit.no/handle/10037/8327">Freia: Exploring Biological Pathways Using Unity3D</a>. Master thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    November 2015.
-                </li>
-				<li>
-					Morten Grønnesby. 
-					<a href="https://munin.uit.no/handle/10037/11260">Automated Lung Sound Analysis</a>. 
-					Master’s thesis. Dept. of Computer Science. University of Tromsø. 
-					June 2016.
-				</li>
-				<li>
-                    Ove Kåven. <a href="http://munin.uit.no/handle/10037/7730">Multiparadigm optimizing retargetable transdisciplinary abstraction language</a>. Master thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    April 2015.
-                </li>
-                <li>
-                    Inge Alexander Raknes. <a href="http://munin.uit.no/handle/10037/6555">Spark-SPELL: low-latency query-based search for gene expression compendia on cluster computers</a>. Master thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    June 2014.
-                </li>
-                <li>
-                    Kenneth Knudsen. <a href="papers/bachelor-kenneth.pdf">Amdex: automated meta-data extraction from KEGG pathways</a>. Bachelor thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    June 2014.
-                </li>
-                <li>
-                    Bjørn Fjukstad. <a href="http://munin.uit.no/handle/10037/6382">Kvik: interactive exploration of genomic data from the NOWAC postgenome biobank</a>. Master thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    Mai 2014.
-                </li>
-                <li>
-                    Martin Ernstsen. <a href="http://munin.uit.no/handle/10037/5762">Mario - A system for iterative and interactive processing of biological data</a>. Master thesis. 
-                    Dept. of Computer Science, University of Tromsø.
-                    December 2013.
-                </li>
-                <li>
-                    Edvard Pedersen. <a href="http://munin.uit.no/handle/10037/4272">
-					GeStore: incremental computation for metagenomic pipelines</a>.
-                    Master thesis. Dept. of Computer Science, University of Tromsø.
-                    June 2012.
-                </li>
-                <li>
-                    Terje André Johansen. <a
-                    href="http://munin.uit.no/handle/10037/3523">A scalable,
-                    interactive widget library for visualizing biological
-                    data</a>. Master thesis. Dept. of Computer Science,
-                    University of Tromsø. June 2011.  
-                </li>  
-                <li>
-                    Daniel R. Barrett. Undergraduate thesis. Dept. of Computer
-                    Science. Princeton University.  
-                </li>
-                <li>
-                    Torje Henriksen. <a
-                    href="http://munin.uit.no/handle/10037/1735">Efficient
-                    intra-node Communication for Chip Multiprocessors.</a>.
-                    Master thesis. Dept. of Computer Science, University of Tromsø.
-                    October 2008.
-                </li>
-                <li>
-                    Espen S. Johnsen. Configuration of collective operations in
-                    LAM/MPI by use of scripting. Master thesis. Dept. of Computer
-                    Science, University of Tromsø. October 2008.  
-                </li>
-            </ol>
-
-			<a id="projects"></a> 
-            <h2>Project Reports</h2>
-            <ol>
-				<li> Tengel Skar. An efficient, interactive environment for Big Data exploration.
+# Project Reports
+1. Tengel Skar. An efficient, interactive environment for Big Data exploration.
 					 Capstone Project. Dept. of Computer Science, University of Tromsø. December 2018.
-				</li>
-				<li> Tim Alexander Teige. Autoscaling framework and simulator for automatic META-pipe job scaling.
+2. Tim Alexander Teige. Autoscaling framework and simulator for automatic META-pipe job scaling.
 					 Capstone Project. Dept. of Computer Science, University of Tromsø. December 2017.
-				</li>
-				<li> Johan Ravn. Wheeze Detection using Deep Convolutional Neural Network.
+3. Johan Ravn. Wheeze Detection using Deep Convolutional Neural Network.
 					 Capstone Project. Dept. of Computer Science, University of Tromsø. December 2016.
-				</li>
-				<li> Frode Opdahl. <a href="papers/capstone-frode.pdf">Virtual reality</a>.
+4. Frode Opdahl. <a href="papers/capstone-frode.pdf">Virtual reality</a>.
 					 Capstone Project. Dept. of Computer Science, University of Tromsø. December 2016.
-				</li>
-				<li> Nina Angelvik. <a href="papers/capstone-nina.pdf">Low-cost portable air quality sensor kit and cloud service.</a>
+5. Nina Angelvik. <a href="papers/capstone-nina.pdf">Low-cost portable air quality sensor kit and cloud service.</a>
 					 Capstone Project. Dept. of Computer Science, University of Tromsø. December 2016.
-				</li>
-				<li> Morten Grønnesby. <a href="papers/capstone-morten.pdf">Pulmonary Crackle Detection Using Signal Processing and Machine Learning.</a>
+6. Morten Grønnesby. <a href="papers/capstone-morten.pdf">Pulmonary Crackle Detection Using Signal Processing and Machine Learning.</a>
 					 Capstone Project. Dept. of Computer Science, University of Tromsø. December 2015.
-			    </li>
-				<li> Jarl Fagerli. <a href="papers/capstone-jarl.pdf">Big Data Facilitation and Management</a>.
+7. Jarl Fagerli. <a href="papers/capstone-jarl.pdf">Big Data Facilitation and Management</a>.
 					Capstone Project. Dept. of Computer Science, University of Tromsø. December 2015.
-			    </li>
-                <li> Inge Alexander Raknes. <a href="papers/capstone-alexander.pdf">Data cleaning for biological data</a>.
+8. Inge Alexander Raknes. <a href="papers/capstone-alexander.pdf">Data cleaning for biological data</a>.
 					Capstone Project. Dept. of Computer Science, University of Tromsø. December 2013. 
-                </li>
-                <li> Bjørn Fjukstad. <a href="papers/capstone-bjorn.pdf">NOWAC Data Exploration</a>. Capstone Project. Dept. of Computer
+9. Bjørn Fjukstad. <a href="papers/capstone-bjorn.pdf">NOWAC Data Exploration</a>. Capstone Project. Dept. of Computer
                 Science, University of Tromsø. June 2013. 
-                </li>
-                <li> Edvard Pedersen. <a href="papers/capstone-edvard.pdf">Big data analysis for metagenomics</a>. Capstone Project. Dept. of Computer
+10.  Edvard Pedersen. <a href="papers/capstone-edvard.pdf">Big data analysis for metagenomics</a>. Capstone Project. Dept. of Computer
                 Science, University of Tromsø. June 2013. 
-                </li>
-            </ol>
-            
-			<a id="posters"></a> 
-            <h2>Posters</h2>
-            <ol>
-				<li>
-					Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi.
+
+
+# Posters
+1. Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi.
 					<a href="https://f1000research.com/posters/7-766">ELIXIR-FI Pouta scientific cloud services</a>.
 					Poster at the Elixir all-hands meeting.
 					Berlin, Germany, June 2018.
