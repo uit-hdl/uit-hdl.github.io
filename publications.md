@@ -60,121 +60,30 @@
 2. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. [Using a Virtual Event Space to Understand Parallel Application Communication Behavior](http://www.nik.no/2003/Bidrag/Bongo.pdf). in * Proc. of Norsk informatikkonferanse NIK'2003*. Tapir Akademisk Forlag 2003.  
 1. John Markus Bjørndalen, Otto Anshus, Tore Larsen, Lars Ailo Bongo, Brian Vinter. [Scalable Processing and Communication Performance in a Multi-Media Related Context](http://hdl.cs.uit.no/papers/euromicro02.pdf). in *Proceedings of the 28th EuroMicro Conference*. 2002.
 
-#Preprinsts, abstracts, and reports</h2>
-            <ol>
-				<li>
-					
-				</li>
-				<li>
-					Einar Holsbø, Vittorio Perduca, Lars Ailo Bongo, Eiliv Lund, Etienne Birmelé.
-					<a href="https://www.biorxiv.org/content/early/2018/06/25/141325">Stratified time-course gene  preselection shows a pre-diagnostic transcriptomic  signal
-					for metastasis in blood cells: a proof of concept from the NOWAC study</a>.
-					bioRxiv. 2018.
-				</li>
-				<li>
-					Morten Grønnesby, Juan Carlos Aviles Solis, Einar Holsbø, Hasse Melbye, Lars Ailo Bongo.
-					Machine Learning Based Crackle Detection (abstract).
-					<i>in Proc. of the 42nd annual conference of the International Lung Sound Association</i>.
-					September 2017.
-				</li>
-				<li>
-					Johan Ravn, Juan Carlos Aviles Solis, Morten Grønnesby, Hasse Melbye, Lars Ailo Bongo
-					Detection of Wheezes and Breathing Phases Using Deep Convolutional Neural Networks (extended abstract).
-					<i>in Proc. of the 42nd annual conference of the International Lung Sound Association</i>.
-					September 2017.
-				</li>
-				<li>
-					Morten Grønnesby, Juan Carlos Aviles Solis, Einar Holsbø, Hasse Melbye, Lars Ailo Bongo. 
-					<a href="https://arxiv.org/abs/1706.00005">Feature Extraction for Machine Learning Based Crackle Detection in Lung Sounds from a Health Survey</a>. arXiv, 2017.
-				</li>
-				<li>
-                    Hege Marie Bøvelstad, Einar Holsbø, Lars Ailo Bongo, and Eiliv Lund,
-                    <a href="https://www.biorxiv.org/content/early/2017/05/31/144519">A standard operating procedure for outlier removal in large-sample epidemiological transcriptomics datasets</a>. 
-					bioRxiv, 2017.
-                </li>
-                <li>
-                    Lars Ailo Bongo, Mikael Borg, Amelie Cornelis, Montserrat Gonzalez, Luis Gracia, Rob Hooft, Jarno Laitinen, Ilkka Lappalainen, Mikael Linden, Ludek Matyska, Steven Newhouse, Tommi Nyrönen, Michael Prochazka, Mirek Ruda, Harri Salminen, Christine Staiger, Tony Wildish.
-                    <a href="https://docs.google.com/document/d/1gMKFrcbzuN9BSREU1VDnlml-bl6KSOnfyQbJGh20L5s/edit#heading=h.emwdkms5d5x">The ELIXIR Compute Platform: A Technical Services Roadmap for supporting Life Science Research in Europe</a>. 2016.
-                </li>
-				<li>
-                  Espen Mikal Robertsen, Tim Kahlke, Inge Alexander Raknes, Edvard Pedersen, Erik Kjærner Semb, Martin Ernstsen, Lars Ailo Bongo, Nils Peder Willassen. 
-                  <a href="http://arxiv.org/abs/1604.04103">META-pipe - Pipeline Annotation, Analysis and Visualization of Marine Metagenomic Sequence Data</a>. 
-                  ArXiv.org. 2016.
-                </li>
-				<li>
-					Karina Standahl Olsen, Einar Holsbø, Kamilla Rognmo, Sanda Krum-Hansen, Eiliv Lund. Stress related to a suspicious mammogram - potential transcriptomic effects. Norsk Epidemiologi, Supplement 2015; Volume 25.
-				</li>
-				<li>
-					Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. Interactive omics data exploration in epidemiological studies. Norsk Epidemiologi, Supplement 2015; Volume 25.
-				</li>
-                <li>
-                	Lars Ailo Bongo. <a href="papers/phd-thesis-larsab.pdf">Reducing the
+# Preprinsts, abstracts, and reports</h2>
+1. Einar Holsbø, Vittorio Perduca, Lars Ailo Bongo, Eiliv Lund, Etienne Birmelé. [Stratified time-course gene  preselection shows a pre-diagnostic transcriptomic signal for metastasis in blood cells: a proof of concept from the NOWAC study](https://www.biorxiv.org/content/early/2018/06/25/141325). bioRxiv. 2018.
+2. Morten Grønnesby, Juan Carlos Aviles Solis, Einar Holsbø, Hasse Melbye, Lars Ailo Bongo. Machine Learning Based Crackle Detection (abstract). in *Proc. of the 42nd annual conference of the International Lung Sound Association*. September 2017.
+3. Johan Ravn, Juan Carlos Aviles Solis, Morten Grønnesby, Hasse Melbye, Lars Ailo Bongo. Detection of Wheezes and Breathing Phases Using Deep Convolutional Neural Networks (extended abstract).in *Proc. of the 42nd annual conference of the International Lung Sound Association*. September 2017.
+4. Morten Grønnesby, Juan Carlos Aviles Solis, Einar Holsbø, Hasse Melbye, Lars Ailo Bongo. [Feature Extraction for Machine Learning Based Crackle Detection in Lung Sounds from a Health Survey](https://arxiv.org/abs/1706.00005). arXiv, 2017.
+5. Hege Marie Bøvelstad, Einar Holsbø, Lars Ailo Bongo, and Eiliv Lund. [A standard operating procedure for outlier removal in large-sample epidemiological transcriptomics datasets]("https://www.biorxiv.org/content/early/2017/05/31/144519). biorXiv, 2017.
+6. Lars Ailo Bongo, Mikael Borg, Amelie Cornelis, Montserrat Gonzalez, Luis Gracia, Rob Hooft, Jarno Laitinen, Ilkka Lappalainen, Mikael Linden, Ludek Matyska, Steven Newhouse, Tommi Nyrönen, Michael Prochazka, Mirek Ruda, Harri Salminen, Christine Staiger, Tony Wildish. [The ELIXIR Compute Platform: A Technical Services Roadmap for supporting Life Science Research in Europe](https://docs.google.com/document/d/1gMKFrcbzuN9BSREU1VDnlml-bl6KSOnfyQbJGh20L5s/edit#heading=h.emwdkms5d5x). 2016.
+7. Espen Mikal Robertsen, Tim Kahlke, Inge Alexander Raknes, Edvard Pedersen, Erik Kjærner Semb, Martin Ernstsen, Lars Ailo Bongo, Nils Peder Willassen. [META-pipe - Pipeline Annotation, Analysis and Visualization of Marine Metagenomic Sequence Data](http://arxiv.org/abs/1604.04103). ArXiv.org. 2016.
+8. Karina Standahl Olsen, Einar Holsbø, Kamilla Rognmo, Sanda Krum-Hansen, Eiliv Lund. Stress related to a suspicious mammogram - potential transcriptomic effects. *Norsk Epidemiologi*, Supplement 2015; Volume 25.
+9. Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. Interactive omics data exploration in epidemiological studies. *Norsk Epidemiologi*, Supplement 2015; Volume 25.
+10. Lars Ailo Bongo. [](). <a href="papers/phd-thesis-larsab.pdf">Reducing the
                 	network latency and bandwidth requirements of distributed
                 	and parallel applications</a>. PhD. Thesis. University of
                 	Tromsø. July 2007.  
-                </li>
-                <li>
-                    Lars Ailo Bongo. <a
-                    href="http://munin.uit.no/handle/10037/381">The Longcut
-                    Wide Area Network Emulator: Design and Evaluation</a>.
-                    IFI-UITØ Technical Report(53). 2005.  
-                </li>
-                <li> Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. <a
-                    href="http://munin.uit.no/handle/10037/372?locale-attribute=en">
-                    Evaluating the Performance of the Allreduce Collective
-                    Operation on Clusters: Approach and Results</a>. IFI-UITØ
-                    Technical Report(48).
-                    2004.  
-                </li>
-                <li> 
-                    Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen.
-                    Performance Monitoring. A Report for the NOTUR Project 
-                    Emerging Technologies: Cluster. 2003. 
-                </li>
-                <li>
-                    Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. <a
-                    href="http://munin.uit.no/handle/10037/366?locale-attribute=en">
-                    Using a Virtual Event Space to Understand Parallel
-                    Application Communication Behavior</a>. IFI-UITØ Technical
-                    Report(44).  2003.
-                </li>
-                <li> 
-                    Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars
-                    Ailo Bongo.  Survey of execution monitoring tools for
-                    computer clusters. A Report for the NOTUR Project Emerging
-                    Technologies: Cluster. 2003.  
-                </li>
-                <li>
-                    Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars
-                    Ailo Bongo.  Survey of optimizing techniques for parallel
-                    programs running on computer clusters. A Report for the
-                    NOTUR Project Emerging Technologies: Cluster. 2003.
-                </li>
-            </ol>
-            
-            <a id="design"></a> 
-            <h2>Design documents</h2>
-            <ol>
-            	Note! These documents are often work in progress.
-            	<li>
-				  Inge Alexander Raknes, Giacomo Tartari, Aleksandr Agafonov, Lars Ailo Bongo. 
-				  <a href="https://docs.google.com/document/d/16iwUrfh6_eK-_T158_zgsRuItJ-qw1YsCiF1gnNfzLY/edit">META-pipe backend design document</a>. Under preparation.
-				</li>
-				<li>
-				  Inge Alexander Raknes, Lars Ailo Bongo. 
-				  <a href="https://docs.google.com/document/d/1dlq23Q5N9xNLKjgolxug2hTRtI0zuZzHKuX_xfUo7Uo/edit">META-pipe authorization server</a>.
-				</li>
-				<li>
-				  Aleksandr Agafonov, Lars Ailo Bongo. 
-				  <a href="https://docs.google.com/document/d/1ONGUhcmPblRU6vppl-L2qzHVeqSVCO3btgWo-W3IpRQ/edit?ts=57b2b7bd#">MMG cluster setup</a>.
-				</li>
-				<li>
-					Lars Tiede.
-					<a href="https://drive.google.com/open?id=1OfQhBgfu0MEW1RuNF5KBVMsLZujFe5UunrG2l9QsxFc">META-pipe AWS setup</a>.
-			</ol>
-			
-            <a id="theses"></a> 
-            <h2>Theses</h2>
+11.  Lars Ailo Bongo. [The Longcut Wide Area Network Emulator: Design and Evaluation](http://munin.uit.no/handle/10037/381). IFI-UITØ Technical Report(53). 2005.  
+12. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. [Evaluating the Performance of the Allreduce Collective Operation on Clusters: Approach and Results](http://munin.uit.no/handle/10037/372). IFI-UITØ Technical Report(48). 2004.  
+13. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. Performance Monitoring. A Report for the NOTUR Project Emerging Technologies: Cluster. 2003. 
+14. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. [Using a Virtual Event Space to Understand Parallel Application Communication Behavior](http://munin.uit.no/handle/10037/366). IFI-UITØ Technical Report(44).  2003.
+15. Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars Ailo Bongo.  Survey of execution monitoring tools for computer clusters. A Report for the NOTUR Project Emerging Technologies: Cluster. 2003.  
+16. Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars Ailo Bongo.  Survey of optimizing techniques for parallel programs running on computer clusters. A Report for the NOTUR Project Emerging Technologies: Cluster. 2003.
+
+
+# Theses
+
             <ol>
 				<li>
 					Tengel Ekrem Skar. 
