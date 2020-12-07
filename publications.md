@@ -2,7 +2,8 @@
 1. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in *Advancing systems epidemiology in cancer*. 2021.
 2. Jo Inge Arnes, Lars Ailo Bongo. Beauty of complex designs. To appear in *Advancing systems epidemiology in cancer*. 2021.
 3. Einar. To appear in *Advancing systems epidemiology in cancer*. 2021.
-4. Tengel Ekrem Skar, Einar Holsbø, Kristian Svendsen, Lars Ailo Bongo. [Interactive exploration of population scale pharmacoepidemiology datasets](https://arxiv.org/abs/2005.09890), in *Proc. of the 11th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics*, Virtual Event. 2020.
+4. Maria Luz Gámiz, Rafael Nozal-Cañadas, Rocío Raya-Miranda. [TTT-SiZer: A graphic tool for aging trends recognition]. *Reliability Engineering & System Safety*. vol. 202, 2020, https://doi.org/10.1016/j.ress.2020.107010.
+5. Tengel Ekrem Skar, Einar Holsbø, Kristian Svendsen, Lars Ailo Bongo. [Interactive exploration of population scale pharmacoepidemiology datasets](https://arxiv.org/abs/2005.09890), in *Proc. of the 11th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics*, Virtual Event. 2020.
 5. Einar Holsbø, Karina Standahl Olsen. [Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort](). *Frontiers in oncology*. 2020 Oct 15;10:2277.
 6. Holsbø, E., Perduca, V., Bongo, L. A., Lund, E., & Birmelé, E. (2020). Predicting breast cancer metastasis from whole-blood transcriptomic measurements. *BMC Research Notes*, 13(1), 1-5.
 7. Mike Voets, Kajsa Møllersen, Lars Ailo Bongo. [Reproduction study using public data of: Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0217541). *PLoS ONE* 14(6): e0217541.
@@ -37,62 +38,16 @@
 36. Martin Ernstsen, Erik Kjærner-Semb, Nils P. Willassen, Lars Ailo Bongo. [Mario: interactive tuning of biological analysis pipelines using iterative processing](http://hdl.cs.uit.no/papers/hibb14.pdf). in *Proc. of 5th International Workshop on High Performance Bioinformatics and Biomedicine (HiBB)*. Springer LNCS, vol. 8805, 2014.
 37. Lars Ailo Bongo, Edvard Pedersen, and Martin Ernstsen. [Data-intensive computing infrastructure systems for unmodified biological data analysis pipelines](http://hdl.cs.uit.no/papers/cibb14.pdf). in *Proc. of <i>CIBB 2014 – Eleventh International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics*. June 2014, Cambridge, UK.
 38. Edvard Pedersen, Nils P. Willassen, Lars Ailo Bongo. [Transparent incremental updates for Genomics Data Analysis Pipelines](http://hdl.cs.uit.no/papers/hibb13.pdf). in *Proc. of HiBB 2013 – 4th Workshop on High Performance Bioinformatics and Biomedicine*. Springer LNCS, vol 8374, 2014, pp 311-320.
-               
-	       </li>
-                <li>
-                    Christopher Park, Aaron Wong, Casey Greene, Jessica Rowland, 
-                    Yuanfang Guan, Lars Ailo Bongo, Rebecca D. Burdine, 
-                    Olga Troyanskaya. 
-                    <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002957">
-                    Functional Knowledge Transfer for High-accuracy Prediction of Under-studied Biological Processes</a>.
-                <i>PLoS Computational Biology</i>. vol 9(3), 2013.
-                </li>
-                <li>
-                    Otto Anshus, Tor-Magne Stien Hagen, Bård Fjukstad, 
-                    Lars Ailo Bongo, Yong Liu, Lars Tiede. 
-                    <a href="http://www.powerwall.mdx.ac.uk/papers/POWERWALL-Anshus.pdf">
-                    Nine Years of the Tromsø Display Wall</a>, in <i>POWERWALL:
-                    International Workshop on Interactive, 
-                    Ultra-High-Resolution Displays</i>, part of the ACM SIGCHI
-                    Conference on Human Factors in Computing Systems. 2013.
-                </li>
-                <li>
-                    Lars Ailo Bongo. <a href="http://hdl.cs.uit.no/papers/bsv.pdf">
-                    Bulk Synchronous Visualization</a>.
-                    in <i>Proc. of the 2013 International Workshop on 
-                    Programming Models and Applications for Multicores and 
-                    Manycores</i>. ACM, pp 21-30, Shenzhen, China, 2013.
-                </li>
-                <li>
-                    Edvard Pedersen, Nils Peder Willassen, Lars Ailo Bongo.
-                    <a href="http://www.nik.no/2012/s2-pedersen12GeStore-IncrementalComputationForMetagenomicPipelines.pdf">
-                    GeStore – Incremental Computation for Metagenomic Pipelines
-                    </a>. in <i>Proceedings of NIK 2012</i>. Tapir. pp. 251-254. 
-                    Bodø, Norway.
-                </li>
-                <li>
-                    Lars Ailo Bongo.
-                    <a href="http://www.nik.no/2012/s3-bongo12BSV-1000WindowVisualizationSystem.pdf">
-                    BSV - 1000 Window Visualization System</a>. in <i>
-                    Proceedings of NIK 2012</i>. 
-                    Tapir. pp. 251-254. Bodø, Norway.
-                </li>
-                <li>
-                    Aaron Wong, Christopher Park, Casey Greene, Lars Ailo Bongo,
-                    Yuanfang Guan, Olga Troyanskaya.
-                    <a href="http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=22684505">
-                    IMP: A multi-species functional genomics portal for integration, visualization and prediction of protein functions and networks</a>.
-                    <i>Nucleic Acids Research</i>. vol 40, 2012.
-                </li>
-                <li>
-                    Terje André Johansen, Daniel Stødle, Lars Ailo Bongo.  <a
-                    href="http://www.nik.no/2011/3-2-johansen11AWebApplicationWidgetLibrary">
-                    A Web Application Widget Library for Scalable Interactive
-                    Biological Data Visualization</a>. in <i>Proceedings of NIK
-                    2011</i>. Tapir. pp. 109-120. Tromsø, Norway.
-                </li>
-                <li>
-                    William Josephson, Lars Ailo Bongo, David Flynn, Kai Li. 
+39. Christopher Park, Aaron Wong, Casey Greene, Jessica Rowland, Yuanfang Guan, Lars Ailo Bongo, Rebecca D. Burdine, Olga Troyanskaya. [Functional Knowledge Transfer for High-accuracy Prediction of Under-studied Biological Processes](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002957). *PLoS Computational Biology*. vol 9(3), 2013.
+40. Otto Anshus, Tor-Magne Stien Hagen, Bård Fjukstad, Lars Ailo Bongo, Yong Liu, Lars Tiede. [Nine Years of the Tromsø Display Wall](http://www.powerwall.mdx.ac.uk/papers/POWERWALL-Anshus.pdf). in *POWERWALL: International Workshop on Interactive, Ultra-High-Resolution Displays*, part of the ACM SIGCHI Conference on Human Factors in Computing Systems. 2013.
+41. Lars Ailo Bongo. [Bulk Synchronous Visualization](http://hdl.cs.uit.no/papers/bsv.pdf"). in *Proc. of the 2013 International Workshop on Programming Models and Applications for Multicores and Manycores*. ACM, pp 21-30, Shenzhen, China, 2013.
+42. Edvard Pedersen, Nils Peder Willassen, Lars Ailo Bongo. [GeStore – Incremental Computation for Metagenomic Pipelines](http://www.nik.no/2012/s2-pedersen12GeStore-IncrementalComputationForMetagenomicPipelines.pdf). in *Proceedings of NIK 2012*. Tapir. pp. 251-254. Bodø, Norway, 2012.
+43. Lars Ailo Bongo. [BSV - 1000 Window Visualization System](http://www.nik.no/2012/s3-bongo12BSV-1000WindowVisualizationSystem.pdf). in *Proceedings of NIK 2012*. Tapir. pp. 251-254. Bodø, Norway.
+44. Aaron Wong, Christopher Park, Casey Greene, Lars Ailo Bongo, Yuanfang Guan, Olga Troyanskaya. [IMP: A multi-species functional genomics portal for integration, visualization and prediction of protein functions and networks](http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=22684505). *Nucleic Acids Research*. vol 40, 2012.
+45. Terje André Johansen, Daniel Stødle, Lars Ailo Bongo. [A Web Application Widget Library for Scalable Interactive Biological Data Visualization](http://www.nik.no/2011/3-2-johansen11AWebApplicationWidgetLibrary"). in *Proceedings of NIK 2011*. Tapir. pp. 109-120. Tromsø, Norway.
+
+
+William Josephson, Lars Ailo Bongo, David Flynn, Kai Li. 
                     <a href="http://dl.acm.org/citation.cfm?id=1837922">
                     DFS: A File System for Virtualized Flash Storage</a>.
                     <i>ACM TOS</i>. Vol. 6, Issue 3. September 2010.
