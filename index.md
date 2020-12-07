@@ -39,3 +39,7 @@ We are partners in the new Centre for Visual Intelligence where our focus is on 
 ## air:bit
 
 In the [air:bit](http://airbit.uit.no/) air pollution project we have developed educational projects for use in Norwegian High Schools. This work is done in collaboration with [Skolelaboratoriet i realfag og teknologi](https://uit.no/skolelab) at UiT. We provide build instructions, programming guides, and a portal for data analysis and [live visualization](http://airbit.uit.no/live). Air:bit has been used by 13 high-school classes in Northern Norway. 
+
+## Other
+
+We are collaborating with Associate Professor [Kristian Svendsen](https://en.uit.no/ansatte/kristian.svendsen) on analysis of adverse drug effect data, with [Hilde Sommerseth](https://en.uit.no/ansatte/hilde.sommerseth) at The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) on transcription of Norwegian handwritten census books, and Professor [Geir F. Lorem](https://en.uit.no/ansatte/geir.lorem) on biomedical ethics with a focus on direct-to-consumer genomics tests. 
