@@ -47,6 +47,7 @@ We are collaborating with Associate Professor [Kristian Svendsen](https://en.uit
 # People
 
 The lab currently consist of:
+|                           |                             |                                 |              |
 |---------------------------|-----------------------------|---------------------------------|--------------|
 | Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
 | Edvard Pedersen           |	Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
@@ -57,10 +58,30 @@ The lab currently consist of:
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
 | Mohsen Askar              | Affiliated PhD student      | Adverse drug reactions          | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Alvaro Martinez Fernandez | Master student              | NOWAC                           | [GitHub](https://github.com/kolibrid) |
-| Sidra Tahi                | Master student              |                                 | |
-| Anton Garri Fagerbakk     | Master student              |                                 | |
+| Sidra Tahi                | Master student              | .                               | . |
+| Anton Garri Fagerbakk     | Master student              | .                               | . |
 | Nikita Shvetsov 	        | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 
+Former lab members are:
+|                    |                               |                  |              |
+|--------------------|-------------------------------|------------------|--------------|
+| Tengel Ekrem Skar  |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](). [Source code]() |
+| Mayeul Marcadella  | Technical staff               | ELIXIR |
+| Aleksandr Agafonov | Technical staff               | ELIXIR |
+| Dr. Bjørn Fjukstad | PhD student, 2018, CS, UiT     | Thesis: [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](). Source code for [Kvik]() and [walrus]() |
+| Tim Alexander Teige | Master student, 2018, CS, UiT | Thesis: [Auto scaling framework, simulator, and algorithms for the META-pipe backend and Source code](). [Source code]() |
+| Nina Angelvik       | Master student, 2018, CS, UiT | Thesis: [Data management platform for citizen science education projects](). Source code: [Backend]() and [Frontend]() |
+| Mike Voets          | Master student, 2018, CS, UiT | Thesis: [Deep Learning: From Data Extraction to Large-Scale Analysis](). Source code: [replication study]() and [DICOM anonymizer]() |
+| Inge Alexander Raknes | Technical staff            | ELIXIR |
+| Johan Ravn            | Master student, 2017, CS, UiT | Thesis: Detection of Wheezes and Breathing Phases using Deep Convolutional Neural Networks |
+| Dr. Giacomo Tartari   | Technical staff               | ELIXIR |
+| Frode Opdahl          | Master student, 2016, CS, UiT | Project: Virtual reality |
+| Jarl Fagerli          | Master student, 2015, CS, UiT | Thesis: [COMBUST I/O. Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark](). [Source code]() |
+| Kenneth Knudsen       | Master student, 2015, CS, UIT | Thesis: [Freia: Exploring Biological Pathways Using Unity3D](). [Source Code](). [Demo]()) |
+| Ove Kåven             | Master student, 2015, CS, UiT | Thesis: [Multiparadigm Optimizing Retargetable Transdisciplinary Abstraction Language]. [Source code]() |
+| Ida Jaklin Johansen   | Technical staff               | ELIXIR |
+| Martin Ernstsen       | Master student, 2013, CS, UiT | Thesis: [Mario - A system for iterative and interactive processing of biological data](). [Source code]() |
+| Terje André Johansen  | Master student, 2011, CS, UiT | Thesis: [A scalable, interactive widget library for visualizing biological data] |
 
