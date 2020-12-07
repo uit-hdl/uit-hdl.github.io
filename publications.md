@@ -1,6 +1,7 @@
 # Journal, conference, book, and workshop papers
-<!--- Please link to an open access version of your paper. Also note that the list numbers do not matter, so we just do them in reverse order -->
-58. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in *Advancing systems epidemiology in cancer*. 2021.
+<!--- Please link to an open access version of your paper. -->
+<!-- Also note that the list numbers do not matter, except for the first one so we just do them in reverse order -->
+1. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in *Advancing systems epidemiology in cancer*. 2021.
 57. Jo Inge Arnes, Lars Ailo Bongo. Beauty of complex designs. To appear in *Advancing systems epidemiology in cancer*. 2021.
 56. Einar. To appear in *Advancing systems epidemiology in cancer*. 2021.
 55. Maria Luz Gámiz, Rafael Nozal-Cañadas, Rocío Raya-Miranda. [TTT-SiZer: A graphic tool for aging trends recognition]. *Reliability Engineering & System Safety*. vol. 202, 2020, https://doi.org/10.1016/j.ress.2020.107010.
