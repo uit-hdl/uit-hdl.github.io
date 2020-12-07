@@ -1,22 +1,27 @@
-<h2>Journal, conference, book, and workshop papers </h2>
-            <ol>
-				<li>
-					Jo Inge Arne, Randi Karlsen. <a href="https://arxiv.org/abs/2001.05276">Cloudless Friend-to-Friend Middleware for Smartphones</a>. In: Obaidat M. (eds) E-Business and Telecommunications. ICETE 2018. Communications in Computer and Information Science, vol 1118. Springer, Cham.
-				</li>
-				<li>
-					Mike Voets, Kajsa Møllersen, Lars Ailo Bongo.
-					<a href="https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0217541">Reproduction study using public data of: Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs</a>. PLoS ONE 14(6): e0217541.
-				</li>
-				<li>
-					Cristina Jácome, Johan Ravn, Einar Holsbø, Juan Carlos Aviles-Solis, Hasse Melbye, Lars Ailo Bongo.
-					<a href="https://www.mdpi.com/1424-8220/19/8/1798">Convolutional neural network for breathing phase detection in lung sounds</a>.
-					Sensors (Basel). 2019 Apr 15;19(8).
+# Journal, conference, book, and workshop papers
+1. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in Advancing systems epidemiology in cancer. 2021.
+2. Jo Inge Arnes, Lars Ailo Bongo. Beauty of complex designs. To appear in Advancing systems epidemiology in cancer. 2021.
+3. Einar. To appear in Advancing systems epidemiology in cancer. 2021.
+4. Tengel Ekrem Skar, Einar Holsbø, Kristian Svendsen, Lars Ailo Bongo. [Interactive exploration of population scale pharmacoepidemiology datasets](https://arxiv.org/abs/2005.09890), in Proc. of the 11th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics, 2020.
+5. Einar Holsbø, Karina Standahl Olsen. [Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort. Frontiers in oncology](). 2020 Oct 15;10:2277.
+6. Holsbø, E., Perduca, V., Bongo, L. A., Lund, E., & Birmelé, E. (2020). Predicting breast cancer metastasis from whole-blood transcriptomic measurements. BMC Research Notes, 13(1), 1-5.
+7. Mike Voets, Kajsa Møllersen, Lars Ailo Bongo. [Reproduction study using public data of: Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0217541). PLoS ONE 14(6): e0217541.
+8. Dong, C, Metzger, M, Holsbø, E, Perduca, V, Carbonnel, F. Systematic review with meta‐analysis: mortality in acute severe ulcerative colitis. Aliment Pharmacol Ther. 2019; 00: 1– 27.
+9. Cristina Jácome, Johan Ravn, Einar Holsbø, Juan Carlos Aviles-Solis, Hasse Melbye, Lars Ailo Bongo. [Convolutional neural network for breathing phase detection in lung sounds](https://www.mdpi.com/1424-8220/19/8/1798). Sensors (Basel). 2019 Apr 15;19(8).
+10. 
+
+4. 
 				</li>
 				<li>
 					Bjørn Fjukstad, Nina Angelvik, Morten Grønnesby, Maria Wulff Hauglann, Hedinn Gunhildrud, Fredrik Høisæther Rasch, Julianne Iversen, Margaret Dalseng, Lars Ailo Bongo.
 					<a href="https://arxiv.org/abs/1901.05240">Teaching Electronics and Programming in Norwegian Schools Using the air:bit Sensor Kit</a>.
 					To appear in ITiCSE 2019.
 				</li>
+				            <ol>
+				<li>
+					Jo Inge Arne, Randi Karlsen. <a href="https://arxiv.org/abs/2001.05276">Cloudless Friend-to-Friend Middleware for Smartphones</a>. In: Obaidat M. (eds) E-Business and Telecommunications. ICETE 2018. Communications in Computer and Information Science, vol 1118. Springer, Cham.
+				</li>
+				
 				<li>
 					Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo.
 					<a href="https://www.biorxiv.org/content/early/2018/06/25/354811">Reproducible Data Analysis Pipelines for Precision Medicine</a>.
@@ -303,9 +308,7 @@
             <h2>Preprinsts, abstracts, and reports</h2>
             <ol>
 				<li>
-					Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo
-					<a href="https://www.biorxiv.org/content/10.1101/644625v1">Reproducible data management and analysis using R</a>.
-					bioRxiv. 2019.
+					
 				</li>
 				<li>
 					Einar Holsbø, Vittorio Perduca, Lars Ailo Bongo, Eiliv Lund, Etienne Birmelé.
