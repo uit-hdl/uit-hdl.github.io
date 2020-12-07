@@ -2,10 +2,6 @@
 title: Health Data Lab
 ---
 
-**Under construction!**
-
-**Our old website is: http://hdl.cs.uit.no/**
-
 The big data era in molecular biology has created exiting potential for novel biological discoveries, but also exciting challenges for computer scientists in data management, analysis, and interpretation. Especially exciting are the possibilities in combining omics data with medical images and phenotype variables. Therefore, in the next decades there will be developed sophisticated bioinformatics and machine learning methods and framework to analyze and explore the information in the integrated data. However, the dataset sizes and complexity requires the development of novel infrastructure systems, analysis approaches, and data exploration tools targeted for such complex health datasets.
 
 Our goal is to provide the systems, methods, and tools needed to analyze and interpret complex health datasets. Our research interests are threefold. First, build and experimentally evaluate infrastructure systems for bioinformatics and machine learning analyses. Second, apply bioinformatics, statistics, and machine learning methods for novel health data analyses. Third, build and evaluate data exploration and interpretation tools. All our research is interdisciplinary. We therefore combine experimental computer science with real problems, applications, and data obtained from our biomedical research collaborators.
@@ -65,7 +61,8 @@ The lab currently consist of:
 | Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 
 Former lab members are:
-|--------------------|----------------------------------|------------------|--------------|
+|                      |                                |                  |
+|----------------------|--------------------------------|------------------|
 | Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
 | Mayeul Marcadella    | Technical staff                | ELIXIR |
 | Aleksandr Agafonov   | Technical staff                | ELIXIR |
