@@ -21,92 +21,24 @@
 20. Bjørn Fjukstad, Lars Ailo Bongo. [A review of scalable bioinformatics pipelines](https://doi.org/10.1007/s41019-017-0047-z). *Data Science and Engineering*, 2(3), 2017
 21. Vanessa Dumeaux, Bjørn Fjukstad, Hans E. Fjosne, Jan-Ole Frantzen, Marit Muri Holmen, Enno Rodegerdts, Ellen Schlichting, Anne-Lise Børresen-Dale, Lars Ailo Bongo, Eiliv Lund, Michael Hallett. [Interactions between the tumor and the blood systemic response of breast cancer patients](https://doi.org/10.1371/journal.pcbi.1005680). *PLoS Computational Biology*, 13(9), 2017.
 22. Bjørn Fjukstad, Vanessa Dumeaux, Karina Standahl Olsen, Michael Hallett, Eiliv Lund, Lars Ailo Bongo. [Building applications for interactive data exploration in systems biology] (http://www.biorxiv.org/content/biorxiv/early/2017/05/24/141630). in *Proc. of the 8th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics*. Pp 556-561. 2017.
-                
-		
-		</li>				
-				<li>
-					Petra ten Hoopen P, Robert D. Finn, Lars Ailo Bongo, Erwan Corre, Bruno Fosso, Folker Meyer, Alex Mitchell, Eric Pelletier, Graziano Pesole, Monica Santamaria, Nils Peder Willassen, and Guy Cochrane. 
-					<a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/gix047/3869082/The-metagenomic-data-life-cycle-standards-and-best">The metagenomics data life-cycle: standards and best practices</a>. 
-					<i>GigaScience</i> 2017.
-				</li>
-                <li>
-                  Espen Mikal Robertsen, Hubert Denise, Alex Mitchell, Robert D. Finn, Lars Ailo Bongo, Nils Peder Willassen. 
-                  <a href="http://dx.doi.org/10.12688/f1000research.10443.1">ELIXIR pilot action: Marine metagenomics – towards a domain specific set of sustainable services</a>. 
-                  <i>F1000Research</i>. 2017.
-                </li>
-                <li>
-                  Edvard Pedersen, Lars Ailo Bongo. 
-                  <a href="http://arxiv.org/abs/1503.07759">Large-scale Biological Meta-Database Management</a>. 
-                  <i>Future Generation Computer Systems</i>. Vol 67. Feb 2017.
-                </li>	
-                <li>
-                  Nils Peder Willassen, Robert D. Finn, Guy Cochrane, Lars Ailo Bongo, Petra Ten Hoppen. Marine metagenomics infrastructure as driver for research and industrial innovation. 
-                  In Proc. of ECCB. 2016.
-                </li>
-				<li>
-                  Edvard Pedersen, Lars Ailo Bongo. 
-                  <a href="papers/bigdata-chapter.pdf">Big Biological Data Management</a>. Book chapter in "Resource Management for Big Data Platforms and Applications” , 
-                  Springer series on Computer Communications and Networks. 2016.
-                </li>
-            	<li>
-                    Ove Kåven, Lars Ailo Bongo. 
-                    <a href="http://ojs.bibsys.no/index.php/NIK/article/view/250">MORTAL - Multiparadigm Optimizing Retargetable Transdisciplinary Abstraction Language</a>. 
-                    <i>in Proc. of NIK 2015</i>, Ålesund, Norway.  
-                </li>
-            	<li>
-                    Milan Mihajlovic, Lars Ailo Bongo, Raimondas Ciegis, Neki Frasheri, Dragi Kimovski, Peter Kropf, Svetozar Margenov, Maya Neytcheva, Thomas Rauber, Gudula Runger, Roman Trobec, Roel Wuyts, Roman Wyrzykowski, Jing Gong. 
-                    <a href="http://superfri.org/superfri/article/view/43">Applications for ultrascale computing</a>.
-                    <i>Supercomputing Frontiers and Innovations</i>, v. 2, n. 1, June 2015. ISSN 2313-8734.
-                </li>
-            	<li>
-                    Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. 
-                    <a href="http://f1000research.com/articles/4-81/v2">Kvik: three-tier data exploration tools for flexible analysis of genomic data in epidemiological studies</a>. F1000Research 2015, 4:81.  
-                </li>
-            	<li>
-                    Lars Ailo Bongo, Edvard Pedersen, and Martin Ernstsen. 
-                    <a href="papers/cibb14-lnbi.pdf">
-                    Data-intensive computing infrastructure systems for unmodified biological data analysis pipelines. 
-                    </a><i>Lecture Notes in Bioinformatics, vol. 8623</i>. Springer, 2015.
-                </li>
-				<li>
-					 Qian Zhu, Aaron K Wong, Arjun Krishnan, Miriam R Aure,	Alicja Tadych, Ran Zhang, David C Corney, Casey S Greene, Lars A Bongo,	Vessela N Kristensen, Moses Charikar, Kai Li, Olga G Troyanskaya.
-					 Targeted exploration and analysis of large cross-platform human transcriptomic compendia. <i>Nature Methods</i>  12, 211–214. 2015.
-				</li>
-            	<li>
-                    Edvard Pedersen, Inge Alexander Raknes, Martin Ernstsen, and Lars Ailo Bongo.
-                    <a href="papers/pdp15.pdf"> Integrating Data-intensive Computing Systems with Biological Data Processing Frameworks.</a>
-                    <i>in Proc. of PDP 2015</i>, IEEE. March 2015, Turku, Finland.
-                </li>
-            	<li>
-                    Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. 
-                    <a href="http://ojs.bibsys.no/index.php/NIK/article/view/11">Kvik: Interactive exploration of genomic data from the NOWAC postgenome biobank. </a>
-					<i>in Proc. of NIK 2014</i>. November 2014, Fredrikstad, Norway.
-                </li>
-            	<li>
-                    Giacomo Tartari, Lars Tiede, Einar Jakobsen Holsbø, Kenneth Knudsen, Inge Alexander Raknes, Bjørn Fjukstad, Nicolle Mode, John Markus Bjørndalen, Eiliv Lund, Lars Ailo Bongo. 
-                    <a href="papers/vissoft14.pdf"> Mr. Clean: a tool for tracking and comparing the lineage of scientific visualization code. 
-					</a><i>in Proc. of 2nd IEEE Working Conference on Software Visualization (VISSOFT 2014)</i>. September 2014, Victoria, Canada.
-                </li>
-            	<li>
-                    Martin Ernstsen, Erik Kjærner-Semb, Nils P. Willassen, Lars Ailo Bongo. 
-                    <a href="papers/hibb14.pdf">
-                    Mario: interactive tuning of biological analysis pipelines using iterative processing. 
-                    </a><i>in Proc. of 5th International Workshop on High Performance Bioinformatics and Biomedicine (HiBB)</i>. Springer LNCS, vol. 8805, 2014.
-                </li>
-                <li>
-                    Lars Ailo Bongo, Edvard Pedersen, and Martin Ernstsen. 
-                    <a href="papers/cibb14.pdf">
-                    Data-intensive computing infrastructure systems for unmodified biological data analysis pipelines. 
-                    </a>in Proc. of <i>CIBB 2014 – Eleventh International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics</i>. June 2014, Cambridge, UK.
-                </li>
-                <li>
-                    Edvard Pedersen, Nils P. Willassen, Lars Ailo Bongo. 
-                    <a href="papers/hibb13.pdf">
-                    Transparent incremental updates for Genomics Data Analysis
-                    Pipelines
-                    </a>. in Proc. of <i>HiBB 2013 – 4th Workshop on High Performance 
-                    Bioinformatics and Biomedicine</i>. Springer LNCS, vol 8374, 2014, pp 311-320.
-                </li>
+23. Petra ten Hoopen P, Robert D. Finn, Lars Ailo Bongo, Erwan Corre, Bruno Fosso, Folker Meyer, Alex Mitchell, Eric Pelletier, Graziano Pesole, Monica Santamaria, Nils Peder Willassen, and Guy Cochrane. [The-metagenomic-data-life-cycle-standards-and-best">The metagenomics data life-cycle: standards and best practices](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/gix047/3869082/). *GigaScience*. 2017.
+24. Espen Mikal Robertsen, Hubert Denise, Alex Mitchell, Robert D. Finn, Lars Ailo Bongo, Nils Peder Willassen. [ELIXIR pilot action: Marine metagenomics – towards a domain specific set of sustainable services](http://dx.doi.org/10.12688/f1000research.10443.1). *F1000Research*. 2017.
+25. Edvard Pedersen, Lars Ailo Bongo. [Large-scale Biological Meta-Database Management](http://arxiv.org/abs/1503.07759). *Future Generation Computer Systems*. Vol 67. Feb 2017.
+26. Nils Peder Willassen, Robert D. Finn, Guy Cochrane, Lars Ailo Bongo, Petra Ten Hoppen. Marine metagenomics infrastructure as driver for research and industrial innovation. In *Proc. of ECCB*. 2016.
+27. Edvard Pedersen, Lars Ailo Bongo. [Big Biological Data Management](http://hdl.cs.uit.no/papers/bigdata-chapter.pdf). Book chapter in "Resource Management for Big Data Platforms and Applications”, *Springer series on Computer Communications and Networks*. 2016.
+28. Ove Kåven, Lars Ailo Bongo. [MORTAL - Multiparadigm Optimizing Retargetable Transdisciplinary Abstraction Language](http://ojs.bibsys.no/index.php/NIK/article/view/250). in *Proc. of NIK 2015*, Ålesund, Norway.  
+29. Milan Mihajlovic, Lars Ailo Bongo, Raimondas Ciegis, Neki Frasheri, Dragi Kimovski, Peter Kropf, Svetozar Margenov, Maya Neytcheva, Thomas Rauber, Gudula Runger, Roman Trobec, Roel Wuyts, Roman Wyrzykowski, Jing Gong. [Applications for ultrascale computing](http://superfri.org/superfri/article/view/43). *Supercomputing Frontiers and Innovations* v. 2, n. 1, June 2015. ISSN 2313-8734.
+30. Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. [Kvik: three-tier data exploration tools for flexible analysis of genomic data in epidemiological studies](http://f1000research.com/articles/4-81/v2). *F1000Research* 2015, 4:81.  
+31. Lars Ailo Bongo, Edvard Pedersen, and Martin Ernstsen. [Data-intensive computing infrastructure systems for unmodified biological data analysis pipelines](http://hdl.cs.uit.no/papers/cibb14-lnbi.pdf). *Lecture Notes in Bioinformatics*, vol. 8623. Springer, 2015.
+32. Qian Zhu, Aaron K Wong, Arjun Krishnan, Miriam R Aure,	Alicja Tadych, Ran Zhang, David C Corney, Casey S Greene, Lars A Bongo,	Vessela N Kristensen, Moses Charikar, Kai Li, Olga G Troyanskaya. Targeted exploration and analysis of large cross-platform human transcriptomic compendia. *Nature Methods*. 12, 211–214. 2015.
+33. Edvard Pedersen, Inge Alexander Raknes, Martin Ernstsen, and Lars Ailo Bongo. [Integrating Data-intensive Computing Systems with Biological Data Processing Frameworks](http://hdl.cs.uit.no/papers/pdp15.pdf). in *Proc. of PDP 2015*, IEEE. March 2015, Turku, Finland.
+34. Bjørn Fjukstad, Karina Standahl Olsen, Mie Jareid, Eiliv Lund, Lars Ailo Bongo. [Kvik: Interactive exploration of genomic data from the NOWAC postgenome biobank](http://ojs.bibsys.no/index.php/NIK/article/view/11). in *Proc. of NIK 2014*. November 2014, Fredrikstad, Norway.
+35. Giacomo Tartari, Lars Tiede, Einar Jakobsen Holsbø, Kenneth Knudsen, Inge Alexander Raknes, Bjørn Fjukstad, Nicolle Mode, John Markus Bjørndalen, Eiliv Lund, Lars Ailo Bongo. [Mr. Clean: a tool for tracking and comparing the lineage of scientific visualization code](http://hdl.cs.uit.no/papers/vissoft14.pdf). in *Proc. of 2nd IEEE Working Conference on Software Visualization (VISSOFT 2014)*. September 2014, Victoria, Canada.
+36. Martin Ernstsen, Erik Kjærner-Semb, Nils P. Willassen, Lars Ailo Bongo. [Mario: interactive tuning of biological analysis pipelines using iterative processing](http://hdl.cs.uit.no/papers/hibb14.pdf). in *Proc. of 5th International Workshop on High Performance Bioinformatics and Biomedicine (HiBB)*. Springer LNCS, vol. 8805, 2014.
+37. Lars Ailo Bongo, Edvard Pedersen, and Martin Ernstsen. [Data-intensive computing infrastructure systems for unmodified biological data analysis pipelines](http://hdl.cs.uit.no/papers/cibb14.pdf). in *Proc. of <i>CIBB 2014 – Eleventh International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics*. June 2014, Cambridge, UK.
+38. Edvard Pedersen, Nils P. Willassen, Lars Ailo Bongo. [Transparent incremental updates for Genomics Data Analysis Pipelines](http://hdl.cs.uit.no/papers/hibb13.pdf). in *Proc. of HiBB 2013 – 4th Workshop on High Performance Bioinformatics and Biomedicine*. Springer LNCS, vol 8374, 2014, pp 311-320.
+               
+	       </li>
                 <li>
                     Christopher Park, Aaron Wong, Casey Greene, Jessica Rowland, 
                     Yuanfang Guan, Lars Ailo Bongo, Rebecca D. Burdine, 
@@ -125,7 +57,7 @@
                     Conference on Human Factors in Computing Systems. 2013.
                 </li>
                 <li>
-                    Lars Ailo Bongo. <a href="papers/bsv.pdf">
+                    Lars Ailo Bongo. <a href="http://hdl.cs.uit.no/papers/bsv.pdf">
                     Bulk Synchronous Visualization</a>.
                     in <i>Proc. of the 2013 International Workshop on 
                     Programming Models and Applications for Multicores and 
@@ -180,7 +112,7 @@
                 </li>
                 <li>
                     Lars Ailo Bongo, Grant Wallace, Tore Larsen, Kai Li, and
-                    Olga Troyanskaya. <a href="papers/gccb07.pdf">System Support
+                    Olga Troyanskaya. <a href="http://hdl.cs.uit.no/papers/gccb07.pdf">System Support
                     for Remote Visualization of Genomics Applications over Wide
                     Area Networks</a>. in <i>Proc. of The International Workshop
                     on Distributed, High-Performance and Grid Computing in
@@ -190,7 +122,7 @@
                 <li>
                     Lars Ailo Bongo, Brian Vinter, Otto J. Anshus, Tore Larsen
                     and John Markus Bjørndalen. <a
-                    href="papers/icpp06.pdf">Using Overdecomposition to Overlap
+                    href="http://hdl.cs.uit.no/papers/icpp06.pdf">Using Overdecomposition to Overlap
                     Communication Latencies with Computation and Take Advantage
                     of SMT Processors</a>. in <i>Proceedings of the 2006
                     International Conference on Parallel Processing
@@ -199,20 +131,20 @@
                 </li>
                 <li> 
                     Lars Ailo Bongo, Otto J. Anshus and John Markus Bjørndalen.
-                    <a href="papers/icpp05.pdf">Low overhead high performance
+                    <a href="http://hdl.cs.uit.no/papers/icpp05.pdf">Low overhead high performance
                     monitoring of collective communication</a>. in 
                     <i>Proceedings of the 2005 International Conference on
                     Parallel Processing</i>. IEEE Computer Society. pp 455--464.
                     Oslo, Norway. June. 2005.
                 </li>
                     Lars Ailo Bongo, Otto Anshus, John Markus  Bjørndalen.
-                    <a href="papers/europar04.pdf">Collective communication
+                    <a href="http://hdl.cs.uit.no/papers/europar04.pdf">Collective communication
                     performance analysis within the communication
                     system</a>. in Proceedings of Euro-Par 2004. <i>LNCS
                     3149</i>, Springer 2004.  </li>
                 <li>
                     Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen, Tore
-                    Larsen.  <a href="papers/heteropar04.pdf">Extending
+                    Larsen.  <a href="http://hdl.cs.uit.no/papers/heteropar04.pdf">Extending
                     Collective Operations with Application Semantics for
                     Improving Multi-cluster Performance</a>. in <i> Proceedings 
                     of Third International Workshop on Algorithms, Models and
@@ -221,7 +153,7 @@
                 </li>
                 <li>
                     Otto Anshus, John Markus Bjørndalen, Lars Ailo Bongo. 
-                    <a href="papers/parco04.pdf">Experiences Parallelizing, 
+                    <a href="http://hdl.cs.uit.no/papers/parco04.pdf">Experiences Parallelizing, 
                     Configuring, and Monitoring of Parallel Applications on
                     Clusters</a>. <i>Parallel computing: Software
                     Technology, Algorithms, Architectures and Applications</i>.
@@ -230,7 +162,7 @@
                 </li>
                 <li>
                     Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. <a
-                    href="papers/europar03.pdf">EventSpace - Exposing and
+                    href="http://hdl.cs.uit.no/papers/europar03.pdf">EventSpace - Exposing and
                     Observing Communication Behavior of Parallel Cluster
                     Applications</a>. in <i>Euro-Par 2003 Parallel Processing,
                     Proceedings of the 9th International Euro-Par Conference</i>.
@@ -243,7 +175,7 @@
                 </li> 
                 <li>
                     John Markus Bjørndalen, Otto Anshus, Tore Larsen, Lars Ailo
-                    Bongo, Brian Vinter. <a href="papers/euromicro02.pdf">
+                    Bongo, Brian Vinter. <a href="http://hdl.cs.uit.no/papers/euromicro02.pdf">
                     Scalable Processing and Communication Performance in a
                     Multi-Media Related Context</a>. in <i>Proceedings of the 28th
                     EuroMicro Conference</i>. 2002.
