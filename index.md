@@ -47,16 +47,20 @@ We are collaborating with Associate Professor [Kristian Svendsen](https://en.uit
 # People
 
 The lab currently consist of:
+|---------------------------|-----------------------------|---------------------------------|--------------|
 | Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
 | Edvard Pedersen           |	Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
 | Einar Holsbø              | Postdoc 	                  | Population studies in the north | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Jo Inge Arnes             | PhD student                 | NOWAC                           | [GitHub](https://github.com/jo-inge-arnes) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
-| Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage]() |
-| Mohsen Askar              | Affiliated PhD student      | Adverse drug reactions          | [Homepage]() |
+| Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
+| Mohsen Askar              | Affiliated PhD student      | Adverse drug reactions          | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Alvaro Martinez Fernandez | Master student              | NOWAC                           | [GitHub](https://github.com/kolibrid) |
+| Sidra Tahi                | Master student              |                                 | |
+| Anton Garri Fagerbakk     | Master student              |                                 | |
 | Nikita Shvetsov 	        | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
-| Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub]() |
+| Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
+| Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 
 
