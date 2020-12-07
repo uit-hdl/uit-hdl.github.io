@@ -43,3 +43,20 @@ In the [air:bit](http://airbit.uit.no/) air pollution project we have developed 
 ## Other
 
 We are collaborating with Associate Professor [Kristian Svendsen](https://en.uit.no/ansatte/kristian.svendsen) on analysis of adverse drug effect data, with [Hilde Sommerseth](https://en.uit.no/ansatte/hilde.sommerseth) at The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) on transcription of Norwegian handwritten census books, and Professor [Geir F. Lorem](https://en.uit.no/ansatte/geir.lorem) on biomedical ethics with a focus on direct-to-consumer genomics tests. 
+
+# People
+
+The lab currently consist of:
+| Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
+| Edvard Pedersen           |	Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
+| Einar Holsbø              | Postdoc 	                  | Population studies in the north | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
+| Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
+| Jo Inge Arnes             | PhD student                 | NOWAC                           | [GitHub](https://github.com/jo-inge-arnes) |
+| Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
+| Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage]() |
+| Mohsen Askar              | Affiliated PhD student      | Adverse drug reactions          | [Homepage]() |
+| Alvaro Martinez Fernandez | Master student              | NOWAC                           | [GitHub](https://github.com/kolibrid) |
+| Nikita Shvetsov 	        | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
+| Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub]() |
+
+
