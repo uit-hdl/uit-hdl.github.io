@@ -118,66 +118,22 @@
 
 
 # Posters
-1. Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi.
-					<a href="https://f1000research.com/posters/7-766">ELIXIR-FI Pouta scientific cloud services</a>.
-					Poster at the Elixir all-hands meeting.
-					Berlin, Germany, June 2018.
-2. Terje Klemetsen, Inge A. Raknes, Juan Fu, Alexander Agafonov, Sudhagar V. Balasundaram, Giacomo Tartari, Espen Robertsen, Nils P. Willassen.
-					<a href="https://f1000research.com/posters/7-767">Succession of the MAR-databases and marine metagenomics portal (MMP), coordination of marine sequenced data</a>.
-					Poster at the Elixir all-hands meeting. 
-					Berlin, Germany. June 2018.
-3. Nina Angelvik.
-					<a href="papers/poster-nina-sigcse18.pdf">Air pollution data analysis platform for computer science education projects</a>.
-					Poster at the 49th ACM Technical Symposium on Computer Science Education.
-					Baltimore, USA, February 2018.
-4. Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo.
-					Reproducible Data Analysis Pipelines for Precision Medicine.
-					Poster at the 6th Norwegian Cancer Symposium. Oslo, Norway, December 2017.
-5. Terje Klemetsen, et al.
-					Novel Marine Reference Databases, The Marine Metagenomics Portal (MMP).
-					Poster at the Elixir all-hands meeting. Rome, Italy. April 2017.
-6. Espen M. Robertsen, et al.
-					META-pipe 2.0.
-					Poster at the Elixir all-hands meeting. Rome, Italy. April 2017.
-7. Einar Holsbø. 
-					<a href="http://3inar.github.io/assets/pdfs/poster-smpgd2017.pdf">Predicting breast cancer metastasis from blood gene expression using time-to-diagnosis data to derive signature estimates.</a> 
-					Poster presented at the 2017 Statistical Methods for Postgenomic Data workshop. London, UK. January 2017.
-8. Espen M. Robertsen, et al.
-	            	<a href="https://f1000research.com/posters/5-864">Elixir Pilot Action: Marine metagenomics - towards user centric services.</a>
-	            	Poster at the Elixir all-hands meeting. Barcelona, Spain. March 2016.
-9. ELIXIR.NO team.
-	            	ELIXIR.NO - The national technology platform for bioinformatics.
-	            	Poster at NBS meeting. Tromsø, Norway. January 2016.
-10. Espen Mikal Robertsen, Edvard Pedersen, Martin Ernstsen, Tim Kalhke, Lars Ailo Bongo, Nils Peder Willassen.
-	            	META-pipe – Pipeline annotation, analysis and visualization of metagenomic data.
-	            	Poster at NBS meeting. Tromsø, Norway. January 2016.
-11. NeLS team.
-	            	NeLS: Norwegian e-Infrastructure for Life Sciences.
-	            	Poster at 2015 Galaxy Community Conference (GCC2015). Norwich, UK. July 2015.
-12. Espen M. Robertsen, et al.
-	            	<a href="papers/elixir-all-hands-2015-poster.pdf">Elixir Pilot Action: Marine metagenomics - towards user centric services</a>.
-	            	Poster at the Elixir all-hands meeting. Hinxton, UK. March 2015.
-13. Giacomo Tartari, Lars Tiede, Einar Jakobsen Holsbø, Kenneth Knudsen, Inge Alexander Raknes, Bjørn Fjukstad, Nicolle Mode, John Markus Bjørndalen, Eiliv Lund, Lars Ailo Bongo. 
-                    <a href="papers/vissoft14-poster.pdf"> Mr. Clean: a tool for tracking and comparing the lineage of scientific visualization code. 
-					</a> Poster at 2nd IEEE Working Conference on Software Visualization (VISSOFT 2014). September 2014, Victoria, Canada.
-14. Lars Ailo Bongo. Bulk Synchronous Visualization. Poster at the 2nd IEEE
-                    Symposium on Biological Data Visualization. Seattle, WA,
-                    USA. October 2012. (<a href="papers/biovis12-abstract.pdf">extended abstract</a>, <a href=papers/biovis12-poster.pdf>poster</a>).
-15.  Edvard Pedersen, Nils Peder Willassen, Lars Ailo Bongo.
-                    GeStore - Incremental Computations for Metagenomic
-                    Pipelines. Poster at Norsk Bioinformatikk Forum. Bergen,
-                    Norway. October 2012. (<a href="papers/gestore-poster.pdf">poster</a>)  
-16. Edvard Pedersen, Nils Peder Willassen, Lars Ailo Bongo.
-                    GeStore - Incremental Computations for Metagenomic
-                    Pipelines. Poster at the 11th Annual Meeting on High
-                    Performance Computing and Infrastructure in Norway - NOTUR
-                    2012. Tromsø, Norway. June 2012.(<a href="papers/gestore-poster.pdf">poster</a>)
-17. Lars Ailo Bongo, Daniel Stødle, Grant Wallace, Tore Larsen,
-                    Kai Li and Olga Troyanskaya. System Support for
-                    Collaborative Genomics Visualizations. Poster at the 16th
-                    International Conference on Intelligent Systems for
-                    Molecular Biology. Toronto, Canada. July 2008. (<a href=papers/ismb08-poster.pdf>poster</a>).
-18. Lars Ailo Bongo. Dynamically adapting communication behavior
-                    of parallel applications. NOTUR gathering. Oslo, Norway. May
-                    2003.
+1. Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi. [ELIXIR-FI Pouta scientific cloud services]("https://f1000research.com/posters/7-766). Poster at the Elixir all-hands meeting. Berlin, Germany, June 2018.
+2. Terje Klemetsen, Inge A. Raknes, Juan Fu, Alexander Agafonov, Sudhagar V. Balasundaram, Giacomo Tartari, Espen Robertsen, Nils P. Willassen.[Succession of the MAR-databases and marine metagenomics portal (MMP), coordination of marine sequenced data](https://f1000research.com/posters/7-767). Poster at the Elixir all-hands meeting. Berlin, Germany. June 2018.
+3. Nina Angelvik.[Air pollution data analysis platform for computer science education projects](http://hdl.cs.uit.no/papers/poster-nina-sigcse18.pdf). Poster at the 49th ACM Technical Symposium on Computer Science Education. Baltimore, USA, February 2018.
+4. Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo. *Reproducible Data Analysis Pipelines for Precision Medicine*. Poster at the 6th Norwegian Cancer Symposium. Oslo, Norway, December 2017.
+5. Terje Klemetsen, et al. *Novel Marine Reference Databases, The Marine Metagenomics Portal (MMP)*. Poster at the Elixir all-hands meeting. Rome, Italy. April 2017.
+6. Espen M. Robertsen, et al. META-pipe 2.0. Poster at the Elixir all-hands meeting. Rome, Italy. April 2017.
+7. Einar Holsbø. [Predicting breast cancer metastasis from blood gene expression using time-to-diagnosis data to derive signature estimates](http://3inar.github.io/assets/pdfs/poster-smpgd2017.pdf). Poster presented at the 2017 Statistical Methods for Postgenomic Data workshop. London, UK. January 2017.
+8. Espen M. Robertsen, et al. [Elixir Pilot Action: Marine metagenomics - towards user centric services](https://f1000research.com/posters/5-864). Poster at the Elixir all-hands meeting. Barcelona, Spain. March 2016.
+9. ELIXIR.NO team. *ELIXIR.NO - The national technology platform for bioinformatics*. Poster at NBS meeting. Tromsø, Norway. January 2016.
+10. Espen Mikal Robertsen, Edvard Pedersen, Martin Ernstsen, Tim Kalhke, Lars Ailo Bongo, Nils Peder Willassen. *META-pipe – Pipeline annotation, analysis and visualization of metagenomic data*. Poster at NBS meeting. Tromsø, Norway. January 2016.
+11. NeLS team. *NeLS: Norwegian e-Infrastructure for Life Sciences*. Poster at 2015 Galaxy Community Conference (GCC2015). Norwich, UK. July 2015.
+12. Espen M. Robertsen, et al. [Elixir Pilot Action: Marine metagenomics - towards user centric services](http://hdl.cs.uit.no/papers/elixir-all-hands-2015-poster.pdf). Poster at the Elixir all-hands meeting. Hinxton, UK. March 2015.
+13. Giacomo Tartari, Lars Tiede, Einar Jakobsen Holsbø, Kenneth Knudsen, Inge Alexander Raknes, Bjørn Fjukstad, Nicolle Mode, John Markus Bjørndalen, Eiliv Lund, Lars Ailo Bongo. [Mr. Clean: a tool for tracking and comparing the lineage of scientific visualization code](http://hdl.cs.uit.no/papers/vissoft14-poster.pdf). Poster at 2nd IEEE Working Conference on Software Visualization (VISSOFT 2014). September 2014, Victoria, Canada.
+14. Lars Ailo Bongo. *Bulk Synchronous Visualization*. Poster at the 2nd IEEE Symposium on Biological Data Visualization. Seattle, WA, USA. October 2012. ([Extended abstract](http://hdl.cs.uit.no/papers/biovis12-abstract.pdf), [Poster](http://hdl.cs.uit.nopapers/biovis12-poster.pdf).
+15.  Edvard Pedersen, Nils Peder Willassen, Lars Ailo Bongo. [GeStore - Incremental Computations for Metagenomic Pipelines](http://hdl.cs.uit.no/papers/gestore-poster.pdf). Poster at Norsk Bioinformatikk Forum. Bergen, Norway. October 2012.  
+16. Edvard Pedersen, Nils Peder Willassen, Lars Ailo Bongo. [GeStore - Incremental Computations for Metagenomic Pipelines]http://hdl.cs.uit.no/papers/gestore-poster.pdf). Poster at the 11th Annual Meeting on High Performance Computing and Infrastructure in Norway - NOTUR 2012. Tromsø, Norway. June 2012.
+17. Lars Ailo Bongo, Daniel Stødle, Grant Wallace, Tore Larsen, Kai Li and Olga Troyanskaya. [System Support for Collaborative Genomics Visualizations](http://hdl.cs.uit.no/papers/ismb08-poster.pdf). Poster at the 16th International Conference on Intelligent Systems for Molecular Biology. Toronto, Canada. July 2008.
+18. Lars Ailo Bongo. *Dynamically adapting communication behavior of parallel applications*. NOTUR gathering. Oslo, Norway. May 2003.
 
