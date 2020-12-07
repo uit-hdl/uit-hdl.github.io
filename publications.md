@@ -8,47 +8,16 @@
 7. Mike Voets, Kajsa Møllersen, Lars Ailo Bongo. [Reproduction study using public data of: Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0217541). PLoS ONE 14(6): e0217541.
 8. Dong, C, Metzger, M, Holsbø, E, Perduca, V, Carbonnel, F. Systematic review with meta‐analysis: mortality in acute severe ulcerative colitis. Aliment Pharmacol Ther. 2019; 00: 1– 27.
 9. Cristina Jácome, Johan Ravn, Einar Holsbø, Juan Carlos Aviles-Solis, Hasse Melbye, Lars Ailo Bongo. [Convolutional neural network for breathing phase detection in lung sounds](https://www.mdpi.com/1424-8220/19/8/1798). Sensors (Basel). 2019 Apr 15;19(8).
-10. 
-
-4. 
-				</li>
-				<li>
-					Bjørn Fjukstad, Nina Angelvik, Morten Grønnesby, Maria Wulff Hauglann, Hedinn Gunhildrud, Fredrik Høisæther Rasch, Julianne Iversen, Margaret Dalseng, Lars Ailo Bongo.
-					<a href="https://arxiv.org/abs/1901.05240">Teaching Electronics and Programming in Norwegian Schools Using the air:bit Sensor Kit</a>.
-					To appear in ITiCSE 2019.
-				</li>
-				            <ol>
-				<li>
-					Jo Inge Arne, Randi Karlsen. <a href="https://arxiv.org/abs/2001.05276">Cloudless Friend-to-Friend Middleware for Smartphones</a>. In: Obaidat M. (eds) E-Business and Telecommunications. ICETE 2018. Communications in Computer and Information Science, vol 1118. Springer, Cham.
-				</li>
+10. Bjørn Fjukstad, Nina Angelvik, Morten Grønnesby, Maria Wulff Hauglann, Hedinn Gunhildrud, Fredrik Høisæther Rasch, Julianne Iversen, Margaret Dalseng, Lars Ailo Bongo. [Teaching Electronics and Programming in Norwegian Schools Using the air:bit Sensor Kit](https://arxiv.org/abs/1901.05240). In Proceedings of the 2019 ACM Conference on Innovation and Technology in Computer Science Education. July 2019. Pages 374–380. https://doi.org/10.1145/3304221.3325527
+11. Jo Inge Arne, Randi Karlsen. [Cloudless Friend-to-Friend Middleware for Smartphones](https://arxiv.org/abs/2001.05276). Communications in Computer and Information Science, vol 1118. Springer, Cham. 2018.
+12. Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo. [Reproducible Data Analysis Pipelines for Precision Medicine](https://www.biorxiv.org/content/early/2018/06/25/354811). In Proceedings of the 27th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing. 2019.
+13. Einar Holsbø, Vittorio Perduca. [Shrinkage  estimation  of  rate statistics](csbigs.fr/article/view/688/727). Case Studies in Business, Industry and Government Statistics. 2018; Volum 71.
+14. Kidane M. Tekle1, Sveinung Gundersen, Kjetil Klepper, Lars Ailo Bongo, Inge Alexander Raknes, Xiaxi Li, Wei Zhang, Christian Andreetta, Teshome Dagne Mulugeta, Matúš Kalaš, Morten B. Rye, Erik Hjerde, Jeevan Karloss Antony Samy, Ghislain Fornous, Abdulrahman Azab, Dag Inge Våge, Eivind Hovig, Nils Peder Willassen, Finn Drabløs, Ståle Nygård, Kjell Petersen, Inge Jonassen. [Norwegian e-Infrastructure for Life Sciences (NeLS)](https://f1000research.com/articles/7-968/v1). F1000Research 2018, 7(ELIXIR):968 (doi: 10.12688/f1000research.15119.1).
+15. Yury Kiselev, Sigve Andersen, Charles Johannessen, Bjørn Fjukstad, Karina Standahl Olsen, Helge Stenvold, Samer Al-Saad, Tom Donnem, Elin Richardsen, Roy M. Bremnes & Lill-Tove Rasmussen Busund. [Transcription factor pax6 as a novel prognostic factor and putative tumour suppressor in non-small cell lung cancer](https://www.nature.com/articles/s41598-018-23417-z). Scientific reports, vol. 8, no. 1, p. 5059, 2018
+16. Inge Alexander Raknes, Lars Ailo Bongo. [META-pipe Authorization service](https://f1000research.com/articles/7-32/v2). F1000Research 2018, 7(ELIXIR):32 (doi: 10.12688/f1000research.13256.2).
+17. Bjørn Fjukstad, Nina Angelvik, Maria Wulff Hauglann, Joachim Sveia Knutsen, Morten Grønnesby, Hedinn Gunhildrud, Lars Ailo Bongo. [Low-Cost Programmable Air Quality Sensor Kits in Science Education](). In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18). ACM, New York, NY, USA, 227-232. 2018.
 				
-				<li>
-					Bjørn Fjukstad, Vanessa Dumeaux, Michael Hallett, Lars Ailo Bongo.
-					<a href="https://www.biorxiv.org/content/early/2018/06/25/354811">Reproducible Data Analysis Pipelines for Precision Medicine</a>.
-					In Proceedings of the 27th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing. 2019.
-				</li>
-				<li>
-					Einar Holsbø, Vittorio Perduca. 
-					<a href="csbigs.fr/article/view/688/727">Shrinkage  estimation  of  rate statistics</a>.
-					<i>Case Studies in Business, Industry and Government Statistics</i> 2018; Volum 71.
-				</li>
-				<li>
-					Kidane M. Tekle1, Sveinung Gundersen, Kjetil Klepper, Lars Ailo Bongo, Inge Alexander Raknes, Xiaxi Li, Wei Zhang, Christian Andreetta, Teshome Dagne Mulugeta, Matúš Kalaš, Morten B. Rye, Erik Hjerde, Jeevan Karloss Antony Samy, Ghislain Fornous, Abdulrahman Azab, Dag Inge Våge, Eivind Hovig, Nils Peder Willassen, Finn Drabløs, Ståle Nygård, Kjell Petersen, Inge Jonassen.
-					<a href="https://f1000research.com/articles/7-968/v1">Norwegian e-Infrastructure for Life Sciences (NeLS</a> [version 1; referees: 2 approved].
-					 F1000Research 2018, 7(ELIXIR):968 (doi: 10.12688/f1000research.15119.1).
-				</li>
-				<li>
-					Yury Kiselev, Sigve Andersen, Charles Johannessen, Bjørn Fjukstad, Karina Standahl Olsen, Helge Stenvold, Samer Al-Saad, Tom Donnem, Elin Richardsen, Roy M. Bremnes & Lill-Tove Rasmussen Busund. <a href="https://www.nature.com/articles/s41598-018-23417-z">Transcription factor pax6 as a novel prognostic factor and putative tumour suppressor in non-small cell lung cancer</a>. Scientific reports, vol. 8, no. 1, p. 5059, 2018
-				</li>
-				<li>
-					Inge Alexander Raknes, Lars Ailo Bongo.
-					<a href="https://f1000research.com/articles/7-32/v2">META-pipe Authorization service</a>  [version 2; referees: 2 approved]. 
-					F1000Research 2018, 7(ELIXIR):32 (doi: 10.12688/f1000research.13256.2) .
-				</li>
-				<li>
-					Bjørn Fjukstad, Nina Angelvik, Maria Wulff Hauglann, Joachim Sveia Knutsen, Morten Grønnesby, Hedinn Gunhildrud, Lars Ailo Bongo.
-					Low-Cost Programmable Air Quality Sensor Kits in Science Education.
-					In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE '18). ACM, New York, NY, USA, 227-232. 2018.
+				
 				</li>
 				<li>
 					Aleksandr Agafonov, Kimmo Mattila, Cuong Duong Tuan, Lars Tiede, Inge Alexander Raknes, Lars Ailo Bongo.
