@@ -39,14 +39,17 @@
         </ul>
         {% endif %}
         -->
+        <p>
         {% for page in site.html_pages %}
 
           <a href="{{ page.url }}">{{ page.title }}</a><br \>
 
         {% endfor %}  <!-- page -->
-
+        </p>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <p>
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+          </p>
         {% endif %}
        
         </div>
