@@ -7,7 +7,7 @@ title: Publications
 <!-- Also note that the list numbers do not matter, except for the first one so we just do them in reverse order -->
 1. Bjørn Fjukstad, Nikita Shvetsov, Therese H Nøst, Hege Bøvelstad, Till Halbach, Einar Holsbø, Knut Hansen, Eiliv Lund, Lars Ailo Bongo. [Reproducible data management and analysis using R](https://www.biorxiv.org/content/10.1101/644625v1). To appear in *Advancing systems epidemiology in cancer*. 2021.
 57. Jo Inge Arnes, Lars Ailo Bongo. Beauty of complex designs. To appear in *Advancing systems epidemiology in cancer*. 2021.
-56. Einar. To appear in *Advancing systems epidemiology in cancer*. 2021.
+56. Einar Holsbø, Kajsa Møllersen. Woes of the Practicing Omics Researcher. To appear in *Advancing systems epidemiology in cancer*. 2021.
 55. Maria Luz Gámiz, Rafael Nozal-Cañadas, Rocío Raya-Miranda. [TTT-SiZer: A graphic tool for aging trends recognition]. *Reliability Engineering & System Safety*. vol. 202, 2020, https://doi.org/10.1016/j.ress.2020.107010.
 54. Tengel Ekrem Skar, Einar Holsbø, Kristian Svendsen, Lars Ailo Bongo. [Interactive exploration of population scale pharmacoepidemiology datasets](https://arxiv.org/abs/2005.09890), in *Proc. of the 11th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics*, Virtual Event. 2020.
 53. Einar Holsbø, Karina Standahl Olsen. [Metastatic Breast Cancer and Pre-Diagnostic Blood Gene Expression Profiles—The Norwegian Women and Cancer (NOWAC) Post-Genome Cohort](). *Frontiers in oncology*. 2020 Oct 15;10:2277.
