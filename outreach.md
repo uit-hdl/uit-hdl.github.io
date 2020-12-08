@@ -119,40 +119,12 @@ title: Outreach
 1. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. *Experiences Visualizing Multi-cluster Parallel Applications*. Seminar in Computer Graphics. Oslo, Norway. March 2003.
 
 
-            </p>
-                
-            <a id="demos) 
-           <h2>Demos</h2>
-           <p>
-            <ol>
-            	<li>
-            		Inge Alexander Raknes, Espen M. Robertsen. 
-            		<i>Marine metagenomics pilot: system and tools</i>.
-            		Demo at Elixir all-hands meeting. Hinxton, UK. March 2015.
-            	</li>
-            	<li>
-            		Inge Alexander Raknes.
-            		<i>META-pipe: Metagenomics annotation pipeline</i>.
-            		Demo at the "Tools for analyzing high-throughput sequencing data" workshop. 
-            		Oslo, Norway. March 2015.
-            	</li>
-                <li>
-                	Giacomo Tartari. Demo of
-					[](http://youtu.be/NFUDsPQRwqE)Mr. Clean: a tool for tracking and comparing the lineage of scientific visualization code. 
-					2nd IEEE Working Conference on Software Visualization (VISSOFT 2014). September 2014, Victoria, Canada. 
-                </li>
-                <li>
-                	Bjørn Fjukstad. <a
-                    href="papers/kvik-nowac-group-meeting-fall-2014.pdf)Kvik:
-                    Interactive Exploration of multi-omics data from the NOWAC
-                    postgenome biobank. NOWAC postgenome group meeting.
-                    September 2014. 
-                </li> 
-				<li>
-					Giacomo Tartari, Lars Tiede, John Markus Bjørndalen, Otto J. Anshus. 
-					<i>World Opera demo for Faculty of Fine Arts</i>.
-					September 2014. 
-                </li>
-				<li>
-					List was started in August 2014.
-                </li>
+# Demos and videos
+1. Alvaro Martinez Fernandez. [GeneNet VR: Large Biological Networks in Virtual Reality](https://www.youtube.com/watch?v=N4QDZiZqVNY)
+2. Inge Alexander Raknes, Espen M. Robertsen. *Marine metagenomics pilot: system and tools*. Demo at Elixir all-hands meeting. Hinxton, UK. March 2015.
+3. Inge Alexander Raknes. *META-pipe: Metagenomics annotation pipeline*. Demo at the "Tools for analyzing high-throughput sequencing data" workshop. Oslo, Norway. March 2015.
+4. Kenneth Knudsen. [ Freia: Exploring Biological Pathways Using Unity3D](http://youtu.be/22XmfSYOwO8).
+5. Giacomo Tartari. [Demo of Mr. Clean: a tool for tracking and comparing the lineage of scientific visualization code](http://youtu.be/NFUDsPQRwqE). 2nd IEEE Working Conference on Software Visualization (VISSOFT 2014). September 2014, Victoria, Canada. 
+6. Bjørn Fjukstad. [Kvik: Interactive Exploration of multi-omics data from the NOWAC postgenome biobank](http://hdl.cs.uit.no/papers/kvik-nowac-group-meeting-fall-2014.pdf). NOWAC postgenome group meeting. September 2014. 
+7. Giacomo Tartari, Lars Tiede, John Markus Bjørndalen, Otto J. Anshus. *World Opera demo for Faculty of Fine Arts*. September 2014.
+8. List was started in August 2014.
