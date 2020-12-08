@@ -19,199 +19,46 @@ title: Outreach
 3. Lars Ailo Bongo. [BiN-Technology overview](https://docs.google.com/presentation/d/1Uq9AMqamLhaaBQy4l9mYuTEgWoUngfia33K5icl6EcE/edit#slide=id.g775d4a5551_0_0). BiN seminar. Vitual event. 07.05.20.
 4. Lars Ailo Bongo. [Mammograms project](https://docs.google.com/presentation/d/1lGNFfY3ZOL--Jt9CVloc1rr3d5bSy9KF1cTy9hXM9Hw/edit#slide=id.p1). UNN AI meeting. 10.03.20 
 5. Lars Ailo Bongo. [Enabling and utilizing industry innovations for health data analysis](https://docs.google.com/presentation/d/1ekiC80sykdXQP8jAAO6CH6SZ9-e5y-8RYHK2lrx91rk/edit). Machine Learning and its Application in Sport Science and Public Health, München, 26-27.02.2020
+6. Lars Ailo Bongo. [A practical approach for deep learning based transcription of handwritten historical protocols](https://docs.google.com/presentation/d/1CEWuFl0hE1UYDA4bNeNwWVTCQzFL44T9NgmChMbmcao/edit). 3rd European Society of Historical Demography Conference. Pécs, Hungary. June 2019.
+7. Lars Ailo Bongo. [Building platforms for exploiting biomedical data](https://docs.google.com/presentation/d/1SakRz1FzpSeT205l_z4SbfN_90zEBkECQxKwMHBXxgM/edit). Workshop on Biomedical informatics research on healthcare. Bodø, Norway. June 2019.
+8. Lars Ailo Bongo.	*Machine learning, medical data, commercialization*. UiT Machine Learning seminars, Tromsø, 13.03.19.
+9. Kristian Svendsen, Tengel Ekrem Skar, Lars Ailo Bongo. *Bruk av store registerdata for å utforske legemiddelbruk av eldre*. Seminar om aldring. 21.02.19.
+10. Einar Holsbø. [Small data: practical modeling issues in human-model -omic data](http://3inar.github.io/pdfs/phd_main_small_data.pdf). PhD lecture, Tromsø, 08.02.19.
+11. Einar Holsbø. [Variable selection in genomics - methods, challenges, and possibilities](http://3inar.github.io/pdfs/phd_trial_variable_selection.pdf). PhD trial lecture, Tromsø, 08.02.19.
+12. Bjørn Fjukstad. [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](http://fjukstad.github.io/research/thesis-presentation.pdf). PhD lecture, Tromsø, 21.01.19.
+13. Bjørn Fjukstad. [Why it’s hard to reproduce results in software](http://fjukstad.github.io/research/why-its-hard-to-reproduce-results-in-software.pdf). PhD trial lecture, Tromsø, January 2019.
+14. Lars Ailo Bongo. [Deep Learning- Om utvikling av dataprogram for tolkning av røntgenbilder](https://docs.google.com/presentation/d/1EK_-DxlQBVaOXm2iA1FOFKfIYwEtTX4MpHz2lZKnYSE/edit#slide=id.p1). Radiografiens dag. UNN, Tromsø, Norway. 08.11.18.
+15. Mayeul Marcadella and Aleksander Agafonov. [META-pipe updates](https://drive.google.com/open?id=1lZgs63HHFIMovmQsRrKE3VKRRRTH4oFS). NELS developer workshop, Trondheim, Norway, 19.09.18
+16 .Lars Ailo Bongo and Kjell Petersen. [MMG Galaxies](https://docs.google.com/presentation/d/1EK_-DxlQBVaOXm2iA1FOFKfIYwEtTX4MpHz2lZKnYSE/edit#slide=id.p1). Galaxy user community workshop, ELIXIR all-hands, Berlin, 07.06.18
+17. Bjørn Fjukstad. [Reisebrev fra ACM SIGCSE 2018](https://kidsakoder.no/2018/03/12/reisebrev-acm-sigcse-2018/). Blog post. Lær Kidsa Koding. March 2018.
+18. Nina Angelvik. *air:bit, en "snikinnføring" av koding i skolen*. IT-forum, Tromsø, 07.02.18
+19. Bjørn Fjukstad.	*Game programming tutorial*. MultiLAN, Bodø, February 2018.
+20. Bjørn Fjukstad. *Lær kidsa koding*. NHO Norland årskonferanse, Bodø, February 2018.
+21. Lars Ailo Bongo. *Tromsø Lung Study => Medsensio AS*. Tromsøundersøkelsen arbeidsutvalg, Tromsø, 26.01.18
+22. Maria Wulff Hauglann, Morten Grønnesby. *air:bit – en snikinnføring av koding i skolen*. Candidata Biennale, Tromsø, 12.01.18
+23. Lars Ailo Bongo. *Hva skal vi med 250.000 mammografi bilder?*. Brystdiagnostisks senter, UNN, 08.01.18
+24. Lars Ailo Bongo. *Sensitivity of new omics technology data*. REK-Nord meeting, Tromsø, 04.01.18
+25. Lars Tiede. *Metagenom-analyse i skyen*. ITA-Forum at the IT department, University of Tromsø, November 2017.
+26. Lars Ailo Bongo. [Diabetic retinopathy detection on Titan GPUs](http://hdl.cs.uit.no/slides/cloud-fagruppe-titan.pptx). Sigma2, Faggruppe for Skyteknologi, Trondheim, 23.11.17
+27. Lars Ailo Bongo. *STUD-ENT'18*. University of Tromsø.
+28. Lars Ailo Bongo. [META-pipe: marine metagenomics data analysis service](http://hdl.cs.uit.no/slides/CorporeSano-Elixir.pptx). Personal Data Systems Workshop 2017. Sommarøya, Norway, June 2017.
+29. Lars Ailo Bongo. [ELIXIR activities in Norway](http://hdl.cs.uit.no/slides/NorduGrid-Elixir.pptx). NorduGrid 2017. Tromsø, Norway, June 2017.
+30. Lars Ailo Bongo. [MMG: from proof-of-concept to production services at scale (part II)](http://hdl.cs.uit.no/slides/WP6-at-WP4 Prague 2017.pptx). Elixir Compute Platform meeting. Prague, Czech Republic, June 2017.
+31. Bjørn Fjukstad. [They Don’t Teach You This In School (yet)](http://fjukstad.github.io/research/energy-on-the-loose.pdf) (in Norwegian), Energy On The Loose Conference, Tromsø, May 2017.
+32. Bjørn Fjukstad. *Personalized breast cancer treatment in practice*, Norwegian Translational Cancer Research Center, Tromsø May 2017.
+33. Bjørn Fjukstad. [Low-cost Air Quality Monitoring Project in High-Schools](http://fjukstad.github.io/research/luftkvalitet-lektor2.pdf) (in Norwegian), Lektor2 Regionsamling, Tromsø March 2017.
+34. Bjørn Fjukstad. *Arduino-workshop*. for Aust-Lofoten High School. 2017.
+35. Bjørn Fjukstad. *Micro:bit workshop*. for Tromstun High School. 2017.
+36. Bjørn Fjukstad. *Kodeklubben*. Seminar at Signal Bredbånd. 2017.
+37. Johan Ravn. *RespirAnalytics - Cloud Services for Real-time Detection and Classification of Abnormal Lung sounds*. NFR SUD-ENT funding panel. Oslo, Norway. April 2017.
+38. Lars Ailo Bongo. [Distributing META-pipe on ELIXIR compute resources](http://hdl.cs.uit.no/slides/all-hands-2017-bongo-cloudsetup.pptx). Elixir All-hands Meeting. Rome. Italy, March 2017.
+39. Lars Ailo Bongo. [Challenges and approaches for providing a pipeline as a service](http://hdl.cs.uit.no/slides/all-hands-2017-bongo-flashtalk.pptx). Flash talk. Elixir All-hands Meeting. Rome. Italy, March 2017.
+40. Lars Ailo Bongo. [MMG: from proof-of-concept to production services at scale](http://hdl.cs.uit.no/slides/WP6-at-WP4 Stockholm 2017.pptx). Elixir Compute Platform meeting. Stockholm, Sweden, February 2017.
+41. Bjørn Fjukstad. [Building systems for interactive data exploration in systems biology](http://bjorn.cs.uit.no/talks-master/barbados-2017/mixt-barbados-01-2017.slide). Workshop on Cancer and the Immune System, Barbados, January 2017.
+42.Edvard Pedersen. *A data management model for large-scale bioinformatics analysis*. PhD defense. Dept. of Computer Science, University of Tromsø. January 2017.
+43. Edvard Pedersen. *Data access in bioinformatics: Bottlenecks and other challenges specific to the bioinformatics domain*. PhD trial lecture. Dept. of Computer Science, University of Tromsø. January 2017.
 
-				</li>
-				<li>
-					Lars Ailo Bongo. 
-					[](https://docs.google.com/presentation/d/1CEWuFl0hE1UYDA4bNeNwWVTCQzFL44T9NgmChMbmcao/edit)A practical approach for deep learning based transcription of handwritten historical protocols. 
-					3rd European Society of Historical Demography Conference. Pécs, Hungary. June 2019.
-				</li>
-				<li>
-					Lars Ailo Bongo. 
-					[](https://docs.google.com/presentation/d/1SakRz1FzpSeT205l_z4SbfN_90zEBkECQxKwMHBXxgM/edit)Building platforms for exploiting biomedical data. 
-					Workshop on Biomedical informatics research on healthcare. Bodø, Norway. June 2019.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					Machine learning, medical data, commercialization.
-					UiT Machine Learning seminars, Tromsø, 13.03.19.
-				</li>
-				<li>
-					Kristian Svendsen, Tengel Ekrem Skar, Lars Ailo Bongo.
-					Bruk av store registerdata for å utforske legemiddelbruk av eldre.
-					Seminar om aldring. 21.02.19.
-				</li>
-				<li>
-					Einar Holsbø.
-					[](http://3inar.github.io/pdfs/phd_main_small_data.pdf)Small data: practical modeling issues in human-model -omic data.
-					PhD lecture, Tromsø, 08.02.19.
-				</li>
-				<li>
-					Einar Holsbø.
-					[](http://3inar.github.io/pdfs/phd_trial_variable_selection.pdf)Variable selection in genomics - methods, challenges, and possibilities.
-					PhD trial lecture, Tromsø, 08.02.19.
-				</li>
-				<li>
-					Bjørn Fjukstad.
-					[](http://fjukstad.github.io/research/thesis-presentation.pdf)Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets.
-					PhD lecture, Tromsø, 21.01.19.
-				</li>
-				<li>
-					Bjørn Fjukstad.
-					[](http://fjukstad.github.io/research/why-its-hard-to-reproduce-results-in-software.pdf)Why it’s hard to reproduce results in software.
-					PhD trial lecture, Tromsø, January 2019.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](https://docs.google.com/presentation/d/1EK_-DxlQBVaOXm2iA1FOFKfIYwEtTX4MpHz2lZKnYSE/edit#slide=id.p1)Deep Learning- Om utvikling av dataprogram for tolkning av røntgenbilder. 
-					Radiografiens dag. UNN, Tromsø, Norway. 08.11.18.
-				</li>
-				<li>
-					Mayeul Marcadella and Aleksander Agafonov.
-					[](https://drive.google.com/open?id=1lZgs63HHFIMovmQsRrKE3VKRRRTH4oFS)META-pipe updates. 
-					NELS developer workshop, Trondheim, Norway, 19.09.18
-				</li>
-				<li>
-					Lars Ailo Bongo and Kjell Petersen.
-					[](https://docs.google.com/presentation/d/1EK_-DxlQBVaOXm2iA1FOFKfIYwEtTX4MpHz2lZKnYSE/edit#slide=id.p1)MMG Galaxies. 
-					Galaxy user community workshop, ELIXIR all-hands, Berlin, 07.06.18
-				</li>
-				<li>
-					Bjørn Fjukstad.
-					[](https://kidsakoder.no/2018/03/12/reisebrev-acm-sigcse-2018/)Reisebrev fra ACM SIGCSE 2018.
-					Blog post. Lær Kidsa Koding. March 2018.
-				</li>
-				<li>
-					Nina Angelvik.
-					air:bit, en "snikinnføring" av koding i skolen. 
-					IT-forum, Tromsø, 07.02.18
-				</li>
-				<li>
-					Bjørn Fjukstad.
-					Game programming tutorial.
-					MultiLAN, Bodø, February 2018.
-				</li>
-				<li>
-					Bjørn Fjukstad.
-					Lær kidsa koding.
-					NHO Norland årskonferanse, Bodø, February 2018.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					Tromsø Lung Study => Medsensio AS. 
-					Tromsøundersøkelsen arbeidsutvalg, Tromsø, 26.01.18
-				</li>
-				<li>
-					Maria Wulff Hauglann, Morten Grønnesby.
-					air:bit – en snikinnføring av koding i skolen. 
-					Candidata Biennale, Tromsø, 12.01.18
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					Hva skal vi med 250.000 mammografi bilder?. 
-					Brystdiagnostisks senter, UNN, 08.01.18
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					Sensitivity of new omics technology data. 
-					REK-Nord meeting, Tromsø, 04.01.18
-				</li>
-				<li>
-					Lars Tiede.
-					<i>Metagenom-analyse i skyen</i>.
-					ITA-Forum at the IT department, University of Tromsø, November 2017.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/cloud-fagruppe-titan.pptx)Diabetic retinopathy detection on Titan GPUs. 
-					Sigma2, Faggruppe for Skyteknologi, Trondheim, 23.11.17
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					<i>STUD-ENT'18</i>.
-					University of Tromsø.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/CorporeSano-Elixir.pptx)META-pipe: marine metagenomics data analysis service. 
-					Personal Data Systems Workshop 2017. Sommarøya, Norway, June 2017.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/NorduGrid-Elixir.pptx)ELIXIR activities in Norway.. 
-					NorduGrid 2017. Tromsø, Norway, June 2017.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/WP6-at-WP4 Prague 2017.pptx)MMG: from proof-of-concept to production services at scale (part II). 
-					Elixir Compute Platform meeting. Prague, Czech Republic, June 2017.
-				</li>
-                <li>
-                    Bjørn Fjukstad. <a
-                    href="http://fjukstad.github.io/research/energy-on-the-loose.pdf)They
-                    Don’t Teach You This In School (yet) (in
-                    Norwegian), Energy On The Loose Conference, Tromsø, May
-                    2017.
-                </li>
-                 <li>
-                     Bjørn Fjukstad. <i>Personalized breast cancer treatment in practice</i>, Norwegian Translational
-                     Cancer Research Center, Tromsø May 2017.
-                 </li>
-                <li>
-                    Bjørn Fjukstad. [](http://fjukstad.github.io/research/luftkvalitet-lektor2.pdf)Low-cost Air Quality Monitoring Project in
-                    High-Schools (in Norwegian),
-                    Lektor2 Regionsamling, Tromsø March 2017.
-                </li>
-				<li>
-                    Bjørn Fjukstad. 
-                    Arduino-workshop.
-                    for Aust-Lofoten High School. 2017.
-                </li>
-				<li>
-                    Bjørn Fjukstad. 
-                    Micro:bit workshop.
-                    for Tromstun High School. 2017.
-                </li>
-				<li>
-                    Bjørn Fjukstad. 
-                    Kodeklubben.
-                    Seminar at Signal Bredbånd. 2017.
-                </li>
-				<li>
-					Johan Ravn. 
-					<i>RespirAnalytics - Cloud Services for Real-time Detection and Classification of Abnormal Lung sounds</i>. 
-					NFR SUD-ENT funding panel. Oslo, Norway. April 2017.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/all-hands-2017-bongo-cloudsetup.pptx)Distributing META-pipe on ELIXIR compute resources. 
-					Elixir All-hands Meeting. Rome. Italy, March 2017.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/all-hands-2017-bongo-flashtalk.pptx)Challenges and approaches for providing a pipeline as a service. 
-					Flash talk. Elixir All-hands Meeting. Rome. Italy, March 2017.
-				</li>
-				<li>
-					Lars Ailo Bongo.
-					[](slides/WP6-at-WP4 Stockholm 2017.pptx)MMG: from proof-of-concept to production services at scale. 
-					Elixir Compute Platform meeting. Stockholm, Sweden, February 2017.
-				</li>
-                <li>
-                    Bjørn Fjukstad. 
-					[](http://bjorn.cs.uit.no/talks-master/barbados-2017/mixt-barbados-01-2017.slide)Building systems for interactive data exploration in systems biology,
-					Workshop on Cancer and the Immune System, Barbados, January 2017.
-                </li> 
-				<li> 
-					Edvard Pedersen. 
-					<i>A data management model for large-scale bioinformatics analysis</i>.
-					PhD defense. Dept. of Computer Science, University of Tromsø. January 2017.
-				</li>
-				<li>
-					Edvard Pedersen. 
-					<i>Data access in bioinformatics: Bottlenecks and other challenges specific to the bioinformatics domain</i>. 
-					PhD trial lecture. Dept. of Computer Science, University of Tromsø. January 2017.
-				</li>
+				
 				<li>
 				    Einar Holsbø.
 					[](http://3inar.github.io/assets/pdfs/barbados2017.pdf)Predicting breast cancer metastasis from blood samples — “On variance and other problems”,
