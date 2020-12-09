@@ -16,7 +16,7 @@ title: Outreach
 104. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-webinars/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.20.
 103. Lars Ailo Bongo. [(Big) datahåndtering](https://docs.google.com/presentation/d/1MXdGo8W-wG-YhzxA55DCuhCKqj7P_DMdwZBlVWmzTOw/edit#slide=id.p1). UNIS Dekanmøte 2020. Virtual event. 23.09.20
 102. Rafael. BiN seminar. Vitual event. 07.05.20.
-101. Nikita. BiN seminar. Vitual event. 07.05.20.
+101. Nikita. [Reproducible bioinformatics](https://docs.google.com/presentation/d/1HwM2Nh0grFKF6JftO53hkTrZx7kfTevbeIHsdN8UPsk) BiN seminar. Vitual event. 07.05.20.
 100. Lars Ailo Bongo. [BiN-Technology overview](https://docs.google.com/presentation/d/1Uq9AMqamLhaaBQy4l9mYuTEgWoUngfia33K5icl6EcE/edit#slide=id.g775d4a5551_0_0). BiN seminar. Vitual event. 07.05.20.
 99. Lars Ailo Bongo. [Mammograms project](https://docs.google.com/presentation/d/1lGNFfY3ZOL--Jt9CVloc1rr3d5bSy9KF1cTy9hXM9Hw/edit#slide=id.p1). UNN AI meeting. 10.03.20 
 98. Lars Ailo Bongo. [Enabling and utilizing industry innovations for health data analysis](https://docs.google.com/presentation/d/1ekiC80sykdXQP8jAAO6CH6SZ9-e5y-8RYHK2lrx91rk/edit). Machine Learning and its Application in Sport Science and Public Health, München, 26-27.02.2020
