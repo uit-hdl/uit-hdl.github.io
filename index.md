@@ -44,9 +44,7 @@ In collaboration with Associate Professor [Kristian Svendsen](https://en.uit.no/
 
 ## MLOps for historical registers
 
-The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) on transcription of Norwegian handwritten census books
-
-[Hilde Sommerseth](https://en.uit.no/ansatte/hilde.sommerseth)
+The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) is responsible for transcribing, linking, and making available historical Norwegian documents. We are working with [Hilde Sommerseth](https://en.uit.no/ansatte/hilde.sommerseth) on machine learning based transcription of Norwegian handwritten census books. Our contributions are the development and operation of pipelines for data cleaning, model training, and automated transcription. These are used to produce the data in the registers. 
 
 ## air:bit
 
@@ -68,7 +66,7 @@ The lab currently consist of:
 | Alvaro Martinez Fernandez | Master student              | NOWAC                           | [GitHub](https://github.com/kolibrid) |
 | Sidra Tahi                | Master student              | .                               | . |
 | Anton Garri Fagerbakk     | Master student              | .                               | . |
-| Nikita Shvetsov 	         | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
+| Nikita Shvetsov 	        | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 
