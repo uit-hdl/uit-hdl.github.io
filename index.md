@@ -30,11 +30,11 @@ The Tromsø Lung study has built a database with more than 36.000 lung sound rec
 
  [Center for New Antibacterial Strategies](https://uit.no/research/cans) (CANS) at UiT is a large inter-disciplinary center with a research focus on antimicrobial resistance. We are responsible for the bioinformatics analyses. 
 
-## SFI Centre for Visual Intelligence 
+## SFI Centre for Visual Intelligence
 
-We are partners of the new Visual Intelligence Centre for Research-based Innovation (SFI). The Visual Intelligence research focus is on complex imagery, and in particular on learning from limited data, context and dependencies, confidence and uncertanty, and explainability and reliability. The innovation areas are medical imaging, marine sciences, industry and energy, and remote sensing. 
+We are partners of the new Visual Intelligence Centre for Research-based Innovation (SFI). The Visual Intelligence research focus is on complex imagery, and in particular on learning from limited data, context and dependencies, confidence and uncertanty, and explainability and reliability. The innovation areas are medical imaging, marine sciences, industry and energy, and remote sensing. We will work on digital pathology with Dr. [Thomas Kilvær](https://en.uit.no/ansatte/thomas.kilvaer), Associate Professor [Kajsa Møllersen](https://en.uit.no/ansatte/kajsa.mollersen), and Professor [Lill-Tove Rasmussen Busund](https://en.uit.no/ansatte/lill.tove.rasmussen.busund). We develop methods and tools for analysis of tumor infiltrating lymphocytes in standard diagnostic whole-tissue hematoxylin and eosin stained section slides. We have a strong focus on the clinical application of the methods and tools. In addition, we have an active role in data management and innovation activities (including [NORA.startup](https://www.nora.ai/nora-startup/)) in the center.
 
-We are partners in the new Centre for Visual Intelligence where our focus is on digital pathology.
+We are also partners in the new UNN/UiT Senter for Pasientnær AI, where our focus is digital pathology and breast cancer screening.
 
 ## air:bit
 
