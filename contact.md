@@ -14,10 +14,10 @@ Lab members:
 5. Jo Inge Arnes: jo.i.arnes@uit.no
 6. Rafael Nozal Cañadas: rafael.a.canadas@uit.no
 7. Rigmor Katrine Johansen: rigmor.k.johansen@uit.no
-7. Mohsen
+7. Mohsen Askar: mohsen.g.askar@uit.no
 8. Alvaro Martinez Fernandez: afe026@post.uit.no
-8. Sidra
-8. Anton
+8. Sidra Tahi
+8. Anton Garri Fagerbakk
 9. Nikita Shvetsov: nikita.shvetsov@uit.no
 10. Bjørn-Richard Pedersen: bjorn-richard.pedersen@uit.no
    
@@ -29,3 +29,4 @@ Department of Computer Science,
 Science Building (Realfagbygget), University Campus
 Hansine Hansens vei 54
 Tromsø (Breivika)
+
