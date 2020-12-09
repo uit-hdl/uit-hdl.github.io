@@ -53,6 +53,7 @@ In the [air:bit](http://airbit.uit.no/) air pollution project we have developed 
 # People
 
 The lab currently consist of:
+
 | Name                      | Title                       | Main project                    | Homepage     |
 |---------------------------|-----------------------------|---------------------------------|--------------|
 | Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
@@ -73,6 +74,7 @@ The lab currently consist of:
 | Jonas Juselius            | Adjunct associate professor | Industry mentor                 | [Serit IT-partner](https://serit.no) |
 
 Former lab members are:
+
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
 | Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
