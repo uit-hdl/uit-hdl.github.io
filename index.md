@@ -16,9 +16,11 @@ We contribute to several large and small projects.
 
 ## NOWAC and Translational Cancer Research
 
-The [Norwegian Woman and Cancer](http://site.uit.no/nowac/) (NOWAC) biobank contains time series with questionnaire data from 170 000 women and more than 60 000 blood samples. The biobank is analyzed using several omics technologies including microarrays, RNA-seq, methylation, and mass spectrometry. The data is being analyzed by the [Systems Epidemiology](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=556488) group lead by Professor [Torkjel Sandanger](https://en.uit.no/ansatte/torkjel.sandanger) at the Department of Community Medicine, University of Tromsø. Our responsibility in the project is to build a backend for standardized data analysis pipelines, machine learning based data analysis, and a system for exploration and visualization of the analysis results. We are using these as building blocks to build a platform for swift exploration of the data under different epidemiological designs.
+The [Norwegian Woman and Cancer](http://site.uit.no/nowac/) (NOWAC) biobank contains time series with questionnaire data from 170 000 women and more than 60 000 blood samples. The biobank is analyzed using several omics technologies including microarrays, RNA-seq, methylation, and mass spectrometry. The data is being analyzed by the [Systems Epidemiology](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=556488) group lead by Professor [Torkjel Sandanger](https://en.uit.no/ansatte/torkjel.sandanger). Our responsibility in the project is to build a backend for standardized data analysis pipelines, machine learning based data analysis, and a system for exploration and visualization of the analysis results. We are using these as building blocks to build a platform for swift exploration of the data under different epidemiological designs.
 
 We are also collaborating with Professors [Lill-Tove Rasmussen Busund](https://en.uit.no/ansatte/lill.tove.rasmussen.busund) and [Tom Dønnem](https://en.uit.no/ansatte/tom.donnem) from the [Translational Cancer Research Group](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=342599) on multi-level and multi-tissue analysis and clinical use of data from NOWAC. 
+
+We also work with Professor [Geir F. Lorem](https://en.uit.no/ansatte/geir.lorem) on biomedical ethics with a focus on direct-to-consumer genomics tests.
 
 ## High North Population Studies
 
@@ -28,21 +30,27 @@ The Tromsø Lung study has built a database with more than 36.000 lung sound rec
 
 ## Center for New Antibacterial Strategies (CANS)
 
- [Center for New Antibacterial Strategies](https://uit.no/research/cans) (CANS) at UiT is a large inter-disciplinary center with a research focus on antimicrobial resistance. We are responsible for the bioinformatics analyses. 
+[Center for New Antibacterial Strategies](https://uit.no/research/cans) (CANS) at UiT is a large inter-disciplinary center with a research focus on antimicrobial resistance. We are responsible for the bioinformatics analyses. 
 
 ## SFI Centre for Visual Intelligence
 
-We are partners of the new Visual Intelligence Centre for Research-based Innovation (SFI). The Visual Intelligence research focus is on complex imagery, and in particular on learning from limited data, context and dependencies, confidence and uncertanty, and explainability and reliability. The innovation areas are medical imaging, marine sciences, industry and energy, and remote sensing. We will work on digital pathology with Dr. [Thomas Kilvær](https://en.uit.no/ansatte/thomas.kilvaer), Associate Professor [Kajsa Møllersen](https://en.uit.no/ansatte/kajsa.mollersen), and Professor [Lill-Tove Rasmussen Busund](https://en.uit.no/ansatte/lill.tove.rasmussen.busund). We develop methods and tools for analysis of tumor infiltrating lymphocytes in standard diagnostic whole-tissue hematoxylin and eosin stained section slides. We have a strong focus on the clinical application of the methods and tools. In addition, we have an active role in data management and innovation activities (including [NORA.startup](https://www.nora.ai/nora-startup/)) in the center.
+We are partners of the new Visual Intelligence Centre for Research-based Innovation (SFI). The Visual Intelligence research focus is on complex imagery, and in particular on learning from limited data, context and dependencies, confidence and uncertanty, and explainability and reliability. The innovation areas are medical imaging, marine sciences, industry and energy, and remote sensing. We will work on digital pathology with Dr. [Thomas Kilvær](https://en.uit.no/ansatte/ thomas.k.kilvar), Associate Professor [Kajsa Møllersen](https://en.uit.no/ansatte/kajsa.mollersen), and Professor [Lill-Tove Rasmussen Busund](https://en.uit.no/ansatte/lill.tove.rasmussen.busund). We develop methods and tools for analysis of tumor infiltrating lymphocytes in standard diagnostic whole-tissue hematoxylin and eosin stained section slides. We have a strong focus on the clinical application of the methods and tools. In addition, we have an active role in data management and innovation activities (including [NORA.startup](https://www.nora.ai/nora-startup/)) in the center.
 
 We are also partners in the new UNN/UiT Senter for Pasientnær AI, where our focus is digital pathology and breast cancer screening.
+
+## Big pharmacoepidemiology
+
+In collaboration with Associate Professor [Kristian Svendsen](https://en.uit.no/ansatte/kristian.svendsen) we are building a big database of prescription and adverse drug reaction data. We use the database to develop new machine learning methods for adverse drug reaction detection and interpretation. 
+
+## MLOps for historical registers
+
+The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) on transcription of Norwegian handwritten census books
+
+[Hilde Sommerseth](https://en.uit.no/ansatte/hilde.sommerseth)
 
 ## air:bit
 
 In the [air:bit](http://airbit.uit.no/) air pollution project we have developed educational projects for use in Norwegian High Schools. This work is done in collaboration with [Skolelaboratoriet i realfag og teknologi](https://uit.no/skolelab) at UiT. We provide build instructions, programming guides, and a portal for data analysis and [live visualization](http://airbit.uit.no/live). Air:bit has been used by 13 high-school classes in Northern Norway. 
-
-## Other
-
-We are collaborating with Associate Professor [Kristian Svendsen](https://en.uit.no/ansatte/kristian.svendsen) on analysis of adverse drug effect data, with [Hilde Sommerseth](https://en.uit.no/ansatte/hilde.sommerseth) at The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) on transcription of Norwegian handwritten census books, and Professor [Geir F. Lorem](https://en.uit.no/ansatte/geir.lorem) on biomedical ethics with a focus on direct-to-consumer genomics tests. 
 
 # People
 
@@ -56,11 +64,11 @@ The lab currently consist of:
 | Jo Inge Arnes             | PhD student                 | NOWAC                           | [GitHub](https://github.com/jo-inge-arnes) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
-| Mohsen Askar              | Affiliated PhD student      | Adverse drug reactions          | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
+| Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Alvaro Martinez Fernandez | Master student              | NOWAC                           | [GitHub](https://github.com/kolibrid) |
 | Sidra Tahi                | Master student              | .                               | . |
 | Anton Garri Fagerbakk     | Master student              | .                               | . |
-| Nikita Shvetsov 	        | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
+| Nikita Shvetsov 	         | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 
