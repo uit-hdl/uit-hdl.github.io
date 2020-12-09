@@ -14,7 +14,7 @@ exclude:
   - PULL_REQUEST_TEMPLATE.md
   
 title: Health Data Lab
-description: Contact: larsab@cs.uit.no
+description: "Contact: larsab@cs.uit.no"
 logo: UiT_Logo_Eng_2l_Bla_RGB.png
 
 theme: jekyll-theme-minimal
