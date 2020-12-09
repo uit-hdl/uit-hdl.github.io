@@ -40,11 +40,13 @@
         {% endif %}
         -->
         <p>
-        {% for page in site.html_pages %}
-
-          <a href="{{ page.url }}">{{ page.title }}</a><br \>
-
-        {% endfor %}  <!-- page -->
+          <!-- About, publications, outreach, software, data, contact -->
+          <a href="/">About</a><br \>
+          <a href="/publications.html">Publications</a><br \>
+          <a href="/outreach.html">Outreach</a><br \>
+          <a href="/software.html">Software</a><br \>
+          <a href="/data.html">Data</a><br \>
+          <a href="/contact.html">Contact</a><br \>
         </p>
         {% if site.logo %}
           <p>
