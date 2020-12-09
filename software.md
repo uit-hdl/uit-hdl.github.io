@@ -81,8 +81,9 @@ Source code for our research projects (random order):
 
 <!-- Rafael -->
 
-
 <!-- Other projects -->
+45. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
+46. [rhd-codes](https://github.com/uit-hdl/rhd-codes) Automatic transcription of numeric codes from Norwegian population census 
 45. [Handwritten digit recognition](https://github.com/TTeige/rhd) and [a solution implemented in Keras](https://github.com/johanravn/handwritten-number-classification).
 46. [UiT Github course guide and template](https://github.com/uit-no/github-course-guide). The unofficial guide for using GitHub for UiT courses.
 
