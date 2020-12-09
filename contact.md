@@ -21,12 +21,13 @@ Lab members:
 9. Nikita Shvetsov: nikita.shvetsov@uit.no
 10. Bjørn-Richard Pedersen: bjorn-richard.pedersen@uit.no
    
- ## Visiting address
+## Visiting address
 
 The lab is located in the Department of Computer Science at the University of Tromsø:
 
 Department of Computer Science,
-Science Building (Realfagbygget), University Campus
+Science Building (Realfagbygget), 
+University Campus
 Hansine Hansens vei 54
 Tromsø (Breivika)
 
