@@ -69,9 +69,11 @@ The lab currently consist of:
 | Nikita Shvetsov 	        | Scientific staff            | Population studies in the north |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
+| Bjørn Fjukstad            | Adjunct associate professor | Industry mentor                 | [DIPS](https://www.dips.com/no) |
+| Jonas Juselius            | Adjunct associate professor | Industry mentor                 | [Serit IT-partner](https://serit.no) |
 
 Former lab members are:
-| Name                 |  Rolke                         | Thesis or main project                 |
+| Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
 | Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
 | Mayeul Marcadella    | Technical staff                | ELIXIR |
