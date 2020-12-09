@@ -18,7 +18,7 @@ We contribute to several large and small projects.
 
 The [Norwegian Woman and Cancer](http://site.uit.no/nowac/) (NOWAC) biobank contains time series with questionnaire data from 170 000 women and more than 60 000 blood samples. The biobank is analyzed using several omics technologies including microarrays, RNA-seq, methylation, and mass spectrometry. The data is being analyzed by the [Systems Epidemiology](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=556488) group lead by Professor [Torkjel Sandanger](https://en.uit.no/ansatte/torkjel.sandanger) at the Department of Community Medicine, University of Tromsø. Our responsibility in the project is to build a backend for standardized data analysis pipelines, machine learning based data analysis, and a system for exploration and visualization of the analysis results. We are using these as building blocks to build a platform for swift exploration of the data under different epidemiological designs.
 
-We are also collaborating with Professors [Lill-Tove Rasmussen Busund](https://en.uit.no/ansatte/lill.tove.rasmussen.busund) and [Tom Dønnem](https://en.uit.no/ansatte/tom.donnem) from the Translational Cancer Research Group on multi-level and multi-tissue analysis and clinical use of data from NOWAC. 
+We are also collaborating with Professors [Lill-Tove Rasmussen Busund](https://en.uit.no/ansatte/lill.tove.rasmussen.busund) and [Tom Dønnem](https://en.uit.no/ansatte/tom.donnem) from the [Translational Cancer Research Group](https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=342599) on multi-level and multi-tissue analysis and clinical use of data from NOWAC. 
 
 ## High North Population Studies
 
@@ -28,9 +28,11 @@ The Tromsø Lung study has built a database with more than 36.000 lung sound rec
 
 ## Center for New Antibacterial Strategies (CANS)
 
-In the new [Center for New Antibacterial Strategies](https://uit.no/research/cans) (CANS) at UiT we are responsible for bioinformatics analyses. 
+ [Center for New Antibacterial Strategies](https://uit.no/research/cans) (CANS) at UiT is a large inter-disciplinary center with a research focus on antimicrobial resistance. We are responsible for the bioinformatics analyses. 
 
 ## SFI Centre for Visual Intelligence 
+
+We are partners of the new Visual Intelligence Centre for Research-based Innovation (SFI). The Visual Intelligence research focus is on complex imagery, and in particular on learning from limited data, context and dependencies, confidence and uncertanty, and explainability and reliability. The innovation areas are medical imaging, marine sciences, industry and energy, and remote sensing. 
 
 We are partners in the new Centre for Visual Intelligence where our focus is on digital pathology.
 
