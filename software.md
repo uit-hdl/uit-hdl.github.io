@@ -35,8 +35,8 @@ These repositories are from research projects that use data, infrastructure, or 
 18. [GeStore](https://github.com/EdvardPedersen/GeStore). This is a system for enabling transparent incremental updates for metagenomic pipelines.
 19. [nrsoot](https://github.com/uit-no/nsroot). Minimalist process isolation tool implemented with Linux namespaces.
 20. [COMBUST I/O](https://github.com/jarlebass/combustio). Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark.
-21. [Mario](http://hdl.cs.uit.no/code/mario/mario.zip) is a system for interactive data analysis built on top of the HBase storage system.
-22. [Benchmark](code/mario/hbase-evaluation.zip) used to evaluate the performance of Hbase using data and access pattern found in typical biological data processing tools. 
+21. [Mario](https://www.cs.uit.no/hdl/code/mario/mario.zip) is a system for interactive data analysis built on top of the HBase storage system.
+22. [Benchmark](https://www.cs.uit.no/hdl/code/mario/hbase-evaluation.zip) used to evaluate the performance of Hbase using data and access pattern found in typical biological data processing tools. 
 
 We have developed a system for data management and standardized preprocessing of the data in the NOWAC study. 
 23. [nowaclite](https://ice-git.cs.uit.no/nowac/nowac): R based data management for biinformatics data.
