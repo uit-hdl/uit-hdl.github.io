@@ -30,7 +30,6 @@ Source code for META-pipe 1.0 is in the following repositories. Note that these 
 16. [META-pipe 1.0](https://github.com/emrobe/META-pipe). Implemented for execution on HPC clusters.
 17. [Patches for META-pipe specific metarep (1.4.0)](https://github.com/elixir-marine/metarep) sequence retrieval modifications.
 
-
 These repositories are from research projects that use data, infrastructure, or problems from the META-pipe project:
 18. [GeStore](https://github.com/EdvardPedersen/GeStore). This is a system for enabling transparent incremental updates for metagenomic pipelines.
 19. [nrsoot](https://github.com/uit-no/nsroot). Minimalist process isolation tool implemented with Linux namespaces.
@@ -63,30 +62,22 @@ The air:bit project repositories are:
 38. [air:bit backend platform](https://github.com/ninaangelvik/luft). The backend is deployed on Google Cloud Platform.
 39. [Air quality sensor and web server](https://github.com/ninaangelvik/luftprosjekttromso). An Arduino-based portable air quality sensor kit and a Ruby on Rails web application deployed on Heroku.
 					
-			
 Source code for our research projects (random order):
-<!-- Jo Inge -->
-				
-				
+<!-- Jo Inge -->			
 <!-- Morten -->
 40. [Histology learning tool](https://github.com/Gronnesby/Histology) for use in a browser with a Python backend .
-
 <!-- Einar -->
 41. [validator](https://github.com/3inar/validator). an R package for running repeated k-fold cross-validation.
 42. [So you want to use R on stallo](https://github.com/3inar/stallo_r). A brief guide to launching long-running embararssingly parallel R jobs on the UiT supercomputer Stallo.
 43. [Supporting data and code](https://github.com/3inar/crime_rates) to "Empirical bayes shrinkage estimation of crime rate statistics".
 44. [krongen](https://github.com/3inar/krongen). Creates kronecker graphs that simulate networks with power law edge distributions.
-
 <!-- Nikita -->
-
 <!-- Rafael -->
-
 <!-- Other projects -->
 45. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
 46. [rhd-codes](https://github.com/uit-hdl/rhd-codes) Automatic transcription of numeric codes from Norwegian population census 
 45. [Handwritten digit recognition](https://github.com/TTeige/rhd) and [a solution implemented in Keras](https://github.com/johanravn/handwritten-number-classification).
 46. [UiT Github course guide and template](https://github.com/uit-no/github-course-guide). The unofficial guide for using GitHub for UiT courses.
-
 <!-- Theses -->
 47. [Replication code](https://github.com/mikevoets/jama16-retina-replication)for [Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://arxiv.org/abs/1803.04337).
 47. [DICOM anonymizer](https://github.com/mikevoets/dicom_anonymizer).
