@@ -32,6 +32,7 @@ Source code for META-pipe 1.0 is in the following repositories. Note that these 
 17. [Patches for META-pipe specific metarep (1.4.0)](https://github.com/elixir-marine/metarep) sequence retrieval modifications.
 
 These repositories are from research projects that use data, infrastructure, or problems from the META-pipe project:
+
 18. [GeStore](https://github.com/EdvardPedersen/GeStore). This is a system for enabling transparent incremental updates for metagenomic pipelines.
 19. [nrsoot](https://github.com/uit-no/nsroot). Minimalist process isolation tool implemented with Linux namespaces.
 20. [COMBUST I/O](https://github.com/jarlebass/combustio). Abstractions facilitating parallel execution of programs implementing common I/O patterns in a pipelined fashion as workflows in Spark.
@@ -39,6 +40,7 @@ These repositories are from research projects that use data, infrastructure, or 
 22. [Benchmark](https://www.cs.uit.no/hdl/code/mario/hbase-evaluation.zip) used to evaluate the performance of Hbase using data and access pattern found in typical biological data processing tools. 
 
 We have developed a system for data management and standardized preprocessing of the data in the NOWAC study:
+
 23. [nowaclite](https://ice-git.cs.uit.no/nowac/nowac): R based data management for biinformatics data.
 24. [NOWAC R package](https://ice-git.cs.uit.no/nowac/nowac): has information about the available datasets and analyses you can run on them. (closed source)
 25. [Pippeline](https://ice-git.cs.uit.no/nowac/pippeline): standardized  and interactive pipeline for NOWAC data preprocessing.
@@ -46,7 +48,8 @@ We have developed a system for data management and standardized preprocessing of
 27. [geneset](https://github.com/3inar/geneset). R package of data sets and functions that facilitate gene set analysis.
 28. [seq](https://github.com/fjukstad/seq). A collection of Docker containers with different	bioinformatics tools, such as GATK, bwa, and Picard, installed.
 
-We have developed systems for data management, analysis and exploration in the NOWAC project. But these can also be used for other datasets.
+We have developed systems for data management, analysis and exploration in the NOWAC project. But these can also be used for other datasets:
+
 30. [NOWAC R package](https://github.com/uit-bdps/nowaclite) for managing and documenting omics data.
 31. [Kvik](https://github.com/fjukstad/kvik). A framework for developing interactive data exploration applications in genomics and systems biology.
 32. [walrus](https://github.com/fjukstad/walrus). A system for running data analysis pipelines using Docker containers.
