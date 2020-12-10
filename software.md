@@ -26,7 +26,7 @@ We have developed the META-pipe pipeline for marine metagenomics data analysis. 
 14. [Galaxy-Pulsar integration on the Stallo Supercomputer](https://gitlab.com/uit-sfb/METApipe-cPouta-cloud-setup). This is specific to the Stallo machine and will not be open sourced.
 15. [Auto scaling framework, simulator and runtime](https://github.com/TTeige/uit-go).
 
-Source code for META-pipe 1.0 is in the following repositories. Note that these are not maintained anymore.
+Source code for META-pipe 1.0 is in the following repositories. Note that these are not maintained anymore:
 16. [META-pipe 1.0](https://github.com/emrobe/META-pipe). Implemented for execution on HPC clusters.
 17. [Patches for META-pipe specific metarep (1.4.0)](https://github.com/elixir-marine/metarep) sequence retrieval modifications.
 
@@ -38,7 +38,7 @@ These repositories are from research projects that use data, infrastructure, or 
 21. [Mario](https://www.cs.uit.no/hdl/code/mario/mario.zip) is a system for interactive data analysis built on top of the HBase storage system.
 22. [Benchmark](https://www.cs.uit.no/hdl/code/mario/hbase-evaluation.zip) used to evaluate the performance of Hbase using data and access pattern found in typical biological data processing tools. 
 
-We have developed a system for data management and standardized preprocessing of the data in the NOWAC study. 
+We have developed a system for data management and standardized preprocessing of the data in the NOWAC study:
 23. [nowaclite](https://ice-git.cs.uit.no/nowac/nowac): R based data management for biinformatics data.
 24. [NOWAC R package](https://ice-git.cs.uit.no/nowac/nowac): has information about the available datasets and analyses you can run on them. (closed source)
 25. [Pippeline](https://ice-git.cs.uit.no/nowac/pippeline): standardized  and interactive pipeline for NOWAC data preprocessing.
