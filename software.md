@@ -27,6 +27,7 @@ We have developed the META-pipe pipeline for marine metagenomics data analysis. 
 15. [Auto scaling framework, simulator and runtime](https://github.com/TTeige/uit-go).
 
 Source code for META-pipe 1.0 is in the following repositories. Note that these are not maintained anymore:
+
 16. [META-pipe 1.0](https://github.com/emrobe/META-pipe). Implemented for execution on HPC clusters.
 17. [Patches for META-pipe specific metarep (1.4.0)](https://github.com/elixir-marine/metarep) sequence retrieval modifications.
 
