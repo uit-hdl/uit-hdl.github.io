@@ -2,32 +2,61 @@
 title: Outreach
 ---
 
-# Workshops, webinars, and hackathons
-1. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
-1. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
-2. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf).
-3. Aleksandr Agafonov, Lars Ailo Bongo, Inge Alexander Raknes, et al. 
-4. Introduction to R. Workshop. Tromsø, Norway. June 2016.
-5. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
+# Workshops, webinars, hackathons, and other events
+1. Lars Ailo Bongo. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
+2. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
+4. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
+5. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
+6. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
+7. Edvard Pedersen. GirlTech. UitT 12.02.2020.
+8. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
+9. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
+10. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
+11. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
+12. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
+13. Edvard Pedersen. Utforsk UiT. 16.09.2019.
+18. Edvard Pedersen. Lærerkurs programmering. UiT. 16.08.2019.
+14. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). Aleksandr Agafonov, Lars Ailo Bongo, Inge Alexander Raknes, et al. 
+16. Introduction to R. Workshop. Tromsø, Norway. June 2016.
+17. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
          
 # Talks
 <!-- Reverse order numbering except first that should be 1 -->
-1. Thomas Kilvær and Lars Ailo Bongo. *Digitial pathology at UiT/UNN*. Nasjonalt AI i patologi. Virtual Event. 12.11.2020.
-104. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-webinars/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.20.
-103. Lars Ailo Bongo. [(Big) datahåndtering](https://docs.google.com/presentation/d/1MXdGo8W-wG-YhzxA55DCuhCKqj7P_DMdwZBlVWmzTOw/edit#slide=id.p1). UNIS Dekanmøte 2020. Virtual event. 23.09.20
-102. Rafael. BiN seminar. Vitual event. 07.05.20.
-101. Nikita. [Reproducible bioinformatics](https://docs.google.com/presentation/d/1HwM2Nh0grFKF6JftO53hkTrZx7kfTevbeIHsdN8UPsk) BiN seminar. Virtual event. 07.05.20.
-100. Lars Ailo Bongo. [BiN-Technology overview](https://docs.google.com/presentation/d/1Uq9AMqamLhaaBQy4l9mYuTEgWoUngfia33K5icl6EcE/edit#slide=id.g775d4a5551_0_0). BiN seminar. Virtual event. 07.05.20.
-99. Lars Ailo Bongo. [Mammograms project](https://docs.google.com/presentation/d/1lGNFfY3ZOL--Jt9CVloc1rr3d5bSy9KF1cTy9hXM9Hw/edit#slide=id.p1). UNN AI meeting. 10.03.20 
-98. Lars Ailo Bongo. [Enabling and utilizing industry innovations for health data analysis](https://docs.google.com/presentation/d/1ekiC80sykdXQP8jAAO6CH6SZ9-e5y-8RYHK2lrx91rk/edit). Machine Learning and its Application in Sport Science and Public Health, München, 26-27.02.2020
-97. Lars Ailo Bongo. [A practical approach for deep learning based transcription of handwritten historical protocols](https://docs.google.com/presentation/d/1CEWuFl0hE1UYDA4bNeNwWVTCQzFL44T9NgmChMbmcao/edit). 3rd European Society of Historical Demography Conference. Pécs, Hungary. June 2019.
-96. Lars Ailo Bongo. [Building platforms for exploiting biomedical data](https://docs.google.com/presentation/d/1SakRz1FzpSeT205l_z4SbfN_90zEBkECQxKwMHBXxgM/edit). Workshop on Biomedical informatics research on healthcare. Bodø, Norway. June 2019.
-95. Lars Ailo Bongo. *Machine learning, medical data, commercialization*. UiT Machine Learning seminars, Tromsø, 13.03.19.
-94. Kristian Svendsen, Tengel Ekrem Skar, Lars Ailo Bongo. *Bruk av store registerdata for å utforske legemiddelbruk av eldre*. Seminar om aldring. 21.02.19.
-93. Einar Holsbø. [Small data: practical modeling issues in human-model -omic data](http://3inar.github.io/pdfs/phd_main_small_data.pdf). PhD lecture, Tromsø, 08.02.19.
-92. Einar Holsbø. [Variable selection in genomics - methods, challenges, and possibilities](http://3inar.github.io/pdfs/phd_trial_variable_selection.pdf). PhD trial lecture, Tromsø, 08.02.19.
-91. Bjørn Fjukstad. [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](http://fjukstad.github.io/research/thesis-presentation.pdf). PhD lecture, Tromsø, 21.01.19.
-90. Bjørn Fjukstad. [Why it’s hard to reproduce results in software](http://fjukstad.github.io/research/why-its-hard-to-reproduce-results-in-software.pdf). PhD trial lecture, Tromsø, January 2019.
+1. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
+123. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
+122. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Polarsirkelen VGS. 24.02.2021
+121. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Narvik VGS. 22.02.2021.
+120. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 16.02.2021.
+119. Thomas Kilvær and Lars Ailo Bongo. *Digitial pathology at UiT/UNN*. Nasjonalt AI i patologi. Virtual Event. 12.11.2020.
+118. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-webinars/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.20.
+117. Edvard Pedersen. Skolebesøk - Programmering - Alta VGS. 14.10.2020
+116. Lars Ailo Bongo. [(Big) datahåndtering](https://docs.google.com/presentation/d/1MXdGo8W-wG-YhzxA55DCuhCKqj7P_DMdwZBlVWmzTOw/edit#slide=id.p1). UNIS Dekanmøte 2020. Virtual event. 23.09.20
+115. Rafael. BiN seminar. Vitual event. 07.05.20.
+114. Nikita. [Reproducible bioinformatics](https://docs.google.com/presentation/d/1HwM2Nh0grFKF6JftO53hkTrZx7kfTevbeIHsdN8UPsk) BiN seminar. Virtual event. 07.05.20.
+113. Lars Ailo Bongo. [BiN-Technology overview](https://docs.google.com/presentation/d/1Uq9AMqamLhaaBQy4l9mYuTEgWoUngfia33K5icl6EcE/edit#slide=id.g775d4a5551_0_0). BiN seminar. Virtual event. 07.05.20.
+112. Lars Ailo Bongo. [Mammograms project](https://docs.google.com/presentation/d/1lGNFfY3ZOL--Jt9CVloc1rr3d5bSy9KF1cTy9hXM9Hw/edit#slide=id.p1). UNN AI meeting. 10.03.20 
+111. Lars Ailo Bongo. [Enabling and utilizing industry innovations for health data analysis](https://docs.google.com/presentation/d/1ekiC80sykdXQP8jAAO6CH6SZ9-e5y-8RYHK2lrx91rk/edit). Machine Learning and its Application in Sport Science and Public Health, München, 26-27.02.2020
+110. Edvard Pedersen. Air:bit - Skolebesøk - Tromsdalen VGS. 20.02.2020.
+109. Edvard Pedersen. Air:bit - Skolebesøk - Bodø VGS. 05.02.2020.
+108. Edvard Pedersen. Air:bit - Skolebesøk - Narvik VGS. 29.01.2020.
+107. Edvard Pedersen. Air:bit - Skolebesøk - Alta VGS. 28.01.2020.
+106. Edvard Pedersen. Arduino-programmering - Skolebesøk - Tromsdalen VGS. 07.01.2020.
+105. Edvard Pedersen. Spill-programmering Skolebesøk. 19.12.2019.
+104. Edvard Pedersen. Scratch-programmering - Skolebesøk. 15.10.2019.
+103. Lars Ailo Bongo. [A practical approach for deep learning based transcription of handwritten historical protocols](https://docs.google.com/presentation/d/1CEWuFl0hE1UYDA4bNeNwWVTCQzFL44T9NgmChMbmcao/edit). 3rd European Society of Historical Demography Conference. Pécs, Hungary. June 2019.
+102. Lars Ailo Bongo. [Building platforms for exploiting biomedical data](https://docs.google.com/presentation/d/1SakRz1FzpSeT205l_z4SbfN_90zEBkECQxKwMHBXxgM/edit). Workshop on Biomedical informatics research on healthcare. Bodø, Norway. June 2019.
+101. Edvard Pedersen. Arduino-programmering - Skolebesøk - Tromsdalen VGS. 11.06.2019.
+100. Lars Ailo Bongo. *Machine learning, medical data, commercialization*. UiT Machine Learning seminars, Tromsø, 13.03.19.
+99. Edvard Pedersen. Air:bit - Skolebesøk - Senja. 21.02.2019.
+98. Kristian Svendsen, Tengel Ekrem Skar, Lars Ailo Bongo. *Bruk av store registerdata for å utforske legemiddelbruk av eldre*. Seminar om aldring. 21.02.19.
+97. Edvard Pedersen. Air:bit - Skolebesøk - Polarsirkelen & Tromsdalen. 13.02.2019.
+96. Edvard Pedersen. Air:bit - Skolebesøk - Kongsbakken. 11.02.2019.
+95. Einar Holsbø. [Small data: practical modeling issues in human-model -omic data](http://3inar.github.io/pdfs/phd_main_small_data.pdf). PhD lecture, Tromsø, 08.02.19.
+94. Einar Holsbø. [Variable selection in genomics - methods, challenges, and possibilities](http://3inar.github.io/pdfs/phd_trial_variable_selection.pdf). PhD trial lecture, Tromsø, 08.02.19.
+93. Bjørn Fjukstad. [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](http://fjukstad.github.io/research/thesis-presentation.pdf). PhD lecture, Tromsø, 21.01.19.
+92. Bjørn Fjukstad. [Why it’s hard to reproduce results in software](http://fjukstad.github.io/research/why-its-hard-to-reproduce-results-in-software.pdf). PhD trial lecture, Tromsø, January 2019.
+91. Edvard Pedersen. Air:bit - Skolebesøk - Alta & Narvik. 29.01.2019.
+90. Edvard Pedersen. Air:bit - Skolebesøk - Meløy. 23.01.2019.
 89. Lars Ailo Bongo. [Deep Learning- Om utvikling av dataprogram for tolkning av røntgenbilder](https://docs.google.com/presentation/d/1EK_-DxlQBVaOXm2iA1FOFKfIYwEtTX4MpHz2lZKnYSE/edit#slide=id.p1). Radiografiens dag. UNN, Tromsø, Norway. 08.11.18.
 88. Mayeul Marcadella and Aleksander Agafonov. [META-pipe updates](https://drive.google.com/open?id=1lZgs63HHFIMovmQsRrKE3VKRRRTH4oFS). NELS developer workshop, Trondheim, Norway, 19.09.18
 87 .Lars Ailo Bongo and Kjell Petersen. [MMG Galaxies](https://docs.google.com/presentation/d/1EK_-DxlQBVaOXm2iA1FOFKfIYwEtTX4MpHz2lZKnYSE/edit#slide=id.p1). Galaxy user community workshop, ELIXIR all-hands, Berlin, 07.06.18
