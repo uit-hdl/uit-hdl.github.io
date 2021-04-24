@@ -11,15 +11,13 @@ Lab members:
 2. Edvard Pedersen: edvard.pedersen@uit.no
 3. Einar Holsbø: einar@cs.uit.no
 4. Morten Grønnesby: morten.gronnesby@uit.no
-5. Jo Inge Arnes: jo.i.arnes@uit.no
-6. Rafael Nozal Cañadas: rafael.a.canadas@uit.no
+5. Rafael Nozal Cañadas: rafael.a.canadas@uit.no
+6. Nikita Shvetsov: nikita.shvetsov@uit.no
 7. Rigmor Katrine Johansen: rigmor.k.johansen@uit.no
-7. Mohsen Askar: mohsen.g.askar@uit.no
-8. Alvaro Martinez Fernandez: afe026@post.uit.no
-8. Sidra Tahi
-8. Anton Garri Fagerbakk
-9. Nikita Shvetsov: nikita.shvetsov@uit.no
-10. Bjørn-Richard Pedersen: bjorn-richard.pedersen@uit.no
+8. Mohsen Askar: mohsen.g.askar@uit.no
+9. Sidra Tahi
+10. Anton Garri Fagerbakk
+11. Bjørn-Richard Pedersen: bjorn-richard.pedersen@uit.no
    
 ## Visiting address
 
