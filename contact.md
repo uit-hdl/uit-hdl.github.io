@@ -25,7 +25,7 @@ The lab is located in the Department of Computer Science at the University of Tr
 
 Department of Computer Science,
 Science Building (Realfagbygget), 
-University Campus
-Hansine Hansens vei 54
-Tromsø (Breivika)
+Tromsø Campus,
+Hansine Hansens vei 54,
+Tromsø (Breivika).
 
