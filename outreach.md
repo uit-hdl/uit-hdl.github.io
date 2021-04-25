@@ -31,7 +31,7 @@ title: Outreach
 118. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-webinars/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.20.
 117. Edvard Pedersen. Skolebesøk - Programmering - Alta VGS. 14.10.2020
 116. Lars Ailo Bongo. [(Big) datahåndtering](https://docs.google.com/presentation/d/1MXdGo8W-wG-YhzxA55DCuhCKqj7P_DMdwZBlVWmzTOw/edit#slide=id.p1). UNIS Dekanmøte 2020. Virtual event. 23.09.20
-115. Rafael. BiN seminar. Vitual event. 07.05.20.
+115. Rafael. [Social Network Analysis](https://docs.google.com/presentation/d/1upSwuha6gnHeAfdtxzDrVDNoO7RNSNLUbgrdXju_7hs/edit?usp=sharing) BiN seminar. Virtual event. 07.05.20.
 114. Nikita. [Reproducible bioinformatics](https://docs.google.com/presentation/d/1HwM2Nh0grFKF6JftO53hkTrZx7kfTevbeIHsdN8UPsk) BiN seminar. Virtual event. 07.05.20.
 113. Lars Ailo Bongo. [BiN-Technology overview](https://docs.google.com/presentation/d/1Uq9AMqamLhaaBQy4l9mYuTEgWoUngfia33K5icl6EcE/edit#slide=id.g775d4a5551_0_0). BiN seminar. Virtual event. 07.05.20.
 112. Lars Ailo Bongo. [Mammograms project](https://docs.google.com/presentation/d/1lGNFfY3ZOL--Jt9CVloc1rr3d5bSy9KF1cTy9hXM9Hw/edit#slide=id.p1). UNN AI meeting. 10.03.20 
