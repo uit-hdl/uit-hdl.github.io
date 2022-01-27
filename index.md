@@ -58,7 +58,7 @@ The lab currently consist of:
 |---------------------------|-----------------------------|---------------------------------|--------------|
 | Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
 | Edvard Pedersen           |	Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
-| Einar Holsbø              | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
+| Einar Holsbø (on paternal leave) | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
 | Vi Tran                   | Associate Professor         | Co-PI                           | - |
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
