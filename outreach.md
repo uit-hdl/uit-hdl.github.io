@@ -3,7 +3,7 @@ title: Outreach
 ---
 
 # Workshops, webinars, hackathons, and other events
-1. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup seminar.
+1. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup webinar. 10.12.2021
 2. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
 3. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
 4. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-startup/video/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.2020.
