@@ -73,6 +73,7 @@ The lab currently consist of:
 | Per Niklas Waaler         | Scientific staff            | Population studies in the north | - |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Mariel Ellingsen          | Master student              | Hearing aids                    | - |
+| Markus Tiller             | Master student              | Visual intelligence with KSAT   | - |
 | Michael Lau               | Master student              | with Serit IT partner           | - |
 | Narae Park                | Master student              | Historical data                 | - |
 | Tommy Hartviksen Pettersen | Master student             | Big pharmacoepidemiology        | - |
@@ -84,9 +85,9 @@ Former lab members are:
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
 | Jonas Juselius            | Adjunct associate professor | Industry mentor from [Serit IT-partner](https://serit.no) |
-| Sidra Tahi                | Master student              | . |
-| Anton Garri Fagerbakk     | Master student              | . |
-| Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
+| Sidra Tahi                | Master student              | Thesis: [Can a code snippet portal contribute to greater learning outcomes in other fields of science and technology?](https://munin.uit.no/handle/10037/22348) |
+| Anton Garri Fagerbakk     | Master student              | Thesis: [Keeping Up with the Market: Extracting competencies from Norwegian job listings](https://munin.uit.no/handle/10037/21415) |
+| Wilhelm Vold              | Intern                      | HeartOn app |
 | Alvaro Martinez Fernandez | Master student            | Thesis: [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518) |
 | Jo Inge Arnes        | PhD student                    | NOWAC                                  |
 | Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
