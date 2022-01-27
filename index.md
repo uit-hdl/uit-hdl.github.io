@@ -59,24 +59,34 @@ The lab currently consist of:
 | Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
 | Edvard Pedersen           |	Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
 | Einar Holsbø              | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
-| Vi Tran                   | Associate Professor         | Co-PI (on maternity leave)      | - |
+| Vi Tran                   | Associate Professor         | Co-PI                           | - |
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
 | Nikita Shvetsov 	        | PhD student                 | Visual intelligence             |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
+| Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
+| Lloyd Andreassen          | PhD student                 | CANS                            | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
 | Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
-| Sidra Tahi                | Master student              | .                               | . |
-| Anton Garri Fagerbakk     | Master student              | .                               | . |
+| Masoud Tafavvoghi         | Affiliated PhD student      | Visual intelligence             | - |
+| Andrew Daniel Delos Mashchak |  Affiliated PhD student  | NOWAC                           | - |
+| Christina Rolandsen       | Scientific staff            | Population studies in the north | - |
+| Per Niklas Waaler         | Scientific staff            | Population studies in the north | - |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
-| Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
+| Mariel Ellingsen          | Master student              | Hearing aids                    | - |
+| Michael Lau               | Master student              | with Serit IT partner           | - |
+| Narae Park                | Master student              | Historical data                 | - |
+| Tommy Hartviksen Pettersen | Master student             | Big pharmacoepidemiology        | - |
 | Bjørn Fjukstad            | Adjunct associate professor | Industry mentor                 | [DIPS](https://www.dips.com/no) |
-| Jonas Juselius            | Adjunct associate professor | Industry mentor                 | [Serit IT-partner](https://serit.no) |
 | Dominic Riley             | Adjunct advisor             | Industry mentor                 | [The Grow Room](https://www.thegrowroom.no/)
 
 Former lab members are:
 
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
+| Jonas Juselius            | Adjunct associate professor | Industry mentor from [Serit IT-partner](https://serit.no) |
+| Sidra Tahi                | Master student              | . |
+| Anton Garri Fagerbakk     | Master student              | . |
+| Wilhelm Vold              | Intern                      | Training app                    | [GitHub](https://github.com/Sinrefvol) |
 | Alvaro Martinez Fernandez | Master student            | Thesis: [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518) |
 | Jo Inge Arnes        | PhD student                    | NOWAC                                  |
 | Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
