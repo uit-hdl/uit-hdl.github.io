@@ -3,26 +3,37 @@ title: Outreach
 ---
 
 # Workshops, webinars, hackathons, and other events
-1. Lars Ailo Bongo. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
-2. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
-4. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
-5. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
-6. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
-7. Edvard Pedersen. GirlTech. UitT 12.02.2020.
-8. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
-9. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
-10. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
-11. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
-12. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
-13. Edvard Pedersen. Utforsk UiT. 16.09.2019.
+1. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup seminar.
+2. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
+3. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
+4. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-startup/video/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.2020.
+6. Lars Ailo Bongo. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
+7. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
+8. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
+9. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
+10. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
+11. Edvard Pedersen. GirlTech. UitT 12.02.2020.
+12. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
+13. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
+14. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
+15. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
+16. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
+17. Edvard Pedersen. Utforsk UiT. 16.09.2019.
 18. Edvard Pedersen. Lærerkurs programmering. UiT. 16.08.2019.
-14. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). Aleksandr Agafonov, Lars Ailo Bongo, Inge Alexander Raknes, et al. 
-16. Introduction to R. Workshop. Tromsø, Norway. June 2016.
-17. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
-         
+19. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). Aleksandr Agafonov, Lars Ailo Bongo, Inge Alexander Raknes, et al. 
+20. Introduction to R. Workshop. Tromsø, Norway. June 2016.
+21. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
+        
+# Panels
+1. Lars Ailo Bongo (moderator). Industry event. Northern Lights Deep Learning Conference 2022. Online. 10.01.2022.
+2. Lars Ailo Bongo. NORA.startup panel. NORA Annual Conference 2021. Bergen. 17.08.2021
+        
 # Talks
 <!-- Reverse order numbering except first that should be 1 -->
-1. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
+1. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
+2. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
+3. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
+124. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
 123. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
 122. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Polarsirkelen VGS. 24.02.2021
 121. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Narvik VGS. 22.02.2021.
