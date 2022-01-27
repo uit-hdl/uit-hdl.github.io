@@ -62,7 +62,7 @@ The lab currently consist of:
 | Vi Tran                   | Associate Professor         | Co-PI                           | - |
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
-| Nikita Shvetsov 	        | PhD student                 | Visual intelligence             |	[Bitbucket](https://bitbucket.org/NikShvetsov/) |
+| Nikita Shvetsov 	        | PhD student                 | Visual intelligence             |	[GitHub](https://github.com/nsh23), [Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
 | Lloyd Andreassen          | PhD student                 | CANS                            | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
