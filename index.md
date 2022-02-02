@@ -50,6 +50,10 @@ The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) is responsible fo
 
 In the [air:bit](http://airbit.uit.no/) air pollution project we have developed educational projects for use in Norwegian High Schools. This work is done in collaboration with [Skolelaboratoriet i realfag og teknologi](https://uit.no/skolelab) at UiT. We provide build instructions, programming guides, and a portal for data analysis and [live visualization](http://airbit.uit.no/live). Air:bit has been used by 13 high-school classes in Northern Norway. 
 
+## Large antibiotic dosing regimen simulations
+
+We are building a dose design framework to identify the best treatment regimens for individual patients. We will develop new machine learning algorithms on high performance computing to make the simulations of large antibiotic dosing regimen simulations highly efficient.
+
 # People
 
 The lab currently consist of:
