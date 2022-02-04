@@ -52,7 +52,7 @@ In the [air:bit](http://airbit.uit.no/) air pollution project we have developed 
 
 ## Large antibiotic dosing regimen simulations
 
-We are building a dose design framework to identify the best treatment regimens for individual patients. We will develop new machine learning algorithms on high performance computing to make the simulations of large antibiotic dosing regimen simulations highly efficient.
+We are building a dose design framework to identify the best treatment regimens for individual patients. We will develop new machine learning algorithms on high performance computing systems to make the simulations of large antibiotic dosing regimen simulations highly efficient.
 
 # People
 
