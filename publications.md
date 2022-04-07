@@ -65,9 +65,13 @@ title: Publications
 58. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. [EventSpace - Exposing and Observing Communication Behavior of Parallel Cluster Applications](https://www.cs.uit.no/hdl/papers/europar03.pdf). in *Proceedings of the 9th International Euro-Par Conference* . Springer 2003.
 59. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. [Using a Virtual Event Space to Understand Parallel Application Communication Behavior](http://www.nik.no/2003/Bidrag/Bongo.pdf). in * Proc. of Norsk informatikkonferanse NIK'2003*. Tapir Akademisk Forlag 2003.  
 60. John Markus Bjørndalen, Otto Anshus, Tore Larsen, Lars Ailo Bongo, Brian Vinter. [Scalable Processing and Communication Performance in a Multi-Media Related Context](https://www.cs.uit.no/hdl/papers/euromicro02.pdf). in *Proceedings of the 28th EuroMicro Conference*. 2002.
+61. Mohsen Askar, Rafael Nozal Cañadas, Kristian Svendsen. [An introduction to network analysis for studies of medication use](https://www.sciencedirect.com/science/article/pii/S1551741121002382/pdfft?md5=ec059222bc68d6eecb1089ef0d0d2bd7&pid=1-s2.0-S1551741121002382-main.pdf). in *Research in Social and Administrative Pharmacy* 2021
+62. María Luz Gámiz, Anton Kalén, Rafael Nozal Cañadas, Rocío Raya Miranda [Statistical supervised learning with engineering data: a case study of low frequency noise measured on semiconductor devices](https://link.springer.com/content/pdf/10.1007/s00170-022-08949-z.pdf). in *The International Journal of Advanced Manufacturing Technology* 2022
+
+
+
 
 # Preprinsts, abstracts, and reports
-1. Mohsen Askar, Rafael Nozal Cañadas, Kristian Svendsen. [An introduction to network analysis for studies of medication use](https://arxiv.org/abs/2106.00413).  	arXiv:2106.00413. 2021.
 1. Einar Holsbø, Vittorio Perduca, Lars Ailo Bongo, Eiliv Lund, Etienne Birmelé. [Stratified time-course gene  preselection shows a pre-diagnostic transcriptomic signal for metastasis in blood cells: a proof of concept from the NOWAC study](https://www.biorxiv.org/content/early/2018/06/25/141325). bioRxiv. 2018.
 2. Morten Grønnesby, Juan Carlos Aviles Solis, Einar Holsbø, Hasse Melbye, Lars Ailo Bongo. Machine Learning Based Crackle Detection (abstract). in *Proc. of the 42nd annual conference of the International Lung Sound Association*. September 2017.
 3. Johan Ravn, Juan Carlos Aviles Solis, Morten Grønnesby, Hasse Melbye, Lars Ailo Bongo. Detection of Wheezes and Breathing Phases Using Deep Convolutional Neural Networks (extended abstract).in *Proc. of the 42nd annual conference of the International Lung Sound Association*. September 2017.
