@@ -62,7 +62,7 @@ The lab currently consist of:
 |---------------------------|-----------------------------|---------------------------------|--------------|
 | Lars Ailo Bongo           |	Professor                   |	Principal investigator          | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
 | Edvard Pedersen           |	Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
-| Einar Holsbø (on paternal leave) | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
+| Einar Holsbø              | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
 | Vi Tran                   | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=353997) and [GitHub](https://github.com/vitrannn)|
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
@@ -73,23 +73,24 @@ The lab currently consist of:
 | Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Masoud Tafavvoghi         | Affiliated PhD student      | Visual intelligence             | - |
 | Andrew Daniel Delos Mashchak |  Affiliated PhD student  | NOWAC                           | - |
-| Christina Rolandsen       | Scientific staff            | Population studies in the north | - |
 | Per Niklas Waaler         | Scientific staff            | Population studies in the north | - |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
-| Mariel Ellingsen          | Master student              | Hearing aids                    | - |
-| Markus Tiller             | Master student              | Visual intelligence with KSAT   | - |
-| Michael Lau               | Master student              | with Serit IT partner           | - |
 | Narae Park                | Master student              | Historical data                 | - |
 | Tommy Hartviksen Pettersen | Master student             | Big pharmacoepidemiology        | - |
 | Bjørn Fjukstad            | Adjunct associate professor | Industry mentor                 | [DIPS](https://www.dips.com/no) |
-| Dominic Riley             | Adjunct advisor             | Industry mentor                 | [The Grow Room](https://www.thegrowroom.no/)
+
 
 Former lab members are:
 
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
-| Jonas Juselius            | Adjunct associate professor | Industry mentor from [Serit IT-partner](https://serit.no) |
-| Sidra Tahi                | Master student              | Thesis: [Can a code snippet portal contribute to greater learning outcomes in other fields of science and technology?](https://munin.uit.no/handle/10037/22348) |
+| Mariel Ellingsen     | Master student                 |                                        |
+| Markus Tiller        | Master student                 |                                        |
+| Michael Lau          | Master student                 |                                        |
+| Christina Rolandsen  | Scientific staff            | Population studies in the north           |
+| Dominic Riley        | Adjunct advisor             | Industry mentor from [The Grow Room](https://www.thegrowroom.no/) |
+| Jonas Juselius       | Adjunct associate professor | Industry mentor from [Serit IT-partner](https://serit.no) |
+| Sidra Tahi           | Master student              | Thesis: [Can a code snippet portal contribute to greater learning outcomes in other fields of science and technology?](https://munin.uit.no/handle/10037/22348) |
 | Anton Garri Fagerbakk     | Master student              | Thesis: [Keeping Up with the Market: Extracting competencies from Norwegian job listings](https://munin.uit.no/handle/10037/21415) |
 | Wilhelm Vold              | Intern                      | HeartOn app |
 | Alvaro Martinez Fernandez | Master student            | Thesis: [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518) |
