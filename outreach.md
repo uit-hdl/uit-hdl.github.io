@@ -31,6 +31,7 @@ title: Outreach
 4. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
         
 # Panels
+1. Lars Ailo Bongo. Founding an AI startup as an AI Researcher. NORA.startup workshop. Tromsø. 21.04.2022.
 1. Lars Ailo Bongo (moderator). Industry event. Northern Lights Deep Learning Conference 2022. Online. 10.01.2022.
 2. Lars Ailo Bongo. NORA.startup panel. NORA Annual Conference 2021. Bergen. 17.08.2021
         
