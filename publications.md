@@ -70,7 +70,7 @@ title: Publications
 122. John Markus Bjørndalen, Otto Anshus, Tore Larsen, Lars Ailo Bongo, Brian Vinter. [Scalable Processing and Communication Performance in a Multi-Media Related Context](https://www.cs.uit.no/hdl/papers/euromicro02.pdf). in *Proceedings of the 28th EuroMicro Conference*. 2002.
 
 
-# Preprinsts and reports
+# Preprints and reports
 1. Dina Benedicte Stensen, Rafael Adolfo Nozal Cañadas, Lars Småbrekke, Karina Olsen, Christopher Sivert Nielsen, Kristian Svendsen, Anne Merethe Hanssen, Johanna Sollid, Gunnar Skov Simonsen, Lars Ailo Bongo, Anne-Sofie Furberg. [Social network analysis of Staphylococcus aureus carriage in a general youth population](https://arxiv.org/abs/2202.08794). arXiv:2202.08794 [cs.SI].
 2. Eiliv Lund, Marit Holden, Lill-Tove Rasmussen Busund, Igor Snapkov, Nikita Shvetsov, Lars Holden. [Trajectories of gene expression, seasonal influenza, and within-host seasonal immunity: transfer value to covid-19](https://www.medrxiv.org/content/10.1101/2022.03.01.22271679v1). medRxiv 2022.03.01.22271679.
 3. Einar Holsbø, Vittorio Perduca, Lars Ailo Bongo, Eiliv Lund, Etienne Birmelé. [Stratified time-course gene  preselection shows a pre-diagnostic transcriptomic signal for metastasis in blood cells: a proof of concept from the NOWAC study](https://www.biorxiv.org/content/early/2018/06/25/141325). bioRxiv. 2018.
