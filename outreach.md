@@ -2,7 +2,7 @@
 title: Outreach
 ---
 
-# Workshops, webinars, hackathons, and other events
+# Workshops, hackathons, and other events
 1. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
 2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
 4. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
