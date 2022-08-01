@@ -4,11 +4,9 @@ title: Outreach
 
 # Workshops, webinars, hackathons, and other events
 1. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
-2. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Digital Technology Innovation Lab. Tromsø, March 23rd, 2022.
-3. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup webinar. 10.12.2021
+2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
 4. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
 5. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
-6. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-startup/video/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.2020.
 7. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
 8. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
 9. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
@@ -24,7 +22,12 @@ title: Outreach
 19. Edvard Pedersen. Lærerkurs programmering. UiT. 16.08.2019.
 20. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). 
 21. Introduction to R. Workshop. Tromsø, Norway. June 2016.
-22. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
+
+# Webinars
+1. Lars Ailo Bongo. [Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23b50b8e-a89e-4e4d-99a5-ae6900d5e68d). Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT. March 31st, 2022.
+2. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup webinar. 10.12.2021.
+3. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-startup/video/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.2020.
+4. Espen M. Robertsen and Inge Alexander Raknes. [Update on ELIXIR Pilot Actions launched in 2014: Marine metagenomics: towards user centric services Webinar](https://youtu.be/uSsvIZhY8Hs), Elixir, June, 2015.
         
 # Panels
 1. Lars Ailo Bongo (moderator). Industry event. Northern Lights Deep Learning Conference 2022. Online. 10.01.2022.
