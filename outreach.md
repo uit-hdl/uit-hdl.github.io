@@ -3,6 +3,7 @@ title: Outreach
 ---
 
 # Workshops, hackathons, and other events
+1. Hilde Sommerseth, Lars Ailo Bongo. Norwegian Historical Data Centre hackathon on automatic coding of burial records. Tromsø, April 25-26, 2022.
 1. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
 2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
 4. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
@@ -13,7 +14,7 @@ title: Outreach
 10. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
 11. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
 12. Edvard Pedersen. GirlTech. UitT 12.02.2020.
-13. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
+13. Hilde Sommerseth, Lars Ailo Bongo. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
 14. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
 15. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
 16. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
@@ -36,7 +37,7 @@ title: Outreach
 # Talks
 <!-- Reverse order -->
 1. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 Hune 2022, Lily Country Club, Kløfta, Oslo.
-2. 
+2. Computational Pathology. Anders Sildnes. Fellesmøte: Pasientnær kunstig intelligens i nord. Online. 24.05.2022.
 3. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
 4. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
 5. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
