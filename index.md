@@ -78,6 +78,7 @@ The lab currently consist of:
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Narae Park                | Master student              | Historical data                 | - |
 | Tommy Hartviksen Pettersen | Master student             | Big pharmacoepidemiology        | - |
+| Simen Lund Kirkvik        | Master student              | with Serit IT Partner           | - |
 | Bjørn Fjukstad            | Adjunct associate professor | Industry mentor                 | [DIPS](https://www.dips.com/no) |
 
 
