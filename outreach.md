@@ -38,11 +38,13 @@ title: Outreach
 <!-- Reverse order -->
 1. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 Hune 2022, Lily Country Club, Kløfta, Oslo.
 2. Computational Pathology. Anders Sildnes. Fellesmøte: Pasientnær kunstig intelligens i nord. Online. 24.05.2022.
-3. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
-4. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
-5. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
-124. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
-123. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
+3. Lars Ailo Bongo. An Iterative Process: Finding ways of optimizing the building of historical registries, Part 2. Discutant. 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
+5. Lars Ailo Bongo. Health Data Lab. IFI at Bodø, Bodø, 22.02.2022.
+6. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
+7. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
+8. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
+9. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
+10. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
 122. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Polarsirkelen VGS. 24.02.2021
 121. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Narvik VGS. 22.02.2021.
 120. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 16.02.2021.
