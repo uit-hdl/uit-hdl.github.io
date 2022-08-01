@@ -44,6 +44,7 @@ title: Outreach
 5. Lars Ailo Bongo. Health Data Lab. IFI at Bodø, Bodø, 22.02.2022.
 6. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
 7. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
+7. Nikita Shvetsov. [Machine learning approach to quantify tumor infiltrating lymphocytes in Whole Slide Images: challenges and opportunities](https://docs.google.com/presentation/d/1ukgECxQyYsbycif7pLNOt-TkQZqvDmnqBcT1WKADI5Q/edit#slide=id.p1) Visual Intelligence Days 2021. 19.10.2021
 8. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
 9. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
 10. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
