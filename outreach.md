@@ -38,7 +38,8 @@ title: Outreach
 <!-- Reverse order -->
 1. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 Hune 2022, Lily Country Club, Kløfta, Oslo.
 2. Computational Pathology. Anders Sildnes. Fellesmøte: Pasientnær kunstig intelligens i nord. Online. 24.05.2022.
-3. Lars Ailo Bongo. An Iterative Process: Finding ways of optimizing the building of historical registries, Part 2. Discutant. 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
+3. Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. What to do with the stubborn 3%? 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
+4. Lars Ailo Bongo. An Iterative Process: Finding ways of optimizing the building of historical registries, Part 2. Discutant. 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
 5. Lars Ailo Bongo. Health Data Lab. IFI at Bodø, Bodø, 22.02.2022.
 6. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
 7. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
