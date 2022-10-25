@@ -37,17 +37,21 @@ title: Outreach
         
 # Talks
 <!-- Reverse order -->
-1. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 Hune 2022, Lily Country Club, Kløfta, Oslo.
-2. Computational Pathology. Anders Sildnes. Fellesmøte: Pasientnær kunstig intelligens i nord. Online. 24.05.2022.
-3. Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. What to do with the stubborn 3%? 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
-4. Lars Ailo Bongo. An Iterative Process: Finding ways of optimizing the building of historical registries, Part 2. Discutant. 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
-5. Lars Ailo Bongo. Health Data Lab. IFI at Bodø, Bodø, 22.02.2022.
-6. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
-7. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
-7. Nikita Shvetsov. [Machine learning approach to quantify tumor infiltrating lymphocytes in Whole Slide Images: challenges and opportunities](https://docs.google.com/presentation/d/1ukgECxQyYsbycif7pLNOt-TkQZqvDmnqBcT1WKADI5Q/edit#slide=id.p1) Visual Intelligence Days 2021. 19.10.2021
-8. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
-9. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
-10. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
+136. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
+assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2021.
+135. Nikita Shvetsov. Visual Intelligence Days 2022. [DL for digital pathology: biomarker discovery](https://docs.google.com/presentation/d/1HCujLMbgzNy1hyhrS2raN819NzhpERig/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - presentation and poster, Oslo, 28.09.2022.
+134. Nikita Shvetsov. Autumn Research School in Artificial Intelligence Methods in Medical Imaging. [Fast tumor infiltrating lymphocytes analysis in whole slide images](https://docs.google.com/document/d/1gSJmlyPouEtrMsKHPpA3kT9VQy3wSmD6/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - abstract and poster, Bergen, 15.09.2022
+133. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 June 2022, Lily Country Club, Kløfta, Oslo.
+132. Computational Pathology. Anders Sildnes. Fellesmøte: Pasientnær kunstig intelligens i nord. Online. 24.05.2022.
+131. Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. What to do with the stubborn 3%? 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
+130. Lars Ailo Bongo. An Iterative Process: Finding ways of optimizing the building of historical registries, Part 2. Discutant. 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
+129. Lars Ailo Bongo. Health Data Lab. IFI at Bodø, Bodø, 22.02.2022.
+128. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
+127. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
+126. Nikita Shvetsov. [Machine learning approach to quantify tumor infiltrating lymphocytes in Whole Slide Images: challenges and opportunities](https://docs.google.com/presentation/d/1ukgECxQyYsbycif7pLNOt-TkQZqvDmnqBcT1WKADI5Q/edit#slide=id.p1) Visual Intelligence Days 2021. 19.10.2021
+125. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
+124. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
+123. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
 122. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Polarsirkelen VGS. 24.02.2021
 121. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Narvik VGS. 22.02.2021.
 120. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 16.02.2021.
