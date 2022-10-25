@@ -37,11 +37,11 @@ title: Outreach
         
 # Talks
 <!-- Reverse order -->
-136. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
+1. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
 assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2021.
-135. Nikita Shvetsov. Visual Intelligence Days 2022. [DL for digital pathology: biomarker discovery](https://docs.google.com/presentation/d/1HCujLMbgzNy1hyhrS2raN819NzhpERig/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - presentation and poster, Oslo, 28.09.2022.
-134. Nikita Shvetsov. Autumn Research School in Artificial Intelligence Methods in Medical Imaging. [Fast tumor infiltrating lymphocytes analysis in whole slide images](https://docs.google.com/document/d/1gSJmlyPouEtrMsKHPpA3kT9VQy3wSmD6/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - abstract and poster, Bergen, 15.09.2022
-133. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 June 2022, Lily Country Club, Kløfta, Oslo.
+1. Nikita Shvetsov. Visual Intelligence Days 2022. [DL for digital pathology: biomarker discovery](https://docs.google.com/presentation/d/1HCujLMbgzNy1hyhrS2raN819NzhpERig/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - presentation and poster, Oslo, 28.09.2022.
+1. Nikita Shvetsov. Autumn Research School in Artificial Intelligence Methods in Medical Imaging. [Fast tumor infiltrating lymphocytes analysis in whole slide images](https://docs.google.com/document/d/1gSJmlyPouEtrMsKHPpA3kT9VQy3wSmD6/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - abstract and poster, Bergen, 15.09.2022
+1. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 June 2022, Lily Country Club, Kløfta, Oslo.
 132. Computational Pathology. Anders Sildnes. Fellesmøte: Pasientnær kunstig intelligens i nord. Online. 24.05.2022.
 131. Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. What to do with the stubborn 3%? 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
 130. Lars Ailo Bongo. An Iterative Process: Finding ways of optimizing the building of historical registries, Part 2. Discutant. 4th Conference Of The European Society Of Historical Demography. Madrid, March 2-5, 2022.
