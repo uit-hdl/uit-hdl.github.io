@@ -59,10 +59,12 @@ We have developed systems for data management, analysis and exploration in the N
 
 
 In addition, we have developed many different data analyses that are specific for the NOWAC data:
+
 35. [MIxT](https://github.com/fjukstad/mixt). Matched Interaction Across Tissues (MIxT) is a web application for exploring and comparing transcriptional profiles from two or more matched tissues across individuals. [Online](http://mixt-blood-tumor.bci.mcgill.ca)					
 36. [Smoking variables](https://github.com/uit-bdps/smoking-variables). Estimate smoking status and other smoking-related variables the NOWAC-cohort.
 
 The air:bit project repositories are:
+
 37. [Luft](https://github.com/fjukstad/luft). Web application for visualizing air quality in Tromsø with	data from The Norwegian Institute for Air Research (NILU) and Kongsbakken VGS. [Online](http://luft.cs.uit.no). 
 38. [air:bit backend platform](https://github.com/ninaangelvik/luft). The backend is deployed on Google Cloud Platform.
 39. [Air quality sensor and web server](https://github.com/ninaangelvik/luftprosjekttromso). An Arduino-based portable air quality sensor kit and a Ruby on Rails web application deployed on Heroku.
