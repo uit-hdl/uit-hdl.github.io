@@ -39,6 +39,9 @@ title: Outreach
 <!-- Reverse order -->
 1. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
 assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2021.
+2. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
+3. Lars Ailo Bongo. Machine learning on medical images. EUGLOH Fall school, Hamburg, 6-7. October 2022.
+4. Lars Ailo Bongo. Update on the VINN (Volpara i Nord Norge) project. Visual Intelligence Days 2022. Olavsgaard, 29.09.22.
 135. Nikita Shvetsov. Visual Intelligence Days 2022. [DL for digital pathology: biomarker discovery](https://docs.google.com/presentation/d/1HCujLMbgzNy1hyhrS2raN819NzhpERig/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - presentation and poster, Oslo, 28.09.2022.
 134. Nikita Shvetsov. Autumn Research School in Artificial Intelligence Methods in Medical Imaging. [Fast tumor infiltrating lymphocytes analysis in whole slide images](https://docs.google.com/document/d/1gSJmlyPouEtrMsKHPpA3kT9VQy3wSmD6/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - abstract and poster, Bergen, 15.09.2022
 133. Lars Ailo Bongo. [Vurdering av posisjoneringskriterier for screeningmammogrammer med kunstig intelligens (VINN)](https://docs.google.com/presentation/d/12ZjZVhLUbEW9aJfZ4KIo9vIUOl0gKT55-UpXGd9Su64/edit#slide=id.p1). Mammografiprogrammet Jubileumskonferanse 2022. 13-14 June 2022, Lily Country Club, Kløfta, Oslo.
@@ -105,75 +108,75 @@ assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULj
 72. Bjørn Fjukstad. [They Don’t Teach You This In School (yet)](http://fjukstad.github.io/research/energy-on-the-loose.pdf) (in Norwegian), Energy On The Loose Conference, Tromsø, May 2017.
 71. Bjørn Fjukstad. *Personalized breast cancer treatment in practice*, Norwegian Translational Cancer Research Center, Tromsø May 2017.
 70. Bjørn Fjukstad. [Low-cost Air Quality Monitoring Project in High-Schools](http://fjukstad.github.io/research/luftkvalitet-lektor2.pdf) (in Norwegian), Lektor2 Regionsamling, Tromsø March 2017.
-69. Bjørn Fjukstad. *Arduino-workshop*. for Aust-Lofoten High School. 2017.
-68. Bjørn Fjukstad. *Micro:bit workshop*. for Tromstun High School. 2017.
-67. Bjørn Fjukstad. *Kodeklubben*. Seminar at Signal Bredbånd. 2017.
-66. Johan Ravn. *RespirAnalytics - Cloud Services for Real-time Detection and Classification of Abnormal Lung sounds*. NFR SUD-ENT funding panel. Oslo, Norway. April 2017.
-65. Lars Ailo Bongo. [Distributing META-pipe on ELIXIR compute resources](https://www.cs.uit.no/hdl/slides/all-hands-2017-bongo-cloudsetup.pptx). Elixir All-hands Meeting. Rome. Italy, March 2017.
-64. Lars Ailo Bongo. [Challenges and approaches for providing a pipeline as a service](https://www.cs.uit.no/hdl/slides/all-hands-2017-bongo-flashtalk.pptx). Flash talk. Elixir All-hands Meeting. Rome. Italy, March 2017.
-63. Lars Ailo Bongo. [MMG: from proof-of-concept to production services at scale](https://www.cs.uit.no/hdl/slides/WP6-at-WP4 Stockholm 2017.pptx). Elixir Compute Platform meeting. Stockholm, Sweden, February 2017.
-62. Bjørn Fjukstad. [Building systems for interactive data exploration in systems biology](http://bjorn.cs.uit.no/talks-master/barbados-2017/mixt-barbados-01-2017.slide). Workshop on Cancer and the Immune System, Barbados, January 2017.
-61.Edvard Pedersen. *A data management model for large-scale bioinformatics analysis*. PhD defense. Dept. of Computer Science, University of Tromsø. January 2017.
-60. Edvard Pedersen. *Data access in bioinformatics: Bottlenecks and other challenges specific to the bioinformatics domain*. PhD trial lecture. Dept. of Computer Science, University of Tromsø. January 2017.
-59. Einar Holsbø. [Predicting breast cancer metastasis from blood samples — “On variance and other problems”](http://3inar.github.io/assets/pdfs/barbados2017.pdf), Breast Cancer and the Immune System workshop, Barbados, 2017.
-58. Einar Holsbø. [The pragmatic R programmer](http://3inar.github.io/assets/pdfs/pragmatic_r.pdf). Intro to writing reusable R code and bundling it in packages. Given at the Department of Community Medicine, University of Tromsø. 17th of November, 2016.
-57. Einar Holsbø. [Version control and you](http://3inar.github.io/assets/pdfs/version_control_and_you.pdf). Intro to version control software (Git) and its place in reproducible data analysis. Given at the Department of Community Medicine, University of Tromsø. 16th of November, 2016.
-56. Lars Ailo Bongo. [Our cloud usage - and not](https://www.cs.uit.no/hdl/slides/sfb-cloud-faggruppe.pptx).	Uninett Faggruppe for skyteknologi. November, 2016.
-55. Frode Opdahl. [Virtual reality](https://www.cs.uit.no/hdl/slides/vr-frode-2016.pdf).	Developer lunch at IT Dept. at University of Tromsø. November 2016. 
-54. Lars Ailo Bongo. [Virtual reality](https://www.cs.uit.no/hdl/slides/virtual-reality-norstruct-2016.pptx). Norstruct seminar. October 2016.
-53. Inge Alexander Raknes. [META-pipe - architecture and design](https://www.cs.uit.no/hdl/slides/nels-wp2-sep2016.pptx). NeLS WP2 Workshop, September 2016.
-52. Otto Anshus. *Center for Bioinformatics at UiT*. TUM, München. September 2016.
-51. Lars Ailo Bongo. [META-pipe: marine metagenomics service](https://www.cs.uit.no/hdl/slides/Bongo-SME-Oslo.pptx).	ELIXIR Innovation and SME Forum: Data-driven innovation in the aquaculture and marine industries. May 2016.
-50. Lars Ailo Bongo. *Machine learning*. NOTCH seminar, University of Tromsø, Norway. March 2016.
-49. Morten Grønnesby. *Lung Sounds*. CS-lunch, IFI, University of Tromsø, Norway. March 2016.
-48. Lars Ailo Bongo. [Compute and storage requirements for META-pipe](https://doc-04-4g-docs.googleusercontent.com/docs/securesc/7cgvm56cmkpeeeu1fne6pbop0fkqr8mr/kn2i3ivm5roo7istchu3hgftamr7fdj6/1461794400000/16141377155339904616/03659780588905966241/0B4WQQq4hwmbQb1RIaVVsRDZ2VTg?e=download&nonce=2381pk6s2bja8&user=03659780588905966241&hash=k6ajavik9vspdr23b0dml3c88petv57u). Flash talk. ELIXIR all-hands meeting, Barcelona, Spain, March 2016.
-47. Inge Alexander Rakneas, Giacomo Tartari. [WP6: Marine metagenomics](https://www.cs.uit.no/hdl/slides/WP6-at-WP4-allhands-2016.pptx).	ELIXIR all-hands meeting, Barcelona, Spain, March 2016.
-46. Lars Ailo Bongo. [Center for Bioinformatics (SfB)](https://www.cs.uit.no/hdl/slides/sfb-ifi-feb2016.pptx). IFI, UiT, Tromsø, February 2016.
-45. Inge Alexander Raknes. NeLS WP2 Workshop, February 2016.
-44. Bjørn Fjukstad. [High-performance reproducible data exploration	applications in epidemiological studies](http://www.bci.mcgill.ca/home/barbados/mcgill-workshop-genetic-networks). McGill Workshop on Genetic Networks, Barbados, January 2016.
-43. Bjørn Fjukstad. *Programming*. NHO Troms årskonferanse. 2016.
-42. Bjørn Fjukstad. *Aurdino workshop*. for Tromsdalen High School. 2016.
-41. Bjørn Fjukstad. *Programming and education opportunities at the Department of Computer Science*. Tromsdalen High School. 2016.
-40. Bjørn Fjukstad. *Programming of a banana piano*. Solneset primary school. 2016.
-39. Bjørn Fjukstad. *Scratch programming for kindergarten children*. Tromsø barnefilmfestival, Tromsø, 2016.
-38. Bjørn Fjukstad. *Programming for high school teachers*.	Tromsø. 2016.
-37. Bjørn Fjukstad. *Programming workshop*. Workinnmarka school. 2016.
-36. Lars Ailo Bongo. [NELS - Overview and recent developments](https://www.cs.uit.no/hdl/slides/NBS-NELS2.pptx).	NBS contact meeting, Tromsø, January 2016.
-35. Edvard Pedersen.[Sequence Assembly in the Cloud, on the Grid, and in the Basement](https://www.cs.uit.no/hdl/papers/nbs-edvard.pdf). NBS contact meeting, Tromsø, January 2016.
-34. Lars Ailo Bongo. [WP6: Marine metagenomics](https://www.cs.uit.no/hdl/slides/WP6-at-WP4-012016.pptx). Elixir WP4 meeting, Heathrow, UK, January 2016.
-33. Bjørn Fjukstad. [Processing and p5js](http://kodeklubben-tromso.github.io/laererkonferanse/workshops/processing/presentasjon/). Teacher Conference in Programming, Oslo. November 2015.  
-32. Einar Holsbø. *Predicting cancer progression from blood gene expression (Alternate title: Some negative results)*. Machine Learning @ UiT weekly seminar. October, 2015.
-31. Lars Ailo Bongo. [Big Biological Data](https://www.cs.uit.no/hdl/papers/dnd.pptx). Dataforeningen, Tromsø, September, 2015.
-30. Bjørn Fjukstad. [Kodeklubben Tromsø](https://github.com/kodeklubben-tromso/laererkonferanse/raw/master/presentasjoner/kodeklubben-troms%C3%B8.pdf). Teacher Conference in Programming, Tromsø. September 2015. 
-29. Stian Hansen and Bjørn Fjukstad. [Introduction to coding and different technologies](https://github.com/kodeklubben-tromso/laererkonferanse/raw/master/presentasjoner/teknologier.pdf). Teacher Conference in Programming, Tromsø. September 2015. 
-28. Bjørn Fjukstad. *Aurdino workshop*. Kvaløya elimentary school, 2015.
-27. Bjørn Fjukstad. *Aurdino workshop*.	Aust-Lofoten high school, 2015.
-26. Lars Ailo Bongo. [META-pipe](https://www.cs.uit.no/hdl/papers/meta-pipe-excelerate-kickoff.pptx). WP6 - Elixir-Excelerate Kick-Off Meeting, Hinxton, UK. August, 2015.
-25. Inge Alexander Raknes.  *Artifactory and Jenkins*. Developer lunch at IT Dept. at University of Tromsø. April 2015. 
-24. Lars Ailo Bongo. [Marine metagenomic infrastructure services as driver for research and industrial innovation](https://www.cs.uit.no/hdl/papers/elixir-tsw-amsterdam-2015.pdf). Elixir Compute Platforms Workshop. Amsterdam, Netherlands. March 2015.
-23. Lars Ailo Bongo. *Computer system for lung sound analysis*. Lung sounds analysis meeting. Aveiro, Portugal. March 2015.
-22. Bjørn Fjukstad. *KVIK - a tool to visualize genomic data from the NOWAC post genome cohort.* Department of Community Medicine seminar, University of Tromsø. March 2015.
-21. Edvard Pedersen. *Integrating Data-Intensive Computing Systems with Biological Data Analysis Frameworks*. CS-lunch seminar,	Department of Computer Science, University of Tromsø. February 2015. 
-20. Espen M. Robertsen and Inge Alexander Raknes. *Metapipe - plans & challenges*. NeLS technical services workshop. Tromsø, Norway. February 2015.
-19. Lars Ailo Bongo. [Interactive data exploration](https://www.cs.uit.no/hdl/papers/barbados.pdf). 14th Annual BCI-McGill Workshop, Barbados. January 2015. 
-18. Lars Ailo Bongo. *Interactive data exploration*. NORSTRUCT annual meeting, Målselv, Norway. January 2015. 
-17. Bjørn Fjukstad. [Kvik: Interactive exploration of genomic data from the NOWAC postgenome biobank](https://www.cs.uit.no/hdl/papers/kvik-cs-lunch-21-01-2015.pdf). CS-lunch, Department of Computer Science, University of Tromsø. January 2015. 
-16. Edvard Pedersen. *Enabling incremental updates*. Elixir pilot project kick-off meeting. EBI, Hinxton, UK. October 2014.
-15. Inge Alexander Raknes. *Metapipe - From a deployment perspective*. Elixir pilot project kick-off meeting. EBI, Hinxton, UK. October 2014.
-14. Bjørn Fjukstad. [Data Driven Documents (D3)](https://github.com/fjukstad/d3-presentation). Developer lunch at IT Dept. at University of Tromsø. October 2014. 
-13. Bjørn Fjukstad. [Kvik: Interactive exploration of biological pathways](https://www.cs.uit.no/hdl/papers/kvik-bio-3010-20-10-2014.pdf). BIO-3010 Modelling in Systems Biology. University of Tromsø. October 2014. 
-12. Lars Ailo Bongo. [METApipe - metagenomics analysis pipeline](https://www.cs.uit.no/hdl/papers/nesus-metapipe.pdf). NESUS First Working Groups Meeting. Madrid, Spain. July 2014. 
-11. Bjørn Fjukstad. [Kvik: Interactive Exploration of Multi-Omics Data from the NOWAC Postgenome Biobank(https://www.cs.uit.no/hdl/papers/kvik-socbin14.pdf). SocBiN Bioinformatics. Oslo, Norway. June 2014. 
-10. Edvard Pedersen. [Enabling incremental updates for bioinformatics workflows](https://www.cs.uit.no/hdl/papers/socbin-abstract.pdf). SocBiN Bioinformatics. Oslo, Norway. June 2014.
-9. Giacomo Tartari. [Go Language](https://www.cs.uit.no/hdl/papers/Go Language.pdf). Department of Information Technology seminar series. Tromsø, Norway, May 2014.
-8. Inge Alexander Raknes. *The Scala Programming Language*. Department of Information Technology seminar series. Tromsø, Norway, October 2013.
-7. Lars Ailo Bongo. *Metagenomics - opportunities and computational challenges*. Invited talk. The 11th Annual Meeting on High Performance Computing and Infrastructure in Norway NOTUR2012. Tromsø, Norway. June 2012.
-6. Lars Ailo Bongo. *Large-scale data management in bioinformatics*. Interdisciplinary lunch series, University of Tromsø. 2011.  
-5. Lars Ailo Bongo. *Adaptive Video Compression*. PhD. trial lecture. Tromsø, Norway. February 2008. 
-4. Lars Ailo Bongo. *Reducing the Network Latency and Bandwidth Requirements of Parallel and Distributed Applications*. Verdikt conference. Trondheim, Norway. October 2007. 
-3. Lars Ailo Bongo, Kai Li, Olga Troyanskaya, Grant Wallace, Tore Larsen. * Application Specific Compression for Remote Visualization of Genomics Applications*. Rutgers-Helsinki Ph.D. Student Workshop on Spontaneous Networking 2006. Rutgers, NJ, USA. May 2006.  
-2. Lars Ailo Bongo, Kai Li, Olga Troyanskaya, Grant Wallace, Tore Larsen. *Application Specific Compression for Remote Visualization of Genomics Applications*. Workshop on state-of-the-art in scientific and parallel computing (Para'06). Umeå, Sweden. June 2006. 
-1. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. *Experiences Visualizing Multi-cluster Parallel Applications*. Seminar in Computer Graphics. Oslo, Norway. March 2003.
+71. Bjørn Fjukstad. *Arduino-workshop*. for Aust-Lofoten High School. 2017.
+72. Bjørn Fjukstad. *Micro:bit workshop*. for Tromstun High School. 2017.
+73. Bjørn Fjukstad. *Kodeklubben*. Seminar at Signal Bredbånd. 2017.
+74. Johan Ravn. *RespirAnalytics - Cloud Services for Real-time Detection and Classification of Abnormal Lung sounds*. NFR SUD-ENT funding panel. Oslo, Norway. April 2017.
+75. Lars Ailo Bongo. [Distributing META-pipe on ELIXIR compute resources](https://www.cs.uit.no/hdl/slides/all-hands-2017-bongo-cloudsetup.pptx). Elixir All-hands Meeting. Rome. Italy, March 2017.
+76. Lars Ailo Bongo. [Challenges and approaches for providing a pipeline as a service](https://www.cs.uit.no/hdl/slides/all-hands-2017-bongo-flashtalk.pptx). Flash talk. Elixir All-hands Meeting. Rome. Italy, March 2017.
+77. Lars Ailo Bongo. [MMG: from proof-of-concept to production services at scale](https://www.cs.uit.no/hdl/slides/WP6-at-WP4 Stockholm 2017.pptx). Elixir Compute Platform meeting. Stockholm, Sweden, February 2017.
+78. Bjørn Fjukstad. [Building systems for interactive data exploration in systems biology](http://bjorn.cs.uit.no/talks-master/barbados-2017/mixt-barbados-01-2017.slide). Workshop on Cancer and the Immune System, Barbados, January 2017.
+79.Edvard Pedersen. *A data management model for large-scale bioinformatics analysis*. PhD defense. Dept. of Computer Science, University of Tromsø. January 2017.
+80. Edvard Pedersen. *Data access in bioinformatics: Bottlenecks and other challenges specific to the bioinformatics domain*. PhD trial lecture. Dept. of Computer Science, University of Tromsø. January 2017.
+81. Einar Holsbø. [Predicting breast cancer metastasis from blood samples — “On variance and other problems”](http://3inar.github.io/assets/pdfs/barbados2017.pdf), Breast Cancer and the Immune System workshop, Barbados, 2017.
+82. Einar Holsbø. [The pragmatic R programmer](http://3inar.github.io/assets/pdfs/pragmatic_r.pdf). Intro to writing reusable R code and bundling it in packages. Given at the Department of Community Medicine, University of Tromsø. 17th of November, 2016.
+83. Einar Holsbø. [Version control and you](http://3inar.github.io/assets/pdfs/version_control_and_you.pdf). Intro to version control software (Git) and its place in reproducible data analysis. Given at the Department of Community Medicine, University of Tromsø. 16th of November, 2016.
+84. Lars Ailo Bongo. [Our cloud usage - and not](https://www.cs.uit.no/hdl/slides/sfb-cloud-faggruppe.pptx).	Uninett Faggruppe for skyteknologi. November, 2016.
+85. Frode Opdahl. [Virtual reality](https://www.cs.uit.no/hdl/slides/vr-frode-2016.pdf).	Developer lunch at IT Dept. at University of Tromsø. November 2016. 
+86. Lars Ailo Bongo. [Virtual reality](https://www.cs.uit.no/hdl/slides/virtual-reality-norstruct-2016.pptx). Norstruct seminar. October 2016.
+87. Inge Alexander Raknes. [META-pipe - architecture and design](https://www.cs.uit.no/hdl/slides/nels-wp2-sep2016.pptx). NeLS WP2 Workshop, September 2016.
+88. Otto Anshus. *Center for Bioinformatics at UiT*. TUM, München. September 2016.
+89. Lars Ailo Bongo. [META-pipe: marine metagenomics service](https://www.cs.uit.no/hdl/slides/Bongo-SME-Oslo.pptx).	ELIXIR Innovation and SME Forum: Data-driven innovation in the aquaculture and marine industries. May 2016.
+90. Lars Ailo Bongo. *Machine learning*. NOTCH seminar, University of Tromsø, Norway. March 2016.
+91. Morten Grønnesby. *Lung Sounds*. CS-lunch, IFI, University of Tromsø, Norway. March 2016.
+92. Lars Ailo Bongo. [Compute and storage requirements for META-pipe](https://doc-04-4g-docs.googleusercontent.com/docs/securesc/7cgvm56cmkpeeeu1fne6pbop0fkqr8mr/kn2i3ivm5roo7istchu3hgftamr7fdj6/1461794400000/16141377155339904616/03659780588905966241/0B4WQQq4hwmbQb1RIaVVsRDZ2VTg?e=download&nonce=2381pk6s2bja8&user=03659780588905966241&hash=k6ajavik9vspdr23b0dml3c88petv57u). Flash talk. ELIXIR all-hands meeting, Barcelona, Spain, March 2016.
+93. Inge Alexander Rakneas, Giacomo Tartari. [WP6: Marine metagenomics](https://www.cs.uit.no/hdl/slides/WP6-at-WP4-allhands-2016.pptx).	ELIXIR all-hands meeting, Barcelona, Spain, March 2016.
+94. Lars Ailo Bongo. [Center for Bioinformatics (SfB)](https://www.cs.uit.no/hdl/slides/sfb-ifi-feb2016.pptx). IFI, UiT, Tromsø, February 2016.
+95. Inge Alexander Raknes. NeLS WP2 Workshop, February 2016.
+96. Bjørn Fjukstad. [High-performance reproducible data exploration	applications in epidemiological studies](http://www.bci.mcgill.ca/home/barbados/mcgill-workshop-genetic-networks). McGill Workshop on Genetic Networks, Barbados, January 2016.
+97. Bjørn Fjukstad. *Programming*. NHO Troms årskonferanse. 2016.
+98. Bjørn Fjukstad. *Aurdino workshop*. for Tromsdalen High School. 2016.
+99. Bjørn Fjukstad. *Programming and education opportunities at the Department of Computer Science*. Tromsdalen High School. 2016.
+100. Bjørn Fjukstad. *Programming of a banana piano*. Solneset primary school. 2016.
+101. Bjørn Fjukstad. *Scratch programming for kindergarten children*. Tromsø barnefilmfestival, Tromsø, 2016.
+102. Bjørn Fjukstad. *Programming for high school teachers*.	Tromsø. 2016.
+103. Bjørn Fjukstad. *Programming workshop*. Workinnmarka school. 2016.
+104. Lars Ailo Bongo. [NELS - Overview and recent developments](https://www.cs.uit.no/hdl/slides/NBS-NELS2.pptx).	NBS contact meeting, Tromsø, January 2016.
+105. Edvard Pedersen.[Sequence Assembly in the Cloud, on the Grid, and in the Basement](https://www.cs.uit.no/hdl/papers/nbs-edvard.pdf). NBS contact meeting, Tromsø, January 2016.
+106. Lars Ailo Bongo. [WP6: Marine metagenomics](https://www.cs.uit.no/hdl/slides/WP6-at-WP4-012016.pptx). Elixir WP4 meeting, Heathrow, UK, January 2016.
+107. Bjørn Fjukstad. [Processing and p5js](http://kodeklubben-tromso.github.io/laererkonferanse/workshops/processing/presentasjon/). Teacher Conference in Programming, Oslo. November 2015.  
+108. Einar Holsbø. *Predicting cancer progression from blood gene expression (Alternate title: Some negative results)*. Machine Learning @ UiT weekly seminar. October, 2015.
+109. Lars Ailo Bongo. [Big Biological Data](https://www.cs.uit.no/hdl/papers/dnd.pptx). Dataforeningen, Tromsø, September, 2015.
+110. Bjørn Fjukstad. [Kodeklubben Tromsø](https://github.com/kodeklubben-tromso/laererkonferanse/raw/master/presentasjoner/kodeklubben-troms%C3%B8.pdf). Teacher Conference in Programming, Tromsø. September 2015. 
+111. Stian Hansen and Bjørn Fjukstad. [Introduction to coding and different technologies](https://github.com/kodeklubben-tromso/laererkonferanse/raw/master/presentasjoner/teknologier.pdf). Teacher Conference in Programming, Tromsø. September 2015. 
+112. Bjørn Fjukstad. *Aurdino workshop*. Kvaløya elimentary school, 2015.
+113. Bjørn Fjukstad. *Aurdino workshop*.	Aust-Lofoten high school, 2015.
+114. Lars Ailo Bongo. [META-pipe](https://www.cs.uit.no/hdl/papers/meta-pipe-excelerate-kickoff.pptx). WP6 - Elixir-Excelerate Kick-Off Meeting, Hinxton, UK. August, 2015.
+115. Inge Alexander Raknes.  *Artifactory and Jenkins*. Developer lunch at IT Dept. at University of Tromsø. April 2015. 
+116. Lars Ailo Bongo. [Marine metagenomic infrastructure services as driver for research and industrial innovation](https://www.cs.uit.no/hdl/papers/elixir-tsw-amsterdam-2015.pdf). Elixir Compute Platforms Workshop. Amsterdam, Netherlands. March 2015.
+117. Lars Ailo Bongo. *Computer system for lung sound analysis*. Lung sounds analysis meeting. Aveiro, Portugal. March 2015.
+118. Bjørn Fjukstad. *KVIK - a tool to visualize genomic data from the NOWAC post genome cohort.* Department of Community Medicine seminar, University of Tromsø. March 2015.
+119. Edvard Pedersen. *Integrating Data-Intensive Computing Systems with Biological Data Analysis Frameworks*. CS-lunch seminar,	Department of Computer Science, University of Tromsø. February 2015. 
+120. Espen M. Robertsen and Inge Alexander Raknes. *Metapipe - plans & challenges*. NeLS technical services workshop. Tromsø, Norway. February 2015.
+121. Lars Ailo Bongo. [Interactive data exploration](https://www.cs.uit.no/hdl/papers/barbados.pdf). 14th Annual BCI-McGill Workshop, Barbados. January 2015. 
+122. Lars Ailo Bongo. *Interactive data exploration*. NORSTRUCT annual meeting, Målselv, Norway. January 2015. 
+123. Bjørn Fjukstad. [Kvik: Interactive exploration of genomic data from the NOWAC postgenome biobank](https://www.cs.uit.no/hdl/papers/kvik-cs-lunch-21-01-2015.pdf). CS-lunch, Department of Computer Science, University of Tromsø. January 2015. 
+124. Edvard Pedersen. *Enabling incremental updates*. Elixir pilot project kick-off meeting. EBI, Hinxton, UK. October 2014.
+125. Inge Alexander Raknes. *Metapipe - From a deployment perspective*. Elixir pilot project kick-off meeting. EBI, Hinxton, UK. October 2014.
+126. Bjørn Fjukstad. [Data Driven Documents (D3)](https://github.com/fjukstad/d3-presentation). Developer lunch at IT Dept. at University of Tromsø. October 2014. 
+127. Bjørn Fjukstad. [Kvik: Interactive exploration of biological pathways](https://www.cs.uit.no/hdl/papers/kvik-bio-3010-20-10-2014.pdf). BIO-3010 Modelling in Systems Biology. University of Tromsø. October 2014. 
+128. Lars Ailo Bongo. [METApipe - metagenomics analysis pipeline](https://www.cs.uit.no/hdl/papers/nesus-metapipe.pdf). NESUS First Working Groups Meeting. Madrid, Spain. July 2014. 
+129. Bjørn Fjukstad. [Kvik: Interactive Exploration of Multi-Omics Data from the NOWAC Postgenome Biobank(https://www.cs.uit.no/hdl/papers/kvik-socbin14.pdf). SocBiN Bioinformatics. Oslo, Norway. June 2014. 
+130. Edvard Pedersen. [Enabling incremental updates for bioinformatics workflows](https://www.cs.uit.no/hdl/papers/socbin-abstract.pdf). SocBiN Bioinformatics. Oslo, Norway. June 2014.
+131. Giacomo Tartari. [Go Language](https://www.cs.uit.no/hdl/papers/Go Language.pdf). Department of Information Technology seminar series. Tromsø, Norway, May 2014.
+132. Inge Alexander Raknes. *The Scala Programming Language*. Department of Information Technology seminar series. Tromsø, Norway, October 2013.
+133. Lars Ailo Bongo. *Metagenomics - opportunities and computational challenges*. Invited talk. The 11th Annual Meeting on High Performance Computing and Infrastructure in Norway NOTUR2012. Tromsø, Norway. June 2012.
+134. Lars Ailo Bongo. *Large-scale data management in bioinformatics*. Interdisciplinary lunch series, University of Tromsø. 2011.  
+135. Lars Ailo Bongo. *Adaptive Video Compression*. PhD. trial lecture. Tromsø, Norway. February 2008. 
+136. Lars Ailo Bongo. *Reducing the Network Latency and Bandwidth Requirements of Parallel and Distributed Applications*. Verdikt conference. Trondheim, Norway. October 2007. 
+137. Lars Ailo Bongo, Kai Li, Olga Troyanskaya, Grant Wallace, Tore Larsen. * Application Specific Compression for Remote Visualization of Genomics Applications*. Rutgers-Helsinki Ph.D. Student Workshop on Spontaneous Networking 2006. Rutgers, NJ, USA. May 2006.  
+138. Lars Ailo Bongo, Kai Li, Olga Troyanskaya, Grant Wallace, Tore Larsen. *Application Specific Compression for Remote Visualization of Genomics Applications*. Workshop on state-of-the-art in scientific and parallel computing (Para'06). Umeå, Sweden. June 2006. 
+139. Lars Ailo Bongo, Otto Anshus, John Markus Bjørndalen. *Experiences Visualizing Multi-cluster Parallel Applications*. Seminar in Computer Graphics. Oslo, Norway. March 2003.
 
 
 # Demos and videos
