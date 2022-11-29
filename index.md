@@ -92,7 +92,7 @@ Former lab members are:
 | Sidra Tahi           | Master student              | Thesis: [Can a code snippet portal contribute to greater learning outcomes in other fields of science and technology?](https://munin.uit.no/handle/10037/22348) |
 | Anton Garri Fagerbakk     | Master student              | Thesis: [Keeping Up with the Market: Extracting competencies from Norwegian job listings](https://munin.uit.no/handle/10037/21415) |
 | Wilhelm Vold              | Intern                      | HeartOn app |
-| Alvaro Martinez Fernandez | Master student            | Thesis: [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518) |
+| Alvaro Martinez Fernandez | Master student            | Thesis: [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518) and [source code](https://github.com/kolibrid/GeneNet-VR)|
 | Jo Inge Arnes        | PhD student                    | NOWAC                                  |
 | Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776) and [source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
 | Mayeul Marcadella    | Technical staff                | ELIXIR |
