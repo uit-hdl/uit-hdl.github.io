@@ -93,7 +93,6 @@ Source code for our research projects (random order):
 <!-- Theses -->
 46. [rhd-linking](https://github.com/uit-hdl/rhd-linking) Record linkage of Norwegian historical census data using machine learning.
 47. [Ship-detection](https://github.com/matill/Ship-detection) ShipPointYOLO: Ship Detection and Description based on Point Coordinates in SAR Images
-48. 
 49. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
 50. [Replication code](https://github.com/mikevoets/jama16-retina-replication)for [Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://arxiv.org/abs/1803.04337).
 51. [DICOM anonymizer](https://github.com/mikevoets/dicom_anonymizer).
