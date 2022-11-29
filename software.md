@@ -79,6 +79,7 @@ Source code for our research projects (random order):
 44.  [Hover-net pipeline](https://github.com/SFI-Visual-Intelligence/hovernet-pipeline). Modified version of [HoVer-Net](https://github.com/vqdang/hover_net).
 45.  [Hover-buid](https://github.com/uit-hdl/hover_build). Setup HoVer-Net environment.
 <!-- Rafael -->
+45. [Fit Futures social network](https://github.com/uit-hdl/mimisbrunnr). Fit Futures social network analysis code and results.
 <!-- Other projects -->
 45. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
 46. [rhd-codes](https://github.com/uit-hdl/rhd-codes) Automatic transcription of numeric codes from Norwegian population census 
