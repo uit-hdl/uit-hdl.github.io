@@ -138,7 +138,9 @@ title: Publications
 
 
 # Abstracts and Posters
-1. Markus Tiller. Lars Ailo Bongo. Robert Jenssen. Torgeir Brenn. End-to-end trainable ship detection in SAR images with single level features. Poster at NORA Annual Conference 2022. Stavanger, 9-10th of June, 2022.
+1. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
+on philosophy of medicine and health care. 24 – 27 august 2022. Warsaw, Poland.
+2. Markus Tiller. Lars Ailo Bongo. Robert Jenssen. Torgeir Brenn. End-to-end trainable ship detection in SAR images with single level features. Poster at NORA Annual Conference 2022. Stavanger, 9-10th of June, 2022.
 3. Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi. [ELIXIR-FI Pouta scientific cloud services]("https://f1000research.com/posters/7-766). Poster at the Elixir all-hands meeting. Berlin, Germany, June 2018.
 4. Terje Klemetsen, Inge A. Raknes, Juan Fu, Alexander Agafonov, Sudhagar V. Balasundaram, Giacomo Tartari, Espen Robertsen, Nils P. Willassen.[Succession of the MAR-databases and marine metagenomics portal (MMP), coordination of marine sequenced data](https://f1000research.com/posters/7-767). Poster at the Elixir all-hands meeting. Berlin, Germany. June 2018.
 5. Nina Angelvik.[Air pollution data analysis platform for computer science education projects](https://www.cs.uit.no/hdl/papers/poster-nina-sigcse18.pdf). Poster at the 49th ACM Technical Symposium on Computer Science Education. Baltimore, USA, February 2018.
