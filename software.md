@@ -66,8 +66,7 @@ The air:bit project repositories are:
 38. [air:bit backend platform](https://github.com/ninaangelvik/luft). The backend is deployed on Google Cloud Platform.
 39. [Air quality sensor and web server](https://github.com/ninaangelvik/luftprosjekttromso). An Arduino-based portable air quality sensor kit and a Ruby on Rails web application deployed on Heroku.
 					
-Source code for our research projects (random order):
-<!-- Jo Inge -->			
+Source code for our research projects (random order):			
 <!-- Morten -->
 40. [Histology learning tool](https://github.com/Gronnesby/Histology) for use in a browser with a Python backend .
 <!-- Einar -->
@@ -79,21 +78,25 @@ Source code for our research projects (random order):
 44.  [HoVer-net pipeline](https://github.com/SFI-Visual-Intelligence/hovernet-pipeline). Modified version of [HoVer-Net](https://github.com/vqdang/hover_net).
 45.  [HoVer-buid](https://github.com/uit-hdl/hover_build). Setup HoVer-Net environment.
 46.  [HoVer-serving](https://github.com/uit-hdl/hover_serving). for inference only code for HoVer-Net we use in [Histology viewer](https://github.com/uit-hdl/histology).
-47.  [ROI TILs quantification project](https://github.com/uit-hdl/roi-quant). Region of interest detection in whole-slide images.
+47.  [HEImmune](https://github.com/uit-hdl/HEImmune). Simple rule-based classification of cells in H&E images.
+48.  [ROI TILs quantification project](https://github.com/uit-hdl/roi-quant). Region of interest detection in whole-slide images.
 <!-- Rafael -->
 45. [Fit Futures social network](https://github.com/uit-hdl/mimisbrunnr). Fit Futures social network analysis code and results.
 <!-- Other projects -->
 45. [Heart sound classification](https://github.com/uit-hdl/heart-sound-classification). Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort.
-45. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
-46. [rhd-codes](https://github.com/uit-hdl/rhd-codes) Automatic transcription of numeric codes from Norwegian population census 
-45. [Handwritten digit recognition](https://github.com/TTeige/rhd) and [a solution implemented in Keras](https://github.com/johanravn/handwritten-number-classification).
-46. [UiT Github course guide and template](https://github.com/uit-no/github-course-guide). The unofficial guide for using GitHub for UiT courses.
+47. [rhd-codes](https://github.com/uit-hdl/rhd-codes) Automatic transcription of numeric codes from Norwegian population census 
+48. [Handwritten digit recognition](https://github.com/TTeige/rhd) and [a solution implemented in Keras](https://github.com/johanravn/handwritten-number-classification).
+49. [UiT Github course guide and template](https://github.com/uit-no/github-course-guide). The unofficial guide for using GitHub for UiT courses.
 <!-- Theses -->
-47. [Replication code](https://github.com/mikevoets/jama16-retina-replication)for [Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://arxiv.org/abs/1803.04337).
-47. [DICOM anonymizer](https://github.com/mikevoets/dicom_anonymizer).
-48. [Mr. Clean](https://github.com/UniversityofTromso/mrclean) is a tool for combining different visualization tools, interaction devices, and display middleware for visual comparisons on high-resolution displays.
-49. [M.O.R.T.A.L.](http://sourceforge.net/projects/mortal/) is a  programming language for domain  specific high performance computing.
-50. [Spell expression data processing pipeline](http://gtrac-spell-tools.princeton.edu/trac/wiki). This a data cleaning pipeline for microarray data.
-51. [Troilkatt](https://github.com/larsab/troilkatt) is a system for scalable batch processing of biological data built on the hadoop stack.
-52. [BSV system](http://www.cs.uit.no/~larsab/bsv/) for scalable visualizations on multi-core and multi-display platforms. 
+46. [rhd-linking](https://github.com/uit-hdl/rhd-linking) Record linkage of Norwegian historical census data using machine learning.
+47. [Ship-detection](https://github.com/matill/Ship-detection) ShipPointYOLO: Ship Detection and Description based on Point Coordinates in SAR Images
+48. 
+49. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
+50. [Replication code](https://github.com/mikevoets/jama16-retina-replication)for [Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](https://arxiv.org/abs/1803.04337).
+51. [DICOM anonymizer](https://github.com/mikevoets/dicom_anonymizer).
+52. [Mr. Clean](https://github.com/UniversityofTromso/mrclean) is a tool for combining different visualization tools, interaction devices, and display middleware for visual comparisons on high-resolution displays.
+53. [M.O.R.T.A.L.](http://sourceforge.net/projects/mortal/) is a  programming language for domain  specific high performance computing.
+54. [Spell expression data processing pipeline](http://gtrac-spell-tools.princeton.edu/trac/wiki). This a data cleaning pipeline for microarray data.
+55. [Troilkatt](https://github.com/larsab/troilkatt) is a system for scalable batch processing of biological data built on the hadoop stack.
+56. [BSV system](http://www.cs.uit.no/~larsab/bsv/) for scalable visualizations on multi-core and multi-display platforms. 
 <!-- Note! New projects are added to the top of the list. -->
