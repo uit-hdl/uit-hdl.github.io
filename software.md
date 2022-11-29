@@ -47,6 +47,7 @@ We have developed a system for data management and standardized preprocessing of
 26. [nowaclean](https://github.com/3inar/nowaclean). R package implementing the methods of the standard operating procedure for 
 27. [geneset](https://github.com/3inar/geneset). R package of data sets and functions that facilitate gene set analysis.
 28. [seq](https://github.com/fjukstad/seq). A collection of Docker containers with different	bioinformatics tools, such as GATK, bwa, and Picard, installed.
+29. [GeneNet VT](https://github.com/kolibrid/GeneNet-VR). Interactive visualization of large-scale biological networks using a standalone VR headset.
 
 We have developed systems for data management, analysis and exploration in the NOWAC project. But these can also be used for other datasets:
 
