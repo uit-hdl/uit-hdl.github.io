@@ -83,7 +83,7 @@ Former lab members are:
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
 | Narae Park           | Master student              | Thesis: Record linkage of Norwegian historical census data using machine learning. |
-| Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). Source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
+| Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). [Source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
 | Markus Tiller        | Master student              | Thesis: [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008). [Source code](https://github.com/matill/Ship-detection) |
 | Michael Lau          | Master student              | Thesis: [Management of large geospatial datasets](https://munin.uit.no/handle/10037/25914).|
 | Christina Rolandsen  | Scientific staff            | Population studies in the north           |
