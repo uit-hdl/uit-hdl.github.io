@@ -75,19 +75,17 @@ The lab currently consist of:
 | Andrew Daniel Delos Mashchak |  Affiliated PhD student  | NOWAC                           | - |
 | Per Niklas Waaler         | Scientific staff            | Population studies in the north | - |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
-| Narae Park                | Master student              | Historical data                 | - |
-| Tommy Hartviksen Pettersen | Master student             | Big pharmacoepidemiology        | - |
 | Simen Lund Kirkvik        | Master student              | with Serit IT Partner           | - |
-| Bjørn Fjukstad            | Adjunct associate professor | Industry mentor                 | [DIPS](https://www.dips.com/no) |
-
+| Mirza Aneeq Hassan Baig   | Master student              | with Sporveien                  | - | 
 
 Former lab members are:
 
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
-| Mariel Ellingsen     | Master student                 |                                        |
-| Markus Tiller        | Master student                 |                                        |
-| Michael Lau          | Master student                 |                                        |
+| Narae Park           | Master student              | Thesis: Record linkage of Norwegian historical census data using machine learning. |
+| Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). Source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
+| Markus Tiller        | Master student              | Thesis: [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008). [Source code](https://github.com/matill/Ship-detection) |
+| Michael Lau          | Master student              | Thesis: [Management of large geospatial datasets](https://munin.uit.no/handle/10037/25914).|
 | Christina Rolandsen  | Scientific staff            | Population studies in the north           |
 | Dominic Riley        | Adjunct advisor             | Industry mentor from [The Grow Room](https://www.thegrowroom.no/) |
 | Jonas Juselius       | Adjunct associate professor | Industry mentor from [Serit IT-partner](https://serit.no) |
