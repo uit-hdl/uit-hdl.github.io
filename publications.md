@@ -88,7 +88,11 @@ title: Publications
 16. Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars Ailo Bongo.  Survey of optimizing techniques for parallel programs running on computer clusters. A Report for the NOTUR Project Emerging Technologies: Cluster. 2003.
 
 # Theses
-1. Sidra Tahi. [Can a code snippet portal contribute to greater learning outcomes in other fields of science and technology?](https://munin.uit.no/handle/10037/22348). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2021.
+1. Narae Park. Record linkage of Norwegian historical census data using machine learning. Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. August 2022.
+2. Mariel Ellingsen. [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2022.
+3. Markus Tiller. [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2022.
+4. Michael Lau. [Management of large geospatial datasets](https://munin.uit.no/handle/10037/25914). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2022.
+5. Sidra Tahi. [Can a code snippet portal contribute to greater learning outcomes in other fields of science and technology?](https://munin.uit.no/handle/10037/22348). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2021.
 2. Anton Garri Fagerbakk. [Keeping Up with the Market: Extracting competencies from Norwegian job listings]. Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2021.
 3. Alvaro Martinez Fernandez. [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. November 2020.
 4. Tengel Ekrem Skar. [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2019.
@@ -116,6 +120,7 @@ title: Publications
 26. Lars Ailo Bongo. [Reducing the network latency and bandwidth requirements of distributed and parallel applications](https://www.cs.uit.no/hdl/papers/phd-thesis-larsab.pdf). PhD. Thesis. University of Tromsø. July 2007.  
 
 # Project reports
+1. Markus Tiller. PointYOLOF: End-to-end Trainable Vessel Detection in SAR Images Captured by Satellites. Capstone Project. Dept. of Computer Science, Uit The Arctic University of Norway. December 2021.
 1. Tengel Skar. An efficient, interactive environment for Big Data exploration. Capstone Project. Dept. of Computer Science, University of Tromsø. December 2018.
 2. Tim Alexander Teige. Autoscaling framework and simulator for automatic META-pipe job scaling. Capstone Project. Dept. of Computer Science, University of Tromsø. December 2017.
 3. Johan Ravn. Wheeze Detection using Deep Convolutional Neural Network. Capstone Project. Dept. of Computer Science, UiT The Arctic University of Norway. December 2016.
