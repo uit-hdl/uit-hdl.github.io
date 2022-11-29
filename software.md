@@ -76,6 +76,8 @@ Source code for our research projects (random order):
 43. [Supporting data and code](https://github.com/3inar/crime_rates) to "Empirical bayes shrinkage estimation of crime rate statistics".
 44. [krongen](https://github.com/3inar/krongen). Creates kronecker graphs that simulate networks with power law edge distributions.
 <!-- Nikita -->
+44.  [Hover-net pipeline](https://github.com/SFI-Visual-Intelligence/hovernet-pipeline). Modified version of [HoVer-Net](https://github.com/vqdang/hover_net).
+45.  [Hover-buid](https://github.com/uit-hdl/hover_build). Setup HoVer-Net environment.
 <!-- Rafael -->
 <!-- Other projects -->
 45. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
