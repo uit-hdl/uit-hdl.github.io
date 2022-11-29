@@ -87,6 +87,10 @@ title: Publications
 15. Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars Ailo Bongo.  Survey of execution monitoring tools for computer clusters. A Report for the NOTUR Project Emerging Technologies: Cluster. 2003.  
 16. Espen S. Johnsen, Otto Anshus, John Markus Bjørndalen, Lars Ailo Bongo.  Survey of optimizing techniques for parallel programs running on computer clusters. A Report for the NOTUR Project Emerging Technologies: Cluster. 2003.
 
+# Patents
+1. Analysing heart or respiratory-system sounds. UK patent application number 2212073.7.
+2. Assessing health of a heart valve. UK patent application number 2217512.9.
+
 # Theses
 1. Narae Park. Record linkage of Norwegian historical census data using machine learning. Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. August 2022.
 2. Mariel Ellingsen. [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2022.
