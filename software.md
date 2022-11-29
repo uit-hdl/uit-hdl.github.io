@@ -76,11 +76,14 @@ Source code for our research projects (random order):
 43. [Supporting data and code](https://github.com/3inar/crime_rates) to "Empirical bayes shrinkage estimation of crime rate statistics".
 44. [krongen](https://github.com/3inar/krongen). Creates kronecker graphs that simulate networks with power law edge distributions.
 <!-- Nikita -->
-44.  [Hover-net pipeline](https://github.com/SFI-Visual-Intelligence/hovernet-pipeline). Modified version of [HoVer-Net](https://github.com/vqdang/hover_net).
-45.  [Hover-buid](https://github.com/uit-hdl/hover_build). Setup HoVer-Net environment.
+44.  [HoVer-net pipeline](https://github.com/SFI-Visual-Intelligence/hovernet-pipeline). Modified version of [HoVer-Net](https://github.com/vqdang/hover_net).
+45.  [HoVer-buid](https://github.com/uit-hdl/hover_build). Setup HoVer-Net environment.
+46.  [HoVer-serving](https://github.com/uit-hdl/hover_serving). for inference only code for HoVer-Net we use in [Histology viewer](https://github.com/uit-hdl/histology).
+47.  [ROI TILs quantification project](https://github.com/uit-hdl/roi-quant). Region of interest detection in whole-slide images.
 <!-- Rafael -->
 45. [Fit Futures social network](https://github.com/uit-hdl/mimisbrunnr). Fit Futures social network analysis code and results.
 <!-- Other projects -->
+45. [Heart sound classification](https://github.com/uit-hdl/heart-sound-classification). Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort.
 45. [norpd_prescription_analyses](https://github.com/uit-hdl/norpd_prescription_analyses) Spark and Jupyter notebooks to analyse data from the Norwegian Prescription Database 
 46. [rhd-codes](https://github.com/uit-hdl/rhd-codes) Automatic transcription of numeric codes from Norwegian population census 
 45. [Handwritten digit recognition](https://github.com/TTeige/rhd) and [a solution implemented in Keras](https://github.com/johanravn/handwritten-number-classification).
