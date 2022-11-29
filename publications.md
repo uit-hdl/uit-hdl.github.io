@@ -138,6 +138,7 @@ title: Publications
 
 
 # Abstracts and Posters
+1. Markus Tiller, Torgeir Brenn, Robert Jenssen, Lars Ailo Bongo. ShipPointYolo: End-to-end network for ship detection in SAR images. Poster. Visual Intelligence days. Oslo, 28.09.22
 1. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
 on philosophy of medicine and health care. 24 – 27 august 2022. Warsaw, Poland.
 2. Markus Tiller. Lars Ailo Bongo. Robert Jenssen. Torgeir Brenn. End-to-end trainable ship detection in SAR images with single level features. Poster at NORA Annual Conference 2022. Stavanger, 9-10th of June, 2022.
