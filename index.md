@@ -83,8 +83,8 @@ Former lab members are:
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
 | Narae Park           | Master student              | Thesis: Record linkage of Norwegian historical census data using machine learning. |
-| Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). [Source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
-| Markus Tiller        | Master student              | Thesis: [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008). [Source code](https://github.com/matill/Ship-detection) |
+| Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921) and [source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
+| Markus Tiller        | Master student              | Thesis: [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008) and [source code](https://github.com/matill/Ship-detection) |
 | Michael Lau          | Master student              | Thesis: [Management of large geospatial datasets](https://munin.uit.no/handle/10037/25914).|
 | Christina Rolandsen  | Scientific staff            | Population studies in the north           |
 | Dominic Riley        | Adjunct advisor             | Industry mentor from [The Grow Room](https://www.thegrowroom.no/) |
@@ -94,7 +94,7 @@ Former lab members are:
 | Wilhelm Vold              | Intern                      | HeartOn app |
 | Alvaro Martinez Fernandez | Master student            | Thesis: [GeneNet VR: Large biological networks in virtual teality using inexpensive hardware](https://munin.uit.no/handle/10037/20518) |
 | Jo Inge Arnes        | PhD student                    | NOWAC                                  |
-| Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776). [Source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
+| Tengel Ekrem Skar    |	Master student, 2019, CS, UiT | Thesis: [Scalable exploration of population-scale drug consumption data](https://munin.uit.no/handle/10037/15776) and [source code](https://github.com/uit-hdl/norpd_prescription_analyses) |
 | Mayeul Marcadella    | Technical staff                | ELIXIR |
 | Aleksandr Agafonov   | Technical staff                | ELIXIR |
 | Dr. Bjørn Fjukstad   | PhD student, 2018, CS, UiT     | Thesis: [Toward Reproducible Analysis and Exploration of High-Throughput Biological Datasets](https://munin.uit.no/handle/10037/14576). Source code for [Kvik](https://github.com/fjukstad/kvik) and [walrus](https://github.com/fjukstad/walrus) |
