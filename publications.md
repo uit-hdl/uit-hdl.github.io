@@ -5,6 +5,7 @@ title: Publications
 # Journal, conference, book, and workshop papers
 <!--- Please link to an open access version of your paper. -->
 <!-- Also note that the list numbers do not matter, except for the first one -->
+1. Maria Luz Gámiz, Fernando Navas-Gómez, Rafael Nozal-Cañadas, Rocío Raya-Miranda [Unsupervised and supervised learning for the reliability analysis of complex systems](https://doi.org/10.1002/qre.3311) Quality and Reliability Engineering International. doi: 10.1002/qre.3311 ; 2023.03.18
 1. Dina Benedicte Stensen, Rafael Adolfo Nozal Cañadas, Lars Småbrekke, Karina Olsen, Christopher Sivert Nielsen, Kristian Svendsen, Anne Merethe Hanssen, Johanna Sollid, Gunnar Skov Simonsen, Lars Ailo Bongo, Anne-Sofie Furberg. [Social network analysis of Staphylococcus aureus carriage in a general youth population](https://www.ijidonline.com/article/S1201-9712(22)00488-X/fulltext). Int J Infect Dis. 2022 Oct; 123:200-209. doi: 10.1016/j.ijid.2022.08.018.
 2. Nikita Shvetsov, Morten Grønnesby, Edvard Pedersen, Kajsa Møllersen, Lill-Tove Rasmussen Busund, Ruth Schwienbacher, Lars Ailo Bongo, Thomas Karsten Kilvaer. [A Pragmatic Machine Learning Approach to Quantify Tumor-Infiltrating Lymphocytes in Whole Slide Images](https://www.mdpi.com/2072-6694/14/12/2974).  Cancers 2022, 14(12), 2974; https://doi.org/10.3390/cancers14122974.
 3. Bjørn-Richard Pedersen, Einar Holsbø, Trygve Andersen, Nikita Shvetsov, Johan Ravn, Hilde Leikny Sommerseth, Lars Ailo Bongo. [Lessons Learned Developing and Using a Machine Learning Model to Automatically Transcribe 2.3 Million Handwritten Occupation Codes](https://hlcs.nl/article/view/11331). Historical Life Course Studies 12 2022 (January):1-17. https://doi.org/10.51964/hlcs11331.
@@ -138,8 +139,9 @@ title: Publications
 
 
 # Abstracts and Posters
-1. Markus Tiller, Torgeir Brenn, Robert Jenssen, Lars Ailo Bongo. ShipPointYolo: End-to-end network for ship detection in SAR images. Poster. Visual Intelligence days. Oslo, 28.09.22
-1. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
+1. Rafael Adolfo Nozal Cañadas. Social network analysis of Staphylococcus aureus carriage in a general youth population. CANS day 23th of February 2023. Tromsø, Norway.
+3. Markus Tiller, Torgeir Brenn, Robert Jenssen, Lars Ailo Bongo. ShipPointYolo: End-to-end network for ship detection in SAR images. Poster. Visual Intelligence days. Oslo, 28.09.22
+4. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
 on philosophy of medicine and health care. 24 – 27 august 2022. Warsaw, Poland.
 2. Markus Tiller. Lars Ailo Bongo. Robert Jenssen. Torgeir Brenn. End-to-end trainable ship detection in SAR images with single level features. Poster at NORA Annual Conference 2022. Stavanger, 9-10th of June, 2022.
 3. Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi. [ELIXIR-FI Pouta scientific cloud services]("https://f1000research.com/posters/7-766). Poster at the Elixir all-hands meeting. Berlin, Germany, June 2018.
