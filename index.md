@@ -65,19 +65,33 @@ The lab currently consist of:
 | Einar Holsbø              | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
 | Vi Tran                   | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=353997) and [GitHub](https://github.com/vitrannn)|
 | Helge Fredriksen          | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=445127) and [GitHub](https://github.com/helgeingvart)|
+| Henrik Løvold             | Associate Professor         | Co-PI                           | - |
+| Aakash Sharma             | Researcher                  | AI4Europe                       | - |
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
 | Nikita Shvetsov 	        | PhD student                 | SFI Visual Intelligence         |	[GitHub](https://github.com/nsh23), [Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
 | Anders Sildnes            | PhD student                 | SFI Visual Intelligence         | - |
+| Belal Medhat              | PhD student                 | CANS                            | - |
+| Jieli Zhu                 | PhD student                 | -                               | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
 | Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Masoud Tafavvoghi         | Affiliated PhD student      | Visual intelligence             | - |
 | Andrew Daniel Delos Mashchak |  Affiliated PhD student  | NOWAC                           | - |
-| Per Niklas Waaler         | Scientific staff            | Population studies in the north | - |
-| Bjørn-Richard Pedersen    | Affiliated scientific staff |	Population studies in the north | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
+| Solveig Flatebø           | Affilitated PhD student     | Robots and small children       | - |
+| Per Niklas Waaler         | Scientific staff            | TRUSTING                        | - |
+| Bjørn-Richard Pedersen    | Affiliated scientific staff |	RHD | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
+| Maisha Islam              | Affiliated scientific staff |	RHD                             | - |
 | Simen Lund Kirkvik        | Master student              | with Serit IT Partner           | - |
 | Mirza Aneeq Hassan Baig   | Master student              | with Sporveien                  | - | 
+| A-Young Jang              | Master student              | CANS                            | - |
+| Adam Mawassi              | Master student              | CANS                            | - |
+| Anders Søreide            | Master student              | -                               | - |
+| Binod Baniya              | Master student              | with Medsensio                  | - |
+| Dominik Thamm             | Master student              | with EagleAI                    | - |
+| Muhammad Nauman Alo       | Master student              | with iTromsø                    | - |
+| Mohammad Zahirul Islam    | Master student              | -                               | - |
+| Zulfiqar Ali              | Master student              | Norwegian medical texts         | - |
 
 Former lab members are:
 
