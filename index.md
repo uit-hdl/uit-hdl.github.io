@@ -96,8 +96,10 @@ Former lab members are:
 
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
-| Simen Lund Kirkvik      | Master student | Thesis: [Interactive visualizations of unstructured oceanographic data
-](https://munin.uit.no/handle/10037/28856) |
+| Ragnhild Abel Grape  | Intern                         | AI4Europe |
+| Marius J. Ingebrigtsen | Intern                       | AI4Europe |
+| Håvard Livastøl      | Intern                         | AI4Europe |
+| Simen Lund Kirkvik   | Master student | Thesis: [Interactive visualizations of unstructured oceanographic data](https://munin.uit.no/handle/10037/28856) |
 | Mirza Aneeq Hassan Baig | Master student | Thesis: [Tram-tastic Cloud Computing](https://munin.uit.no/handle/10037/29389) |  
 | Narae Park           | Master student              | Thesis: [Record linkage of Norwegian historical census data using machine learning](https://munin.uit.no/handle/10037/28399). [Source code](https://github.com/uit-hdl/rhd-linking) |
 | Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921) and [source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
