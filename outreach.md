@@ -45,11 +45,12 @@ title: Outreach
 1. Lars Ailo Bongo. [Hvordan er språkmodeller som ChatGPT bygget opp og hva kan de brukes til](https://docs.google.com/presentation/d/1zByLxmlXKEjxert_3x1EKkh8fM3yrVwJS9ojHz5-BKY/edit#slide=id.p1). ITA fagdager. UiT, Tromsø. 26.10.23.
 2. Lars Ailo Bongo. Student entreprenørskap @ UiT. Innovation Norway dialog meeting. Kirkenes. 20.10.23.
 3. Lars Ailo Bongo. [Jierpmálaš giellateknologiija](https://docs.google.com/presentation/d/16JF_Eia1Y9hbMUwxbJgPqnxIz5xN8iCwYrR6rFUoiXY/edit#slide=id.p1). SFS jahkečoahkkin, 14.10.23. Romsa.
-4. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1UhuTJ-8IaNFVawH5E3KT1ImH6bvusNFk3c9EC2PUncg/edit#slide=id.p1). Sami joatkkaskuvla ja boazodoalloskuvla. 04.10.23. Guovdageaidnu.
-5. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1CLpX5avPWjmkdq4glU3cJTk5kiIn277Og6lIFdOrvYE/edit#slide=id.p1). Netsam. 14.09.23. Áltá.
-6. Lars Ailo Bongo. [Goas ipmirda ChatGPT sámegiela?](https://docs.google.com/presentation/d/1sTrk_2_vkKRRraTdKClI5V9Jg07upIZD_AI5w3uyOMo/edit#slide=id.p1). Sámi allaskuvlla. 18.08.23. Guovdageaidnu.
-7. Lars Ailo Bongo. [AI in healthcare: challenges and opportunities](https://docs.google.com/presentation/d/1bzcjAVVX7HMPnmUowltri1QlmcU72kUNWo9METgXsxM/edit#slide=id.g26e15e0ddbc_0_163). Bodø computer science master's program kick-off. 16.08.23. Bodø.
-8. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
+4. Ragnhild Abel Grape. Large Language Models. Norwegian Directorate for Higher Education and Skills. 13.10.23. Tromsø, Norway.
+5. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1UhuTJ-8IaNFVawH5E3KT1ImH6bvusNFk3c9EC2PUncg/edit#slide=id.p1). Sami joatkkaskuvla ja boazodoalloskuvla. 04.10.23. Guovdageaidnu.
+6. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1CLpX5avPWjmkdq4glU3cJTk5kiIn277Og6lIFdOrvYE/edit#slide=id.p1). Netsam. 14.09.23. Áltá.
+7. Lars Ailo Bongo. [Goas ipmirda ChatGPT sámegiela?](https://docs.google.com/presentation/d/1sTrk_2_vkKRRraTdKClI5V9Jg07upIZD_AI5w3uyOMo/edit#slide=id.p1). Sámi allaskuvlla. 18.08.23. Guovdageaidnu.
+8. Lars Ailo Bongo. [AI in healthcare: challenges and opportunities](https://docs.google.com/presentation/d/1bzcjAVVX7HMPnmUowltri1QlmcU72kUNWo9METgXsxM/edit#slide=id.g26e15e0ddbc_0_163). Bodø computer science master's program kick-off. 16.08.23. Bodø.
+9. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
 10. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
 11. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
 12. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
