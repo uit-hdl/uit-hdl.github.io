@@ -3,26 +3,28 @@ title: Outreach
 ---
 
 # Workshops, hackathons, and other events
-1. Hilde Sommerseth, Lars Ailo Bongo. Norwegian Historical Data Centre hackathon on automatic coding of burial records. Tromsø, April 25-26, 2022.
-1. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
-2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
-4. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
-5. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
-7. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
-8. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
-9. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
-10. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
-11. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
-12. Edvard Pedersen. GirlTech. UitT 12.02.2020.
-13. Hilde Sommerseth, Lars Ailo Bongo. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
-14. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
-15. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
-16. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
-17. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
-18. Edvard Pedersen. Utforsk UiT. 16.09.2019.
-19. Edvard Pedersen. Lærerkurs programmering. UiT. 16.08.2019.
-20. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). 
-21. Introduction to R. Workshop. Tromsø, Norway. June 2016.
+1. Lars Ailo Bongo, Benjamin Ricaud. [IFI Innovation Day](https://www.facebook.com/uitinformatikk/posts/pfbid0y8MfxirPEXDGLHQDyKGXs1J4ThEXqyAEaVJHmzFJQdYctVACkHLJswVcJBxsNdqHl). Tromsø. 25.09.23
+2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://www.visual-intelligence.no/news/pitchday-2023). Tromsø, 29.03.23. 
+3. Hilde Sommerseth, Lars Ailo Bongo. Norwegian Historical Data Centre hackathon on automatic coding of burial records. Tromsø, April 25-26, 2022.
+4. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
+5. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
+6. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
+7. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
+8. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
+9. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
+10. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
+11. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
+12. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
+13. Edvard Pedersen. GirlTech. UitT 12.02.2020.
+14. Hilde Sommerseth, Lars Ailo Bongo. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
+15. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
+16. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
+17. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
+18. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
+19. Edvard Pedersen. Utforsk UiT. 16.09.2019.
+21. Edvard Pedersen. Lærerkurs programmering. UiT. 16.08.2019.
+22. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). 
+23. Introduction to R. Workshop. Tromsø, Norway. June 2016.
 
 # Webinars
 1. Lars Ailo Bongo. [Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23b50b8e-a89e-4e4d-99a5-ae6900d5e68d). Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT. March 31st, 2022.
