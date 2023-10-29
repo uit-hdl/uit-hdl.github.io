@@ -102,7 +102,10 @@ title: Publications
 2. Assessing health of a heart valve. UK patent application number 2217512.9.
 
 # Theses
-1. Narae Park. Record linkage of Norwegian historical census data using machine learning. Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. August 2022.
+1. Mirza Aneeq Hassan Baig. [Tram-tastic Cloud Computing](https://munin.uit.no/handle/10037/29389). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2023.
+2. Simen Lund Kirkvik. [Interactive visualizations of unstructured oceanographic data
+](https://munin.uit.no/handle/10037/28856). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. February 2023.
+1. Narae Park. [Record linkage of Norwegian historical census data using machine learning](https://munin.uit.no/handle/10037/28399). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. August 2022.
 2. Mariel Ellingsen. [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2022.
 3. Markus Tiller. [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. June 2022.
 4. Michael Lau. [Management of large geospatial datasets](https://munin.uit.no/handle/10037/25914). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2022.
