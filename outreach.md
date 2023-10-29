@@ -3,6 +3,7 @@ title: Outreach
 ---
 
 # Workshops, hackathons, and other events
+1. NORA.startup. [Generative Artificial Intelligence - a driver for innovation ](https://www.nora.ai/events/nora.startup-GAI.html). Tromsø. 17.10.23.
 1. Lars Ailo Bongo, Benjamin Ricaud. [IFI Innovation Day](https://www.facebook.com/uitinformatikk/posts/pfbid0y8MfxirPEXDGLHQDyKGXs1J4ThEXqyAEaVJHmzFJQdYctVACkHLJswVcJBxsNdqHl). Tromsø. 25.09.23
 2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://www.visual-intelligence.no/news/pitchday-2023). Tromsø, 29.03.23. 
 3. Hilde Sommerseth, Lars Ailo Bongo. Norwegian Historical Data Centre hackathon on automatic coding of burial records. Tromsø, April 25-26, 2022.
