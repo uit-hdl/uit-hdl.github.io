@@ -77,8 +77,9 @@ title: Publications
 
 # Preprints and reports
 1. Pavitra Chauhan, Mohsen Gamal Saad Askar, Bjørn Fjukstad, Lars Ailo Bongo, and Edvard Pedersen. [Interoperable synthetic health data with SyntHIR to enable the development of CDSS tools](https://arxiv.org/abs/2308.02613). arXiv preprint arXiv:2308.02613 (2023).
-2. Bjørn-Richard Pedersen, Rigmor Katrine Johansen, Einar Holsbø, Hilde Sommerseth, and Lars Ailo Bongo. [More efficient manual review of automatically transcribed tabular data](https://arxiv.org/abs/2306.16126). arXiv preprint arXiv:2306.16126 (2023).
-3. Masoud Tafavvoghi, Lars Ailo Bongo, Nikita Shvetsov, Lill-Tove Rasmussen Busund, and Kajsa Møllersen. [Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review](https://arxiv.org/abs/2306.01546). arXiv preprint arXiv:2306.01546 (2023).
+2. Per Niklas Waaler, Lars Ailo Bongo, Christina Rolandsen, and Geir F. Lorem. [Simplifying and personalising health information with mobile apps: translating complex models into understandable visuals](https://www.medrxiv.org/content/10.1101/2023.05.25.23290511v1). medRxiv (2023): 2023-05.
+3. Bjørn-Richard Pedersen, Rigmor Katrine Johansen, Einar Holsbø, Hilde Sommerseth, and Lars Ailo Bongo. [More efficient manual review of automatically transcribed tabular data](https://arxiv.org/abs/2306.16126). arXiv preprint arXiv:2306.16126 (2023).
+4. Masoud Tafavvoghi, Lars Ailo Bongo, Nikita Shvetsov, Lill-Tove Rasmussen Busund, and Kajsa Møllersen. [Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review](https://arxiv.org/abs/2306.01546). arXiv preprint arXiv:2306.01546 (2023).
 1. Per Niklas Waaler, Hasse Melbye, Henrik Schirmer, Markus Kreutzer Johnsen, Tom Dønnem, Johan Ravn, Stian Andersen, Anne Herefoss Davidsen, Juan Carlos Aviles-Solis, Michael Stylidis, Lars Ailo Bongo. [Algorithm for Predicting Valvular Heart Disease from Heart Sounds in an Unselected Cohort](https://www.medrxiv.org/content/10.1101/2022.11.28.22279153v1). medRxiv 2022.11.28.22279153; doi: https://doi.org/10.1101/2022.11.28.22279153.
 2. Hasse Melbye, Johan Ravn, Mikolaj Pabiszczak, Lars Ailo Bongo, Juan Carlos Aviles Solis. [Validity of deep learning algorithms for detecting wheezes and crackles from lung sound recordings in adults](https://www.medrxiv.org/content/10.1101/2022.11.18.22282442v1). medRxiv 2022.11.18.22282442; doi: https://doi.org/10.1101/2022.11.18.22282442
 3. Eiliv Lund, Marit Holden, Lill-Tove Rasmussen Busund, Igor Snapkov, Nikita Shvetsov, Lars Holden. [Trajectories of gene expression, seasonal influenza, and within-host seasonal immunity: transfer value to covid-19](https://www.medrxiv.org/content/10.1101/2022.03.01.22271679v1). medRxiv 2022.03.01.22271679.
@@ -146,6 +147,7 @@ title: Publications
 
 # Abstracts and Posters
 1. Mehrdad Rakaee, Masoud Tafavvoghi, Elio Adib, Biagio Ricciuti, Joao Victor Machado Alessi, Alessio Cortellini, Claudia AM Fulgenzi et al. [Artificial intelligence algorithm developed to predict immune checkpoint inhibitors efficacy in non–small-cell lung cancer](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9132). (2023): 9132-9132.
+2. Møllersen, Kajsa, Lars Ailo Bongo, and Masoud Tafavvoghi. [Cancer detection for white urban Americans](https://munin.uit.no/handle/10037/30020). NORA Annual Conference 2023 05.06. - 06.06.23, Tromsø, Norway.
 1. Rafael Adolfo Nozal Cañadas. Social network analysis of Staphylococcus aureus carriage in a general youth population. CANS day 23th of February 2023. Tromsø, Norway.
 3. Markus Tiller, Torgeir Brenn, Robert Jenssen, Lars Ailo Bongo. ShipPointYolo: End-to-end network for ship detection in SAR images. Poster. Visual Intelligence days. Oslo, 28.09.22
 4. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
