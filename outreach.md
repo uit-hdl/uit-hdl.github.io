@@ -49,6 +49,9 @@ assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULj
 4. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1UhuTJ-8IaNFVawH5E3KT1ImH6bvusNFk3c9EC2PUncg/edit#slide=id.p1). Sami joatkkaskuvla ja boazodoalloskuvla. 04.10.23. Guovdageaidnu.
 5. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1CLpX5avPWjmkdq4glU3cJTk5kiIn277Og6lIFdOrvYE/edit#slide=id.p1). Netsam. 14.09.23. Áltá.
 6. Lars Ailo Bongo. [Goas ipmirda ChatGPT sámegiela?](https://docs.google.com/presentation/d/1sTrk_2_vkKRRraTdKClI5V9Jg07upIZD_AI5w3uyOMo/edit#slide=id.p1). Sámi allaskuvlla. 18.08.23. Guovdageaidnu.
+7. Lars Ailo Bongo. [AI in healthcare: challenges and opportunities](https://docs.google.com/presentation/d/1bzcjAVVX7HMPnmUowltri1QlmcU72kUNWo9METgXsxM/edit#slide=id.g26e15e0ddbc_0_163). Bodø computer science master's program kick-off. 16.08.23. Bodø.
+8. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
+9. Lars Ailo Bongo. [Medical machine learning: from basic research to startups](https://docs.google.com/presentation/d/1KY9qnmAOVb1lm_MTaN2_SySTROu4hU5d26IwXX_ODDk/edit#slide=id.p1). NORWAI & NAIL seminar series. 01.11.2022. Trondheim, Norway.
 
 137. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
 136. Lars Ailo Bongo. Machine learning on medical images. EUGLOH Fall school, Hamburg, 6-7. October 2022.
