@@ -42,8 +42,6 @@ title: Outreach
         
 # Talks
 <!-- Reverse order -->
-1. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
-assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2021.
 1. Lars Ailo Bongo. [Hvordan er språkmodeller som ChatGPT bygget opp og hva kan de brukes til](https://docs.google.com/presentation/d/1zByLxmlXKEjxert_3x1EKkh8fM3yrVwJS9ojHz5-BKY/edit#slide=id.p1). ITA fagdager. UiT, Tromsø. 26.10.23.
 2. Lars Ailo Bongo. Student entreprenørskap @ UiT. Innovation Norway dialog meeting. Kirkenes. 20.10.23.
 3. Lars Ailo Bongo. [Jierpmálaš giellateknologiija](https://docs.google.com/presentation/d/16JF_Eia1Y9hbMUwxbJgPqnxIz5xN8iCwYrR6rFUoiXY/edit#slide=id.p1). SFS jahkečoahkkin, 14.10.23. Romsa.
@@ -54,7 +52,9 @@ assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULj
 8. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
 10. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
 11. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
-9. Lars Ailo Bongo. [Medical machine learning: from basic research to startups](https://docs.google.com/presentation/d/1KY9qnmAOVb1lm_MTaN2_SySTROu4hU5d26IwXX_ODDk/edit#slide=id.p1). NORWAI & NAIL seminar series. 01.11.2022. Trondheim, Norway.
+12. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
+assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2022.
+138. Lars Ailo Bongo. [Medical machine learning: from basic research to startups](https://docs.google.com/presentation/d/1KY9qnmAOVb1lm_MTaN2_SySTROu4hU5d26IwXX_ODDk/edit#slide=id.p1). NORWAI & NAIL seminar series. 01.11.2022. Trondheim, Norway.
 137. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
 136. Lars Ailo Bongo. Machine learning on medical images. EUGLOH Fall school, Hamburg, 6-7. October 2022.
 135. Lars Ailo Bongo. Update on the VINN (Volpara i Nord Norge) project. Visual Intelligence Days 2022. Olavsgaard, 29.09.22.
