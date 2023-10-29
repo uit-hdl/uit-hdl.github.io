@@ -43,9 +43,16 @@ title: Outreach
 <!-- Reverse order -->
 1. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
 assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2021.
-2. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
-3. Lars Ailo Bongo. Machine learning on medical images. EUGLOH Fall school, Hamburg, 6-7. October 2022.
-4. Lars Ailo Bongo. Update on the VINN (Volpara i Nord Norge) project. Visual Intelligence Days 2022. Olavsgaard, 29.09.22.
+1. Lars Ailo Bongo. [Hvordan er språkmodeller som ChatGPT bygget opp og hva kan de brukes til](https://docs.google.com/presentation/d/1zByLxmlXKEjxert_3x1EKkh8fM3yrVwJS9ojHz5-BKY/edit#slide=id.p1). ITA fagdager. UiT, Tromsø. 26.10.23.
+2. Lars Ailo Bongo. Student entreprenørskap @ UiT. Innovation Norway dialog meeting. Kirkenes. 20.10.23.
+3. Lars Ailo Bongo. [Jierpmálaš giellateknologiija](https://docs.google.com/presentation/d/16JF_Eia1Y9hbMUwxbJgPqnxIz5xN8iCwYrR6rFUoiXY/edit#slide=id.p1). SFS jahkečoahkkin, 14.10.23. Romsa.
+4. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1UhuTJ-8IaNFVawH5E3KT1ImH6bvusNFk3c9EC2PUncg/edit#slide=id.p1). Sami joatkkaskuvla ja boazodoalloskuvla. 04.10.23. Guovdageaidnu.
+5. Lars Ailo Bongo. [ChatGPT, eará AI, ja sámegiella](https://docs.google.com/presentation/d/1CLpX5avPWjmkdq4glU3cJTk5kiIn277Og6lIFdOrvYE/edit#slide=id.p1). Netsam. 14.09.23. Áltá.
+6. Lars Ailo Bongo. [Goas ipmirda ChatGPT sámegiela?](https://docs.google.com/presentation/d/1sTrk_2_vkKRRraTdKClI5V9Jg07upIZD_AI5w3uyOMo/edit#slide=id.p1). Sámi allaskuvlla. 18.08.23. Guovdageaidnu.
+
+137. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
+136. Lars Ailo Bongo. Machine learning on medical images. EUGLOH Fall school, Hamburg, 6-7. October 2022.
+135. Lars Ailo Bongo. Update on the VINN (Volpara i Nord Norge) project. Visual Intelligence Days 2022. Olavsgaard, 29.09.22.
 135. Nikita Shvetsov. Visual Intelligence Days 2022. [DL for digital pathology: biomarker discovery](https://docs.google.com/presentation/d/1HCujLMbgzNy1hyhrS2raN819NzhpERig/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - presentation and poster, Oslo, 28.09.2022.
 134. Nikita Shvetsov. Autumn Research School in Artificial Intelligence Methods in Medical Imaging. [Fast tumor infiltrating lymphocytes analysis in whole slide images](https://docs.google.com/document/d/1gSJmlyPouEtrMsKHPpA3kT9VQy3wSmD6/edit?usp=sharing&ouid=112970252291684483076&rtpof=true&sd=true) - abstract and poster, Bergen, 15.09.2022
 135. Lars Ailo Bongo. [Building a culture for student entrepreneurship at UiT](https://docs.google.com/presentation/d/1OxBk786O40vsrGK5PVxqG1kLL2p3qmQMAioUh8JsHTg/edit#slide=id.p24). IFT innovation seminar, UiT, Tromsø, 30.08.22
