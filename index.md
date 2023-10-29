@@ -82,8 +82,6 @@ The lab currently consist of:
 | Per Niklas Waaler         | Scientific staff            | TRUSTING                        | - |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	RHD | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Maisha Islam              | Affiliated scientific staff |	RHD                             | - |
-| Simen Lund Kirkvik        | Master student              | with Serit IT Partner           | - |
-| Mirza Aneeq Hassan Baig   | Master student              | with Sporveien                  | - | 
 | A-Young Jang              | Master student              | CANS                            | - |
 | Adam Mawassi              | Master student              | CANS                            | - |
 | Anders Søreide            | Master student              | -                               | - |
@@ -91,12 +89,16 @@ The lab currently consist of:
 | Dominik Thamm             | Master student              | with EagleAI                    | - |
 | Muhammad Nauman Alo       | Master student              | with iTromsø                    | - |
 | Mohammad Zahirul Islam    | Master student              | -                               | - |
+| Thomas Eide               | Master student              | -                               | - |
 | Zulfiqar Ali              | Master student              | Norwegian medical texts         | - |
 
 Former lab members are:
 
 | Name                 |  Role                          | Thesis or main project                 |
 |----------------------|--------------------------------|----------------------------------------|
+| Simen Lund Kirkvik      | Master student | Thesis: [Interactive visualizations of unstructured oceanographic data
+](https://munin.uit.no/handle/10037/28856) |
+| Mirza Aneeq Hassan Baig | Master student | Thesis: [Tram-tastic Cloud Computing](https://munin.uit.no/handle/10037/29389) |  
 | Narae Park           | Master student              | Thesis: Record linkage of Norwegian historical census data using machine learning. [Source code](https://github.com/uit-hdl/rhd-linking) |
 | Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921) and [source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
 | Markus Tiller        | Master student              | Thesis: [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008) and [source code](https://github.com/matill/Ship-detection) |
