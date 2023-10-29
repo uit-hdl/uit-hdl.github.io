@@ -28,6 +28,7 @@ title: Outreach
 23. Introduction to R. Workshop. Tromsø, Norway. June 2016.
 
 # Webinars
+1. Per Niklas Waaler, Lars Ailo Bongo, Ingrid Skjæveland. [Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort - From research project to patent and beyond](https://www.visual-intelligence.no/event/vi-seminar-31-algorithm-for-predicting-valvular-heart-disease-from-heart-sounds). Visual Intelligence Seminar. 08.12.23. 
 1. Lars Ailo Bongo. [Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23b50b8e-a89e-4e4d-99a5-ae6900d5e68d). Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT. March 31st, 2022.
 2. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup webinar. 10.12.2021.
 3. Lars Ailo Bongo. [Å få tak i talenter](https://www.nora.ai/nora-startup/video/201030_startup_webinar_talents.mp4?vrtx=view-as-webpage). NORA.startup webinar. 30.10.2020.
@@ -51,8 +52,9 @@ assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULj
 6. Lars Ailo Bongo. [Goas ipmirda ChatGPT sámegiela?](https://docs.google.com/presentation/d/1sTrk_2_vkKRRraTdKClI5V9Jg07upIZD_AI5w3uyOMo/edit#slide=id.p1). Sámi allaskuvlla. 18.08.23. Guovdageaidnu.
 7. Lars Ailo Bongo. [AI in healthcare: challenges and opportunities](https://docs.google.com/presentation/d/1bzcjAVVX7HMPnmUowltri1QlmcU72kUNWo9METgXsxM/edit#slide=id.g26e15e0ddbc_0_163). Bodø computer science master's program kick-off. 16.08.23. Bodø.
 8. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
+10. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
+11. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
 9. Lars Ailo Bongo. [Medical machine learning: from basic research to startups](https://docs.google.com/presentation/d/1KY9qnmAOVb1lm_MTaN2_SySTROu4hU5d26IwXX_ODDk/edit#slide=id.p1). NORWAI & NAIL seminar series. 01.11.2022. Trondheim, Norway.
-
 137. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
 136. Lars Ailo Bongo. Machine learning on medical images. EUGLOH Fall school, Hamburg, 6-7. October 2022.
 135. Lars Ailo Bongo. Update on the VINN (Volpara i Nord Norge) project. Visual Intelligence Days 2022. Olavsgaard, 29.09.22.
