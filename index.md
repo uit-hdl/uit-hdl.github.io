@@ -72,7 +72,7 @@ The lab currently consist of:
 | Nikita Shvetsov 	        | PhD student                 | SFI Visual Intelligence         |	[GitHub](https://github.com/nsh23), [Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
 | Anders Sildnes            | PhD student                 | SFI Visual Intelligence         | - |
-| Belal Medhat              | PhD student                 | CANS                            | - |
+| Belal Medhat              | PhD student                 | CANS                            | [Homepage](https://uit.no/ansatte/belal.m.abdalrheem), [GitHub](https://github.com/belalmedhat), [Google Scholar](https://scholar.google.com/citations?user=5lc1aTsAAAAJ&hl=en&oi=ao), [Linkedin](https://www.linkedin.com/in/belalmedhat/), and [ResearchGate](https://www.researchgate.net/profile/Belal-Medhat) |
 | Jieli Zhu                 | PhD student                 | -                               | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
 | Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
