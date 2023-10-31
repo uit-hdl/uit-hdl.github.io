@@ -43,7 +43,9 @@ title: Outreach
         
 # Talks
 <!-- Reverse order -->
-1. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models", Presentation at AISoLA.  26.10.23, Crete.
+0. Masoud Tafavvoghi, Lars Ailo Bongo, Lill-Tove Rasmussen Busund, Kajsa Møllersen. Publicly available datasets of breast 
+histopathology whole-slide images for deep learning use". Presentation at Breast cancer network seminar, Tromsø, Norway, 2022.
+2. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models", Presentation at AISoLA.  26.10.23, Crete.
 1. Lars Ailo Bongo. [Hvordan er språkmodeller som ChatGPT bygget opp og hva kan de brukes til](https://docs.google.com/presentation/d/1zByLxmlXKEjxert_3x1EKkh8fM3yrVwJS9ojHz5-BKY/edit#slide=id.p1). ITA fagdager. UiT, Tromsø. 26.10.23.
 2. Lars Ailo Bongo. Student entreprenørskap @ UiT. Innovation Norway dialog meeting. Kirkenes. 20.10.23.
 3. Lars Ailo Bongo. [Jierpmálaš giellateknologiija](https://docs.google.com/presentation/d/16JF_Eia1Y9hbMUwxbJgPqnxIz5xN8iCwYrR6rFUoiXY/edit#slide=id.p1). SFS jahkečoahkkin, 14.10.23. Romsa.
