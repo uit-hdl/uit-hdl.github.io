@@ -45,7 +45,8 @@ title: Outreach
 <!-- Reverse order -->
 0. Masoud Tafavvoghi, Lars Ailo Bongo, Lill-Tove Rasmussen Busund, Kajsa Møllersen. Publicly available datasets of breast 
 histopathology whole-slide images for deep learning use". Presentation at Breast cancer network seminar, Tromsø, Norway, 2022.
-2. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models", Presentation at AISoLA.  26.10.23, Crete.
+1. Helge Fredriksen. Approaching adverse event detection utilizing transformers on clinical time-series. Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
+2. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models Presentation at AISoLA.  26.10.23, Crete.
 1. Lars Ailo Bongo. [Hvordan er språkmodeller som ChatGPT bygget opp og hva kan de brukes til](https://docs.google.com/presentation/d/1zByLxmlXKEjxert_3x1EKkh8fM3yrVwJS9ojHz5-BKY/edit#slide=id.p1). ITA fagdager. UiT, Tromsø. 26.10.23.
 2. Lars Ailo Bongo. Student entreprenørskap @ UiT. Innovation Norway dialog meeting. Kirkenes. 20.10.23.
 3. Lars Ailo Bongo. [Jierpmálaš giellateknologiija](https://docs.google.com/presentation/d/16JF_Eia1Y9hbMUwxbJgPqnxIz5xN8iCwYrR6rFUoiXY/edit#slide=id.p1). SFS jahkečoahkkin, 14.10.23. Romsa.
@@ -59,6 +60,7 @@ histopathology whole-slide images for deep learning use". Presentation at Breast
 10. Bjørn-Richard Pedersen. *Automatic transcription of handwritten Norwegian occupation codes: The lessons learned*. University of Limerick, April 24, 2023.
 11. Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. *Manual Review and Correction of ML Transcribed Occupational Codes from the Norwegian Population Census of 1950*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
 12. Trygve Andersen, Narae Park, Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. *From Rule-based to ML-based Linking of Norwegian Population Censuses from the 19th and 20th centuries*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
+12. Helge Fredriksen. Clustering multivariate time series: The case of sparsly sampled series at irregular time-intervals. Guest lecture at Applied Data Science Park at FH Salzburg, 29.03.2022, Salzburg, Austria.
 13. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
 14. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
 15. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
@@ -78,6 +80,7 @@ assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULj
 141. Lars Ailo Bongo. [Making someone else take the leap: from researcher to entrepreneur](https://docs.google.com/presentation/d/1c6vfaLpoOlTDjXPUyIqMveJ_E7a1czbBRTtkk-3iDwo/edit#slide=id.p1). NORA.startup webinar. 10.12.2021.
 142. Lars Ailo Bongo. [AI + health in Tromsø](https://docs.google.com/presentation/d/195TpdIseweSubYMbQSEk8W9MfHii-mHxv3TEHQZQqVY/edit#slide=id.p1). Sepsis seminar. Hovde Gård, 11.11.2021.
 143. Nikita Shvetsov. [Machine learning approach to quantify tumor infiltrating lymphocytes in Whole Slide Images: challenges and opportunities](https://docs.google.com/presentation/d/1ukgECxQyYsbycif7pLNOt-TkQZqvDmnqBcT1WKADI5Q/edit#slide=id.p1) Visual Intelligence Days 2021. 19.10.2021
+143. Helge Fredriksen, Arthur Schuchter. Segmentation of costa in 2d MRI scans utilizing the U-Net convolutional network architecture. The NOBIM conference 2021, Oslo, 13.-14.09.2021
 144. Kristian Svendsen, Lars Ailo Bongo. Bruk av norsk og europeisk registerdata til å finne bivirkninger, koblet mot outcomes i pasientregisteret. Midnight sun conference for Patient-Centered Artificial Intelligence. Tromsø. 15.06.2021.
 145. Bjørn-Richard Pedersen, Lars Ailo Bongo, Tim Alexander Teige, Nikita Shvetsov, Johan Ravn, Einar Holsbø, Trygve Andersen, Gunnar Thorvaldsen, Hilde L. Sommerseth. Automated Approaches for Transcription of 20th Century Norwegian Census Microdata. European Social Science History Conference 2021. Virtual Event. 24.03.2021.
 146. Edvard Pedersen. Air:bit - Skolebesøk (digitalt) - Senja VGS. 02.03.2021.
