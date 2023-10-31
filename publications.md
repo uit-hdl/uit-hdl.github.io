@@ -153,11 +153,13 @@ title: Publications
 # Abstracts and Posters
 1. Mehrdad Rakaee, Masoud Tafavvoghi, Elio Adib, Biagio Ricciuti, Joao Victor Machado Alessi, Alessio Cortellini, Claudia AM Fulgenzi et al. [Artificial intelligence algorithm developed to predict immune checkpoint inhibitors efficacy in non–small-cell lung cancer](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9132). (2023): 9132-9132.
 2. Møllersen, Kajsa, Lars Ailo Bongo, and Masoud Tafavvoghi. [Cancer detection for white urban Americans](https://munin.uit.no/handle/10037/30020). NORA Annual Conference 2023 05.06. - 06.06.23, Tromsø, Norway.
+3. Asal Asgari, Helge Fredriksen and Ståle Haugset Nymo. Clustering clinical multivariate time-series with variable lengths and irregular sampling intervals. Poster at NORA Annual Conference 2023 05.06. - 06.06.23, Tromsø, Norway
 1. Rafael Adolfo Nozal Cañadas. Social network analysis of Staphylococcus aureus carriage in a general youth population. CANS day 23th of February 2023. Tromsø, Norway.
 3. Markus Tiller, Torgeir Brenn, Robert Jenssen, Lars Ailo Bongo. ShipPointYolo: End-to-end network for ship detection in SAR images. Poster. Visual Intelligence days. Oslo, 28.09.22
 4. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
 on philosophy of medicine and health care. 24 – 27 august 2022. Warsaw, Poland.
 2. Markus Tiller. Lars Ailo Bongo. Robert Jenssen. Torgeir Brenn. End-to-end trainable ship detection in SAR images with single level features. Poster at NORA Annual Conference 2022. Stavanger, 9-10th of June, 2022.
+3. Helge Fredriksen, Arthur Schuchter. Segmentation of costa in 2d MRI scans utilizing the U-Net convolutional network architecture. Poster at Northern Light Deep Learning conference 10.01.22-12.01.22, Tromsø, Norway.
 3. Jarno Laitinen, Lars Ailo Bongo, Inge Alexander Raknes, Sampsa Hautaniemi. [ELIXIR-FI Pouta scientific cloud services]("https://f1000research.com/posters/7-766). Poster at the Elixir all-hands meeting. Berlin, Germany, June 2018.
 4. Terje Klemetsen, Inge A. Raknes, Juan Fu, Alexander Agafonov, Sudhagar V. Balasundaram, Giacomo Tartari, Espen Robertsen, Nils P. Willassen.[Succession of the MAR-databases and marine metagenomics portal (MMP), coordination of marine sequenced data](https://f1000research.com/posters/7-767). Poster at the Elixir all-hands meeting. Berlin, Germany. June 2018.
 5. Nina Angelvik.[Air pollution data analysis platform for computer science education projects](https://www.cs.uit.no/hdl/papers/poster-nina-sigcse18.pdf). Poster at the 49th ACM Technical Symposium on Computer Science Education. Baltimore, USA, February 2018.
