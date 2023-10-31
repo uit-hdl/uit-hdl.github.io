@@ -54,7 +54,7 @@ title: Outreach
 8. Lars Ailo Bongo. [AI in healthcare: challenges and opportunities](https://docs.google.com/presentation/d/1bzcjAVVX7HMPnmUowltri1QlmcU72kUNWo9METgXsxM/edit#slide=id.g26e15e0ddbc_0_163). Bodø computer science master's program kick-off. 16.08.23. Bodø.
 9. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
 9. Nikita Shvetsov. NOBIM 2023. [Towards a faster cell composition assessment framework using (smart) patch extraction](https://drive.google.com/file/d/1gSvpUn_RFS0KULj9KT0OztKe9xv8Gf6n/view?usp=sharing) Tromsø, 07.06.2023.
-10. Bjørn-Richard Pedersen. *...*. University of Limerick, April 24, 2023.
+10. Bjørn-Richard Pedersen. *Automatic transcription of handwritten Norwegian occupation codes: The lessons learned*. University of Limerick, April 24, 2023.
 11. Bjørn-Richard Pedersen. *Manual Review and Correction of ML Transcribed Occupational Codes from the Norwegian Population Census of 1950*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
 12. Trygve Andersen, Narae Park, Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. *From Rule-based to ML-based Linking of Norwegian Population Censuses from the 19th and 20th centuries*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
 13. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
