@@ -54,11 +54,12 @@ title: Outreach
 8. Lars Ailo Bongo. [AI in healthcare: challenges and opportunities](https://docs.google.com/presentation/d/1bzcjAVVX7HMPnmUowltri1QlmcU72kUNWo9METgXsxM/edit#slide=id.g26e15e0ddbc_0_163). Bodø computer science master's program kick-off. 16.08.23. Bodø.
 9. Lars Ailo Bongo, Kristian Svendsen. [AI and Big Data, new opportunities in healthcare and pharmacy](https://docs.google.com/presentation/d/1o-BcR2JHq6ngfKEEIDVD3QHztVrAUFyUhNwCjZ5_NHs/edit#slide=id.p1). Keynote at Nordic Social Pharmacy Conference 2023 Tromsø, Norway. 08.06.23.
 9. Nikita Shvetsov. NOBIM 2023. [Towards a faster cell composition assessment framework using (smart) patch extraction](https://drive.google.com/file/d/1gSvpUn_RFS0KULj9KT0OztKe9xv8Gf6n/view?usp=sharing) Tromsø, 07.06.2023.
-10. Bjørn-Richard Pedersen. *Manual Review and Correction of ML Transcribed Occupational Codes from the Norwegian Population Census of 1950*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
-11. Trygve Andersen, Narae Park, Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. *From Rule-based to ML-based Linking of Norwegian Population Censuses from the 19th and 20th centuries*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
-12. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
-13. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
-14. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
+10. Bjørn-Richard Pedersen. *...*. University of Limerick, April 24, 2023.
+11. Bjørn-Richard Pedersen. *Manual Review and Correction of ML Transcribed Occupational Codes from the Norwegian Population Census of 1950*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
+12. Trygve Andersen, Narae Park, Bjørn-Richard Pedersen, Hilde Sommerseth, Lars Ailo Bongo. *From Rule-based to ML-based Linking of Norwegian Population Censuses from the 19th and 20th centuries*. The European Social Science History Conference 2023, 12-15 April 2023, Gøteborg Sweden.
+13. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
+14. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
+15. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
 assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2022.
 138. Lars Ailo Bongo. [Medical machine learning: from basic research to startups](https://docs.google.com/presentation/d/1KY9qnmAOVb1lm_MTaN2_SySTROu4hU5d26IwXX_ODDk/edit#slide=id.p1). NORWAI & NAIL seminar series. 01.11.2022. Trondheim, Norway.
 137. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
