@@ -101,8 +101,7 @@ Former lab members are:
 | Håvard Livastøl      | Intern                         | AI4Europe |
 | Simen Lund Kirkvik   | Master student | Thesis: [Interactive visualizations of unstructured oceanographic data](https://munin.uit.no/handle/10037/28856) |
 | Mirza Aneeq Hassan Baig | Master student | Thesis: [Tram-tastic Cloud Computing](https://munin.uit.no/handle/10037/29389) |  
-| Asal Asgari		   | Master student	                | Thesis: Clustering of clinical multivariate time-series utilizing recent advances in
-machine-learning. [Source code] (https://github.com/asal97/DTE-3900-Master-Thesis) |
+| Asal Asgari		   | Master student	   | Thesis: Clustering of clinical multivariate time-series utilizing recent advances in machine-learning [Source code](https://github.com/asal97/DTE-3900-Master-Thesis) |
 | Narae Park           | Master student              | Thesis: [Record linkage of Norwegian historical census data using machine learning](https://munin.uit.no/handle/10037/28399). [Source code](https://github.com/uit-hdl/rhd-linking) |
 | Mariel Ellingsen     | Master student              | Thesis: [First steps towards solving the café problem](https://munin.uit.no/handle/10037/25921) and [source code](https://munin.uit.no/bitstream/handle/10037/25921/src.zip?sequence=3&isAllowed=y) |
 | Markus Tiller        | Master student              | Thesis: [End-to-end Trainable Ship Detection in SAR Images with Single Level Features](https://munin.uit.no/handle/10037/26008) and [source code](https://github.com/matill/Ship-detection) |
