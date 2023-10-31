@@ -65,7 +65,7 @@ The lab currently consist of:
 | Einar Holsbø              | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
 | Vi Tran                   | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=353997) and [GitHub](https://github.com/vitrannn)|
 | Helge Fredriksen          | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=445127) and [GitHub](https://github.com/helgeingvart)|
-| Henrik Løvold             | Associate Professor         | Co-PI                           | - |
+| Henrik Løvold             | Assistant Professor         | Co-PI                           | [Homepage](https://uit.no/ansatte/henrik.h.lovold) and [GitHub](https://github.com/henriklovold) |
 | Aakash Sharma             | Researcher                  | AI4Europe                       | - |
 | Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
@@ -89,7 +89,7 @@ The lab currently consist of:
 | Dominik Thamm             | Master student              | with EagleAI                    | - |
 | Muhammad Nauman Alo       | Master student              | with iTromsø                    | - |
 | Mohammad Zahirul Islam    | Master student              | -                               | - |
-| Thomas Eide               | Master student              | -                               | - |
+| Thomas Eide               | Master student              | Didactics of Computer Science   | - |
 | Zulfiqar Ali              | Master student              | Norwegian medical texts         | - |
 
 Former lab members are:
