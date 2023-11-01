@@ -54,6 +54,14 @@ In the [air:bit](http://airbit.uit.no/) air pollution project we have developed 
 
 We are building a dose design framework to identify the best treatment regimens for individual patients. We will develop new machine learning algorithms on high performance computing systems to make the simulations of large antibiotic dosing regimen simulations highly efficient.
 
+## Monitoring Antimicrobial Susceptibility
+
+Monitoring antimicrobial susceptibility is a core element for the appropriate treatment of bacterial infections and the implementation of infection control measures. The project provides information on local, regional, or national resistance profiles and changes in MIC levels over time by continuous analysis of data from clinical samples from one laboratory or several laboratories.  
+
+## Machine Learning in Ground Investigation
+
+Ground investigations are the processes of exploring ground conditions for construction and mining operations. This project collaborates with The Coring Company to optimize the ground investigation processes and reduce its potential cost and ground-related risks using Machine Learning approaches.
+
 # People
 
 The lab currently consist of:
@@ -73,7 +81,7 @@ The lab currently consist of:
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
 | Anders Sildnes            | PhD student                 | SFI Visual Intelligence         | - |
 | Belal Medhat              | PhD student                 | CANS                            | [Homepage](https://uit.no/ansatte/belal.m.abdalrheem), [GitHub](https://github.com/belalmedhat), [Google Scholar](https://scholar.google.com/citations?user=5lc1aTsAAAAJ&hl=en&oi=ao), [Linkedin](https://www.linkedin.com/in/belalmedhat/), and [ResearchGate](https://www.researchgate.net/profile/Belal-Medhat) |
-| Jieli Zhu                 | PhD student                 | -                               | - |
+| Jieli Zhu                 | PhD student                 | Machine Learning in Ground Investigation                              | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
 | Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Masoud Tafavvoghi         | Affiliated PhD student      | Visual intelligence             | - |
@@ -82,8 +90,8 @@ The lab currently consist of:
 | Per Niklas Waaler         | Scientific staff            | TRUSTING                        | - |
 | Bjørn-Richard Pedersen    | Affiliated scientific staff |	RHD | [GitHub](https://github.com/orgs/uit-hdl/people/BjornRP) |
 | Maisha Islam              | Affiliated scientific staff |	RHD                             | - |
-| A-Young Jang              | Master student              | CANS                            | - |
-| Adam Mawassi              | Master student              | CANS                            | - |
+| A-Young Jang              | Master student              | Monitoring antimicrobial susceptibility/CANS                            | - |
+| Adam Mawassi              | Master student              | Large antibiotic dosing regimen simulations/CANS                            | - |
 | Anders Søreide            | Master student              | -                               | - |
 | Binod Baniya              | Master student              | with Medsensio                  | - |
 | Dominik Thamm             | Master student              | with EagleAI                    | - |
