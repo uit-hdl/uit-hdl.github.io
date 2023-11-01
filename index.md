@@ -82,6 +82,7 @@ The lab currently consist of:
 | Anders Sildnes            | PhD student                 | SFI Visual Intelligence         | [Homepage](https://qwde.no/blog/), [Github](https://github.com/andsild/), [Gitlab](gitlab.com/andsild/), [LinkedIn](https://www.linkedin.com/in/anders-sildnes/) |
 | Belal Medhat              | PhD student                 | CANS                            | [Homepage](https://uit.no/ansatte/belal.m.abdalrheem), [GitHub](https://github.com/belalmedhat), [Google Scholar](https://scholar.google.com/citations?user=5lc1aTsAAAAJ&hl=en&oi=ao), [Linkedin](https://www.linkedin.com/in/belalmedhat/), and [ResearchGate](https://www.researchgate.net/profile/Belal-Medhat) |
 | Jieli Zhu                 | PhD student                 | Machine Learning in Ground Investigation                              | - |
+| Theodor Ross   | Affiliated PhD student      |	Machine learning for antimicrobial resistance                | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |
 | Mohsen Askar              | Affiliated PhD student      | Big pharmacoepidemiology        | [Homepage](https://en.uit.no/ansatte/mohsen.g.askar) |
 | Masoud Tafavvoghi         | Affiliated PhD student      | Visual intelligence             | - |
@@ -107,6 +108,8 @@ Former lab members are:
 | Ragnhild Abel Grape  | Intern                         | AI4Europe |
 | Marius J. Ingebrigtsen | Intern                       | AI4Europe |
 | Håvard Livastøl      | Intern                         | AI4Europe |
+| Elias Estefano Gutierrez Riise | Master student, 2023 | Thesis: [Improving automated underwater ship hull inspection through incremental learning & uncertainty quantiﬁcation in deep learning models](https://munin.uit.no/handle/10037/29562) |
+| Erling Devold | Master student, 2023 | Thesis: [Through Space and Time](https://munin.uit.no/handle/10037/29564) | 
 | Simen Lund Kirkvik   | Master student | Thesis: [Interactive visualizations of unstructured oceanographic data](https://munin.uit.no/handle/10037/28856) |
 | Mirza Aneeq Hassan Baig | Master student | Thesis: [Tram-tastic Cloud Computing](https://munin.uit.no/handle/10037/29389) |  
 | Asal Asgari		   | Master student	   | Thesis: Clustering of clinical multivariate time-series utilizing recent advances in machine-learning [Source code](https://github.com/asal97/DTE-3900-Master-Thesis) |

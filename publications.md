@@ -103,6 +103,8 @@ title: Publications
 2. Assessing health of a heart valve. UK patent application number 2217512.9.
 
 # Theses
+1. Elias Estefano Gutierrez Riise. [Improving automated underwater ship hull inspection through incremental learning & uncertainty quantiﬁcation in deep learning models](https://munin.uit.no/handle/10037/29562).  Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2023.
+1. Erling Devold. [Through Space and Time](https://munin.uit.no/handle/10037/29564).  Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2023.
 1. Mirza Aneeq Hassan Baig. [Tram-tastic Cloud Computing](https://munin.uit.no/handle/10037/29389). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. May 2023.
 2. Simen Lund Kirkvik. [Interactive visualizations of unstructured oceanographic data
 ](https://munin.uit.no/handle/10037/28856). Master's thesis. Dept. of Computer Science, UiT The Arctic University of Norway. February 2023.
@@ -152,6 +154,12 @@ title: Publications
 
 
 # Abstracts and Posters
+1. Ross, Theodor Anton; Pöntinen, Anna Kaarina; Janice, Jessin ; Holsbø, Einar;
+   Corander, Jukka; Hegstad, Kristin; Kampffmeyer, Michael. Leveraging machine
+   learning for finding novel putative virulence factors in Enterococcus
+   faecium. Poster. 6th Annual meeting National Graduate School in Infection
+   Biology and Antimicrobials, 2022. 
+1. Mathiesen, Ingeborg; Ross, Theodor Anton; Pöntinen, Anna Kaarina; Holsbø, Einar; Kampffmeyer, Michael; Johannessen, Mona; Hegstad, Kristin; Wagner, Theresa. Characterization of Putative Virulence Factors in Enterococcus faecium. Poster. 6th International Conference on Enterococci, 2023.
 1. Mehrdad Rakaee, Masoud Tafavvoghi, Elio Adib, Biagio Ricciuti, Joao Victor Machado Alessi, Alessio Cortellini, Claudia AM Fulgenzi et al. [Artificial intelligence algorithm developed to predict immune checkpoint inhibitors efficacy in non–small-cell lung cancer](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9132). (2023): 9132-9132.
 1. Anders Sildnes, Kajsa Møllersen, Lill-Tove Rasmussen Busund, Vi-Ngoc-Nha Tran, Thomas K Kilvær and Lars Ailo Bongo. Detecting overfitting for very-large pathology images. Poster. Visual Intelligence days 28.10.23. Oslo, Norway
 2. Møllersen, Kajsa, Lars Ailo Bongo, and Masoud Tafavvoghi. [Cancer detection for white urban Americans](https://munin.uit.no/handle/10037/30020). NORA Annual Conference 2023 05.06. - 06.06.23, Tromsø, Norway.
