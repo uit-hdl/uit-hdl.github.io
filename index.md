@@ -79,7 +79,7 @@ The lab currently consist of:
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
 | Nikita Shvetsov 	        | PhD student                 | SFI Visual Intelligence         |	[GitHub](https://github.com/nsh23), [Bitbucket](https://bitbucket.org/NikShvetsov/) |
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
-| Anders Sildnes            | PhD student                 | SFI Visual Intelligence         | - |
+| Anders Sildnes            | PhD student                 | SFI Visual Intelligence         | [Homepage](https://qwde.no/blog/), [Github](https://github.com/andsild/), [Gitlab](gitlab.com/andsild/), [LinkedIn](https://www.linkedin.com/in/anders-sildnes/) |
 | Belal Medhat              | PhD student                 | CANS                            | [Homepage](https://uit.no/ansatte/belal.m.abdalrheem), [GitHub](https://github.com/belalmedhat), [Google Scholar](https://scholar.google.com/citations?user=5lc1aTsAAAAJ&hl=en&oi=ao), [Linkedin](https://www.linkedin.com/in/belalmedhat/), and [ResearchGate](https://www.researchgate.net/profile/Belal-Medhat) |
 | Jieli Zhu                 | PhD student                 | Machine Learning in Ground Investigation                              | - |
 | Rigmor Katrine Johansen   | Affiliated PhD student      |	Biomedical ethics               | [Homepage](https://en.uit.no/ansatte/rigmor.k.johanse) |

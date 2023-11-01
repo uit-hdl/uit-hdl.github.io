@@ -102,3 +102,5 @@ Source code for our research projects (random order):
 55. [Troilkatt](https://github.com/larsab/troilkatt) is a system for scalable batch processing of biological data built on the hadoop stack.
 56. [BSV system](http://www.cs.uit.no/~larsab/bsv/) for scalable visualizations on multi-core and multi-display platforms. 
 <!-- Note! New projects are added to the top of the list. -->
+<!-- Anders -->
+999. [Qupath-Anno](https://github.com/uit-hdl/qupath-anno) conversion of image annotations from Domore dataset to and from qupath, a popular pathologist tool.

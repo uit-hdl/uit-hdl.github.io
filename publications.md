@@ -153,8 +153,10 @@ title: Publications
 
 # Abstracts and Posters
 1. Mehrdad Rakaee, Masoud Tafavvoghi, Elio Adib, Biagio Ricciuti, Joao Victor Machado Alessi, Alessio Cortellini, Claudia AM Fulgenzi et al. [Artificial intelligence algorithm developed to predict immune checkpoint inhibitors efficacy in non–small-cell lung cancer](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.9132). (2023): 9132-9132.
+1. Anders Sildnes, Kajsa Møllersen, Lill-Tove Rasmussen Busund, Vi-Ngoc-Nha Tran, Thomas K Kilvær and Lars Ailo Bongo. Detecting overfitting for very-large pathology images. Poster. Visual Intelligence days 28.10.23. Oslo, Norway
 2. Møllersen, Kajsa, Lars Ailo Bongo, and Masoud Tafavvoghi. [Cancer detection for white urban Americans](https://munin.uit.no/handle/10037/30020). NORA Annual Conference 2023 05.06. - 06.06.23, Tromsø, Norway.
 3. Asal Asgari, Helge Fredriksen and Ståle Haugset Nymo. Clustering clinical multivariate time-series with variable lengths and irregular sampling intervals. Poster at NORA Annual Conference 2023 05.06. - 06.06.23, Tromsø, Norway
+1. Anders Sildnes, Kajsa Møllersen, Lill-Tove Rasmussen Busund, Vi-Ngoc-Nha Tran, Thomas K Kilvær and Lars Ailo Bongo. Detecting overfitting for self-supervised learning with very-large pathology images. Poster. PRESIMAL 2023 14.05.23, Tromsø, Norway
 1. Rafael Adolfo Nozal Cañadas. Social network analysis of Staphylococcus aureus carriage in a general youth population. CANS day 23th of February 2023. Tromsø, Norway.
 3. Markus Tiller, Torgeir Brenn, Robert Jenssen, Lars Ailo Bongo. ShipPointYolo: End-to-end network for ship detection in SAR images. Poster. Visual Intelligence days. Oslo, 28.09.22
 4. Rigmor Katrine Johansen. GEN-Ethics: What do Norwegian women think of utilising genetic testing as part of breast cancer screening. 34th European conference
