@@ -39,7 +39,7 @@ title: Outreach
         
 # Panels
 1. Lars Ailo Bongo. Dual-use accelerator workshop. Kirkenes. 19.10.2023.
-2. Vi Ngoc-Nha Tran. Better Balance in Informatics. Tromsø. 21.10.2022.
+2. Vi Ngoc-Nha Tran. Better Balance in Informatics workshop. Tromsø. 21.10.2022.
 3. Lars Ailo Bongo. Founding an AI startup as an AI Researcher. NORA.startup workshop. Tromsø. 21.04.2022.
 4. Lars Ailo Bongo (moderator). Industry event. Northern Lights Deep Learning Conference 2022. Online. 10.01.2022.
 5. Lars Ailo Bongo. NORA.startup panel. NORA Annual Conference 2021. Bergen. 17.08.2021
