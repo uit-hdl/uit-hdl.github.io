@@ -56,7 +56,7 @@ We are building a dose design framework to identify the best treatment regimens 
 
 ## Monitoring Antimicrobial Susceptibility
 
-Monitoring antimicrobial susceptibility is a core element for the appropriate treatment of bacterial infections and the implementation of infection control measures. The project provide information on local, regional, or national resistance profiles and changes in MIC levels over time by continuous analysis of data from clinical samples from one laboratory or several laboratories.  
+Monitoring antimicrobial susceptibility is a core element for the appropriate treatment of bacterial infections and the implementation of infection control measures. The project provides information on local, regional, or national resistance profiles and changes in MIC levels over time by continuous analysis of data from clinical samples from one laboratory or several laboratories.  
 
 ## Machine Learning in Ground Investigation
 
