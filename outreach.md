@@ -7,24 +7,25 @@ title: Outreach
 1. Nikita Shvetsov, Elena Shvetsova, Christine Elseth. [ICE Kirkenes Hackathon 2023](https://www.kystutviklingssenter.no/nb/2023/10/10/arktisk-hackathon-i-kirkenes-18-20-oktober/) [Sundquist Challenge - In search for better management system](https://docs.google.com/presentation/d/1wid97NUGuiE0i8eqH9o1PkF4KjT4cZRzkhIkmXQbwQI/edit?usp=sharing). Kirkenes. 20.10.23.
 1. NORA.startup. [Generative Artificial Intelligence - a driver for innovation ](https://www.nora.ai/events/nora.startup-GAI.html). Tromsø. 17.10.23.
 1. Lars Ailo Bongo, Benjamin Ricaud. [IFI Innovation Day](https://www.facebook.com/uitinformatikk/posts/pfbid0y8MfxirPEXDGLHQDyKGXs1J4ThEXqyAEaVJHmzFJQdYctVACkHLJswVcJBxsNdqHl). Tromsø. 25.09.23
-2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://www.visual-intelligence.no/news/pitchday-2023). Tromsø, 29.03.23. 
-3. Hilde Sommerseth, Lars Ailo Bongo. Norwegian Historical Data Centre hackathon on automatic coding of burial records. Tromsø, April 25-26, 2022.
-4. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
-5. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
-6. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
-7. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
-8. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
-9. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
-10. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
-11. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
-12. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
-13. Edvard Pedersen. GirlTech. UitT 12.02.2020.
-14. Hilde Sommerseth, Lars Ailo Bongo. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
-15. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
-16. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
-17. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
-18. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
-19. Edvard Pedersen. Utforsk UiT. 16.09.2019.
+2. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://www.visual-intelligence.no/news/pitchday-2023). Tromsø, 29.03.23.
+3. Vi Ngoc-Nha Tran, Øyvind Hanssen. IFI PhD seminars. Tromsø. 10.05.2023 and 01.11.2022.
+4. Hilde Sommerseth, Lars Ailo Bongo. Norwegian Historical Data Centre hackathon on automatic coding of burial records. Tromsø, April 25-26, 2022.
+5. [Founding an AI startup as an AI Researcher](https://www.nora.ai/nora-startup/video/founding-an-ai-startup-as-an-ai-researcher/). NORA.startup workshop. Tromsø. April 21st, 2022.
+6. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day](https://uit.no/tavla/artikkel?p_document_id=769268). Tromsø, March 23rd, 2022.
+7. Lars Ailo Bongo, Dominic Riley. Digital Technology Innovation Lab workshop. SFI Visual Intelligence. Tromsø. 07.09.21.
+8. Lars Ailo Bongo, Dominic Riley. IFI Innovation Day. Tromsø. 26.08.21
+9. [VI workshop 2021 #2 - Using sensitive data in Visual Intelligence](https://www.visual-intelligence.no/event/vi-workshop-2021-2-use-of-sensitive-data-in-visual-intelligence), Online, March 12, 2021.
+10. Einar Holsbø. [Version control workshop.](/pdfs/251120_version_control.pdf) Tromsø. November 25th, 2020.
+11. Edvard Pedersen. Lærerkurs Air:bit. UiT. 12-13.11.2020.
+12. Edvard Pedersen. Lærerkurs programmering - Alta VGS. 15.10.2020.
+13. Edvard Pedersen. Lærerkurs programmering. UiT. 27 and 31.02.2020.
+14. Edvard Pedersen. GirlTech. UitT 12.02.2020.
+15. Hilde Sommerseth, Lars Ailo Bongo. Registry of Historical Data on Microsoft Azure. Hackathon. Tromsø. January 2020.
+16. Edvard Pedersen. Girl day in Tech. UiT. 12.12.2019.
+17. Edvard Pedersen. Lærerkurs programmering. UiT. 19-20.11.2019.
+18. Edvard Pedersen. Lærerkurs Air:bit. UiT. 30-31.10.2019.
+19. Edvard Pedersen. GirlTech. UiT. 24.09.2019.
+20. Edvard Pedersen. Utforsk UiT. 16.09.2019.
 21. Edvard Pedersen. Lærerkurs programmering. UiT. 16.08.2019.
 22. [Metagenomics data analysis.](https://www.csc.fi/web/training/-/metagenomics). Workshop. 3-6 April, 2017. Helsinki, Finland. [Videos of presentations](https://www.youtube.com/playlist?list=PLjiXAZO27elBa5zGKCpwvRXxx-kF52Iuf). 
 23. Introduction to R. Workshop. Tromsø, Norway. June 2016.
@@ -38,16 +39,18 @@ title: Outreach
         
 # Panels
 1. Lars Ailo Bongo. Dual-use accelerator workshop. Kirkenes. 19.10.2023.
-2. Lars Ailo Bongo. Founding an AI startup as an AI Researcher. NORA.startup workshop. Tromsø. 21.04.2022.
-3. Lars Ailo Bongo (moderator). Industry event. Northern Lights Deep Learning Conference 2022. Online. 10.01.2022.
-4. Lars Ailo Bongo. NORA.startup panel. NORA Annual Conference 2021. Bergen. 17.08.2021
+2. Vi Ngoc-Nha Tran. Better Balance in Informatics. Tromsø. 21.10.2022.
+3. Lars Ailo Bongo. Founding an AI startup as an AI Researcher. NORA.startup workshop. Tromsø. 21.04.2022.
+4. Lars Ailo Bongo (moderator). Industry event. Northern Lights Deep Learning Conference 2022. Online. 10.01.2022.
+5. Lars Ailo Bongo. NORA.startup panel. NORA Annual Conference 2021. Bergen. 17.08.2021
         
 # Talks
 <!-- Reverse order -->
 0. Masoud Tafavvoghi, Lars Ailo Bongo, Lill-Tove Rasmussen Busund, Kajsa Møllersen. Publicly available datasets of breast 
 histopathology whole-slide images for deep learning use". Presentation at Breast cancer network seminar, Tromsø, Norway, 2022.
-1. Helge Fredriksen. Approaching adverse event detection utilizing transformers on clinical time-series. Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
-2. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models Presentation at AISoLA.  26.10.23, Crete.
+<!-- Vi Ngoc-Nha Tran. Health Technology research and its applications. [The North-Norwegian and European Days] (https://www.northnorway.org/nordnorske-europadager/tromso-programbeskrivelse/), Tromsø. 02.11.2023 -->
+2. Helge Fredriksen. Approaching adverse event detection utilizing transformers on clinical time-series. Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
+3. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models Presentation at AISoLA.  26.10.23, Crete.
 1. Lars Ailo Bongo. [Hvordan er språkmodeller som ChatGPT bygget opp og hva kan de brukes til](https://docs.google.com/presentation/d/1zByLxmlXKEjxert_3x1EKkh8fM3yrVwJS9ojHz5-BKY/edit#slide=id.p1). ITA fagdager. UiT, Tromsø. 26.10.23.
 2. Lars Ailo Bongo. Student entreprenørskap @ UiT. Innovation Norway dialog meeting. Kirkenes. 20.10.23.
 3. Lars Ailo Bongo. [Jierpmálaš giellateknologiija](https://docs.google.com/presentation/d/16JF_Eia1Y9hbMUwxbJgPqnxIz5xN8iCwYrR6rFUoiXY/edit#slide=id.p1). SFS jahkečoahkkin, 14.10.23. Romsa.
