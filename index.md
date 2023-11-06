@@ -48,7 +48,7 @@ The [Norwegian Historical Data Centre](http://www.rhd.uit.no/) is responsible fo
 
 ## air:bit
 
-In the [air:bit](http://airbit.uit.no/) air pollution project we have developed educational projects for use in Norwegian High Schools. This work is done in collaboration with [Skolelaboratoriet i realfag og teknologi](https://uit.no/skolelab) at UiT. We provide build instructions, programming guides, and a portal for data analysis and [live visualization](http://airbit.uit.no/live). Air:bit has been used by 13 high-school classes in Northern Norway. 
+In the [air:bit](http://www.luft.cs.uit.no/) air pollution project we have developed educational projects for use in Norwegian High Schools. This work is done in collaboration with [Skolelaboratoriet i realfag og teknologi](https://uit.no/skolelab) at UiT. We provide build instructions and programming guides. Air:bit has been used by 13 high-school classes in Northern Norway.
 
 ## Large antibiotic dosing regimen simulations
 
@@ -75,7 +75,7 @@ The lab currently consist of:
 | Helge Fredriksen          | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=445127) and [GitHub](https://github.com/helgeingvart)|
 | Henrik Løvold             | Assistant Professor         | Co-PI                           | [Homepage](https://uit.no/ansatte/henrik.h.lovold) and [GitHub](https://github.com/henriklovold) |
 | Aakash Sharma             | Researcher                  | AI4Europe                       | - |
-| Morten Grønnesby          | PhD student                 | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
+| Morten Grønnesby          | Assistant Professor         | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
 | Nikita Shvetsov 	        | PhD student                 | SFI Visual Intelligence         |	[GitHub](https://github.com/nik-shvetsov), [Bitbucket](https://bitbucket.org/NikShvetsov), [LinkedIn](https://www.linkedin.com/in/nikita-shvetsov/)  |
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
@@ -100,6 +100,7 @@ The lab currently consist of:
 | Mohammad Zahirul Islam    | Master student              | -                               | - |
 | Thomas Eide               | Master student              | Didactics of Computer Science   | - |
 | Zulfiqar Ali              | Master student              | Norwegian medical texts         | - |
+| Thea Ueland               | Affiliated Master student   | Capia                           | - |
 
 Former lab members are:
 
