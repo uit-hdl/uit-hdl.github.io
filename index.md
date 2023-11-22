@@ -71,7 +71,7 @@ The lab currently consist of:
 | Lars Ailo Bongo           |	Professor                 |	Principal investigator      | [Homepage](http://www.cs.uit.no/~larsab), [GitHub](https://github.com/larsab), and [Bitbucket](https://bitbucket.org/larsab) |
 | Edvard Pedersen           |	Associate Professor       | Co-PI                         | [Homepage](https://en.uit.no/ansatte/edvard.pedersen) and [GitHub](https://github.com/EdvardPedersen) |
 | Einar Holsbø              | Associate Professor 	      | Co-PI                           | [Homepage](http://3inar.github.io/) and [GitHub](https://github.com/3inar) |
-| Vi Tran                   | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=353997) and [GitHub](https://github.com/vitrannn)|
+| Vi Ngoc-Nha Tran                   | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=353997) and [GitHub](https://github.com/vitrannn)|
 | Helge Fredriksen          | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=445127) and [GitHub](https://github.com/helgeingvart)|
 | Henrik Løvold             | Assistant Professor         | Co-PI                           | [Homepage](https://uit.no/ansatte/henrik.h.lovold) and [GitHub](https://github.com/henriklovold) |
 | Aakash Sharma             | Researcher                  | AI4Europe                       | - |
