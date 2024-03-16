@@ -3,6 +3,7 @@ title: Outreach
 ---
 
 # Workshops, hackathons, and other events
+1. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day]([https://www.visual-intelligence.no/news/pitchday-2024](https://uit-dtil.github.io/pitch-day2024.html). Tromsø, 14.03.24.
 1. Henrik Løvold. Kurs i naturvitenskapelig programmering for lærere i den videregående skolen, fire heldagssamlinger med Vitensenteret og ILP. Tromsø. 2022-2023.
 2. Morten Grønnesby. Utvikling av ny [Air:Bit](www.luft.cs.uit.no). Tromsø. 2022-2023.
 3. Nikita Shvetsov, Elena Shvetsova, Christine Elseth. [ICE Kirkenes Hackathon 2023](https://www.kystutviklingssenter.no/nb/2023/10/10/arktisk-hackathon-i-kirkenes-18-20-oktober/) [Sundquist Challenge - In search for better management system](https://docs.google.com/presentation/d/1wid97NUGuiE0i8eqH9o1PkF4KjT4cZRzkhIkmXQbwQI/edit?usp=sharing). Kirkenes. 20.10.23.
@@ -48,8 +49,11 @@ title: Outreach
         
 # Talks
 <!-- Reverse order -->
-0. Masoud Tafavvoghi, Lars Ailo Bongo, Lill-Tove Rasmussen Busund, Kajsa Møllersen. Publicly available datasets of breast 
-histopathology whole-slide images for deep learning use". Presentation at Breast cancer network seminar, Tromsø, Norway, 2022.
+1. Lars Ailo Bongo. *Sámi AI*. Prestvannet skole. 16.02.24 and 23.02.24.
+1. Lars Ailo Bongo. [AI fra og for Nord-Norge](https://docs.google.com/presentation/d/1j6a-Sx-UgRyWVk2JC-LO5IgmwhyLJXQpWKpJXOkH1Go/edit#slide=id.p1). ICE Innovation festival, 11.01.24. Kirkenes Norway.
+2. Jan Onarheim and Lars Ailo Bongo. Tanker om entreprenørskap og utdanning i og utenfor boksen. ICE Innovation festival, 11.01.24. Kirkenes Norway.
+3. Lars Ailo Bongo. Hva er samisk kunstig intelligens og hvordan kan vi bygge det?. IDIL 2022-2043 webinar. 04.12.23. Online.
+4. Lars Ailo Bongo. AI & Innovasjon i Arktis. Innovasjon Norge webinar. 03.11.23. Online.
 1. Helge Fredriksen. [Approaching adverse event detection utilizing transformers on clinical time-series](https://drive.google.com/file/d/1SWLjajjwF1WngNWXsG015hk1S2nKJLoN/view?usp=drive_link) Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
 2. Vi Ngoc-Nha Tran. Health Informatics Research and Its Applications-Our approach to address Antibiotic Resistance challenges. The North Norwegian and European Days. 02.11.2023, Tromsø.
 3. Bjørn-Richard Pedersen, Maisha Islam, Lars Ailo Bongo, Eilidh Garrett, Alice Reid, Hilde Sommerseth. Coding historical causes of death data with Large Language Models Presentation at AISoLA.  26.10.23, Crete.
@@ -70,7 +74,8 @@ histopathology whole-slide images for deep learning use". Presentation at Breast
 12. Helge Fredriksen. [Clustering multivariate time series: The case of sparsly sampled series at irregular time-intervals.](https://drive.google.com/file/d/1uwiDH7_rcJBacXIto11zv9O8bWSWS__9/view?usp=sharing) Guest lecture at Applied Data Science Park at FH Salzburg, 29.03.2022, Salzburg, Austria.
 13. Lars Ailo Bongo. Fra student til sjef i egen bedrift. UiT åpen dag. 02.03.2023
 14. Lars Ailo Bongo. [AI for bedre helse: Hvordan kunstig intelligens revolusjonerer medisin og helsevesenet](https://docs.google.com/presentation/d/16FAE1Kyvld6pf_0n3dRHI9okqJePhNu1_qAJDoVSjrU/edit#slide=id.g20801c38be4_0_422). (Canceled talk) at Vinterlys, Mo i Rana, 15.02.23.
-15. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
+15. 0. Masoud Tafavvoghi, Lars Ailo Bongo, Lill-Tove Rasmussen Busund, Kajsa Møllersen. Publicly available datasets of breast  histopathology whole-slide images for deep learning use". Presentation at Breast cancer network seminar, Tromsø, Norway, 2022.
+16. Nikita Shvetsov. Nordic AI Meet. [Fast tumor infiltrating lymphocytes
 assessment in whole slide images](https://drive.google.com/file/d/1XQQ7pqAnHwULjXy65uFzHExaQLlFDUEI/view?usp=sharing) Oslo, 14.11.2022.
 138. Lars Ailo Bongo. [Medical machine learning: from basic research to startups](https://docs.google.com/presentation/d/1KY9qnmAOVb1lm_MTaN2_SySTROu4hU5d26IwXX_ODDk/edit#slide=id.p1). NORWAI & NAIL seminar series. 01.11.2022. Trondheim, Norway.
 137. Lars Ailo Bongo. [Startups innen AI basert helseteknologi – fra en forskers perspektiv](https://docs.google.com/presentation/d/1jlo_pavbN53VdsfW0ql8fwLueXZzCuMBvmdXoO_dP8o/edit#slide=id.p1). Arctic Innovation Week. Tromsø, 19.10.22.
