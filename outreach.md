@@ -34,6 +34,7 @@ title: Outreach
 28. Introduction to R. Workshop. Tromsø, Norway. June 2016.
 
 # Webinars
+1. Lars Ailo Bongo. [Kunstig intelligens til Sápmis beste](https://ehealthresearch.no/nyheter/2024/kunstig-intelligens-til-sapmis-beste). Nasjonalt senter for e-helseforskning webinarserie om kunstig intelligens. 23.02.24.
 1. Per Niklas Waaler, Lars Ailo Bongo, Ingrid Skjæveland. [Algorithm for predicting valvular heart disease from heart sounds in an unselected cohort - From research project to patent and beyond](https://www.visual-intelligence.no/event/vi-seminar-31-algorithm-for-predicting-valvular-heart-disease-from-heart-sounds). Visual Intelligence Seminar. 08.12.23. 
 1. Lars Ailo Bongo. [Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23b50b8e-a89e-4e4d-99a5-ae6900d5e68d). Innovasjonsfrokost: Virkemidler for innovasjon og kommersialisering ved UiT. March 31st, 2022.
 2. Lars Ailo Bongo. [Taking the Leap: From Researcher to Entrepreneur](https://www.nora.ai/nora-startup/video/nora.startup-webinar-commercialising-research.mp4?vrtx=view-as-webpage). NORA.startup webinar. 10.12.2021.
@@ -50,9 +51,12 @@ title: Outreach
 # Talks
 <!-- Reverse order -->
 1. Lars Ailo Bongo. *Sámi AI*. Prestvannet skole. 16.02.24 and 23.02.24.
+2. Lars Ailo Bongo. [Sámi AI Lab](https://docs.google.com/presentation/d/10HAWCQg-qWSk9_tCX_CxoJiBsId5nXITD_15AdIHoow/edit#slide=id.p1). Sápmi og UiT – Sápmi ja UiT. UiT, Tromsø, Norway. 06.02.24.
+3. Lars Ailo Bongo. [Sámi AI Lab launch](https://docs.google.com/presentation/d/1eNyQZYE4CRlxIjER7IDEvWlDvjtU6MqjpJd73p0yBJA/edit#slide=id.p1). Sámi allaskuvla. Guovdageaidnu, Norway. 05.02.24.
+5. Lars Ailo Bongo. [Right to be forgotten](https://docs.google.com/presentation/d/18fdN7ltQ2egwR3DVP6bDFmXn8fw-s2jVuPabYC9gkPc/edit#slide=id.p1). Samediggi. 02.02.24. Online.
 1. Lars Ailo Bongo. [AI fra og for Nord-Norge](https://docs.google.com/presentation/d/1j6a-Sx-UgRyWVk2JC-LO5IgmwhyLJXQpWKpJXOkH1Go/edit#slide=id.p1). ICE Innovation festival, 11.01.24. Kirkenes Norway.
-2. Jan Onarheim and Lars Ailo Bongo. Tanker om entreprenørskap og utdanning i og utenfor boksen. ICE Innovation festival, 11.01.24. Kirkenes Norway.
-3. Lars Ailo Bongo. Hva er samisk kunstig intelligens og hvordan kan vi bygge det?. IDIL 2022-2043 webinar. 04.12.23. Online.
+2. Jan Onarheim and Lars Ailo Bongo. *Tanker om entreprenørskap og utdanning i og utenfor boksen*. ICE Innovation festival, 11.01.24. Kirkenes, Norway.
+3. Lars Ailo Bongo. [Hva er samisk kunstig intelligens og hvordan kan vi bygge det?](https://docs.google.com/presentation/d/11KCsXc4tUuCtnNqgrKkszTjfITXydJEheX61oRE3cs8/edit#slide=id.p1). IDIL 2022-2043 webinar. 04.12.23. Online.
 4. Lars Ailo Bongo. AI & Innovasjon i Arktis. Innovasjon Norge webinar. 03.11.23. Online.
 1. Helge Fredriksen. [Approaching adverse event detection utilizing transformers on clinical time-series](https://drive.google.com/file/d/1SWLjajjwF1WngNWXsG015hk1S2nKJLoN/view?usp=drive_link) Guest Lecture for the Machine Learning Group at University of Aalborg. 01.11.2023
 2. Vi Ngoc-Nha Tran. Health Informatics Research and Its Applications-Our approach to address Antibiotic Resistance challenges. The North Norwegian and European Days. 02.11.2023, Tromsø.
