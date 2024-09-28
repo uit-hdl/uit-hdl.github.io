@@ -76,6 +76,7 @@ The lab currently consist of:
 | Henrik Løvold             | Assistant Professor         | Co-PI                           | [Homepage](https://uit.no/ansatte/henrik.h.lovold) and [GitHub](https://github.com/henriklovold) |
 | Aakash Sharma             | Researcher                  | AI4Europe                       | - |
 | Morten Grønnesby          | Assistant Professor         | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
+| Jakob Peder Pettersen     | Postdoc | CANS                          | [Homepage](https://uit.no/ansatte/jakob.p.pettersen) and [GitHub](https://github.com/yaccos) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
 | Nikita Shvetsov 	        | PhD student                 | SFI Visual Intelligence         |	[GitHub](https://github.com/nik-shvetsov), [Bitbucket](https://bitbucket.org/NikShvetsov), [LinkedIn](https://www.linkedin.com/in/nikita-shvetsov/)  |
 | Pavitra Chauhan           | PhD student                 | Synthetic data                  | - | 
