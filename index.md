@@ -74,7 +74,7 @@ The lab currently consist of:
 | Vi Ngoc-Nha Tran                   | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=353997) and [GitHub](https://github.com/vitrannn)|
 | Helge Fredriksen          | Associate Professor         | Co-PI                           | [Homepage](https://en.uit.no/ansatte/person?p_document_id=445127) and [GitHub](https://github.com/helgeingvart)|
 | Henrik Løvold             | Assistant Professor         | Co-PI                           | [Homepage](https://uit.no/ansatte/henrik.h.lovold) and [GitHub](https://github.com/henriklovold) |
-| Aakash Sharma             | Researcher                  | AI4Europe                       | - |
+| Aakash Sharma             | Researcher                  | AI4Europe                       | [Homepage](https://lohpi.com) |
 | Morten Grønnesby          | Assistant Professor         | NOWAC                           | [Homepage](https://gronnesby.github.io/) and [GitHub](https://github.com/gronnesby) |
 | Jakob Peder Pettersen     | Postdoc | CANS                          | [Homepage](https://uit.no/ansatte/jakob.p.pettersen) and [GitHub](https://github.com/yaccos) |
 | Rafael Nozal Cañadas      | PhD student                 | Population studies in the north | [GitHub](https://github.com/rafanozal) |
