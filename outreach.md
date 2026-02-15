@@ -5,7 +5,7 @@ title: Outreach
 # Workshops, hackathons, and other events
 1. Lars Ailo Bongo, Benjamin Ricaud. [Industry pitch day]([https://www.visual-intelligence.no/news/pitchday-2024](https://uit-dtil.github.io/pitch-day2024.html). Tromsø, 14.03.24.
 1. Henrik Løvold. Kurs i naturvitenskapelig programmering for lærere i den videregående skolen, fire heldagssamlinger med Vitensenteret og ILP. Tromsø. 2022-2023.
-2. Morten Grønnesby. Utvikling av ny [Air:Bit](www.luft.cs.uit.no). Tromsø. 2022-2023.
+2. Morten Grønnesby. Utvikling av ny [Air:Bit](www.airbit.uit.no). Tromsø. 2022-2023.
 3. Nikita Shvetsov, Elena Shvetsova, Christine Elseth. [ICE Kirkenes Hackathon 2023](https://www.kystutviklingssenter.no/nb/2023/10/10/arktisk-hackathon-i-kirkenes-18-20-oktober/) [Sundquist Challenge - In search for better management system](https://docs.google.com/presentation/d/1wid97NUGuiE0i8eqH9o1PkF4KjT4cZRzkhIkmXQbwQI/edit?usp=sharing). Kirkenes. 20.10.23.
 4. NORA.startup. [Generative Artificial Intelligence - a driver for innovation ](https://www.nora.ai/events/nora.startup-GAI.html). Tromsø. 17.10.23.
 5. Lars Ailo Bongo, Benjamin Ricaud. [IFI Innovation Day](https://www.facebook.com/uitinformatikk/posts/pfbid0y8MfxirPEXDGLHQDyKGXs1J4ThEXqyAEaVJHmzFJQdYctVACkHLJswVcJBxsNdqHl). Tromsø. 25.09.23
